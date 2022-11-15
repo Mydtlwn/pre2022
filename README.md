@@ -42,3 +42,4 @@ BQ.1.1.14
 XAY.1.1
 BE.9
 #1341
+The sub-strains of BW.1 in question #1343 have great advantages, although the advantages are not too great compared with some strains.
