@@ -19,6 +19,8 @@ BF.7.5.1
 BF.7.4.1
 BF.7.13.1
 BF.7.13.2
+BE.9
+XAY.1.1
 BE.5
 BE.6
 BE.7
@@ -38,9 +40,13 @@ CK.2
 XBB.1.4
 BF.7.4
 BF.7.5
-BQ.1.1.14
-XAY.1.1
-BE.9
+BF.7
+BF.26        with
+BF.26
+Ba.5.1.6     with
+Ba.5.2.6     with
+
+
 #1341
 The sub-strains of BW.1 in question #1341 have great advantages, although the advantages are not too great compared with some strains.
 #1343
