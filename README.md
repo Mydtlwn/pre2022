@@ -4,7 +4,7 @@ Prediction：：//
 To predict the impact of multiple recombination and recombination mutant strains on the epidemic situation in COVID-19. At present, the risk of multiple recombination strains composed of multiple strains and the strains recombined with two recombination strains is increasing. It will not be ruled out in the future that the epidemic situation will be difficult to prevent and control again because of mixed strains. Relevant institutions should focus on strengthening the enthusiasm of sequencing.
 #704 705 708 71 80，182，184，187，505
 147，182，187，251，252，253，254，255，256，257
-345，346，348，444，445，446，452，453，454，468，486，480，484，489，493，495，496，498
+345，346，348，376，378，444，445，446，452，453，454，468，486，480，484，489，493，495，496，498
 1050，1090，1101，1264       ?574
 CM.8.1
 XBB.4.1
