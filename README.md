@@ -6,7 +6,7 @@ To predict the impact of multiple recombination and recombination mutant strains
 
 Ba.5.2   with   C8950T+G21786T+T11075C
 
-
+Hyperrecombination phenomenon
 
 #704 705 708 71 80，182，184，187，505
 147，182，187，251，252，253，254，255，256，257
