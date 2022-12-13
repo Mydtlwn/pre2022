@@ -18,6 +18,8 @@ Catalytic gain locus
 1050，1090，1101，1162,1264       ?574
 CM.8.1
 XBB.4.1
+CH.1.1.1
+DJ.1.1
 XBB.5
 XBB.1.5
 BQ.1.1.25
@@ -38,6 +40,7 @@ BE.5
 BE.6
 BE.7
 BE.8
+CV.2
 CV.1
 BF.7.4.2
 BF.7.13
@@ -54,6 +57,7 @@ XBB.1.4
 BF.7.4
 BF.7.5
 BF.7
+CH.3 with
 BF.26        with
 BF.26
 Ba.5.1.6     with
