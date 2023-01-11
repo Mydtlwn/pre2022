@@ -20,6 +20,10 @@ Catalytic gain locus
 1050，1090，1101，1162,1264       ?574
 
 XBB.1.9.1
+XBL
+CM.11
+DT.1
+XBM
 CM.8.1
 XBB.4.1
 CH.1.1.1
