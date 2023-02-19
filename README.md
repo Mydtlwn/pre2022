@@ -21,6 +21,7 @@ Catalytic gain locus
 
 XBB.1.11.1
 XBB.1.9.1
+EC.1.1
 BQ.1.1.41
 XBL
 CM.11
@@ -67,6 +68,7 @@ CK.2.1.1
 CK.2.1
 CK.2
 XBB.1.4
+DY.1.1
 BF.7.4
 BF.7.5
 BF.7
