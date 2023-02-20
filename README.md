@@ -1,4 +1,4 @@
-1# pre2022After
+81# pre2022After
 pre2022After
 Prediction：：//
 To predict the impact of multiple recombination and recombination mutant strains on the epidemic situation in COVID-19. At present, the risk of multiple recombination strains composed of multiple strains and the strains recombined with two recombination strains is increasing. It will not be ruled out in the future that the epidemic situation will be difficult to prevent and control again because of mixed strains. Relevant institutions should focus on strengthening the enthusiasm of sequencing.
@@ -18,7 +18,7 @@ Catalytic gain locus
 472,474,475,476,477,479,486，480，484，489，493，495，496，498
 851,852, 853 856,857,859,883,886,889
 1050，1090，1101，1162,1264       ?574
-
+EK.1
 XBB.1.11.1
 XBB.1.9.1
 EC.1.1
