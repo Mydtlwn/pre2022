@@ -54,7 +54,7 @@ S:{
 290_299:299(T=>I)
 240_249:247(S=>N)
         248(Y=>S,Y=>H，Y=>D)
-        ins248:{KWLD,AED,RWMD}
+        ins248:{KWLD,AED,RWMD,YSSEN}
         240（T=>I）
         244(=Del,L=>Del)
         245(H=>F)
