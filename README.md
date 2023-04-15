@@ -89,4 +89,4 @@ Ba.5.2.6     with
 
 
 #1341
-The sub-strains of BW.1 in question #1341 have great advantages, although the ad
+ #1341 have great advantages, although the ad
