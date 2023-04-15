@@ -81,8 +81,6 @@ DY.1.1
 BF.7.4
 BF.7.5
 BF.7
-CH.3 with
-BF.26        with
 BF.26
 Ba.5.1.6     with
 Ba.5.2.6     with
