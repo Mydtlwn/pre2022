@@ -82,9 +82,4 @@ BF.7.4
 BF.7.5
 BF.7
 BF.26
-Ba.5.1.6     with
-Ba.5.2.6     with
 
-
-#1341
- #1341 have great advantages, although the ad
