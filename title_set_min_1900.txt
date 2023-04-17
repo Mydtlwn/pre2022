@@ -46,7 +46,7 @@
                "title":{
                   "0":"BA.4.1.9 with S:P337S, S:L938F, S1239T(6 seq. Spain)"
     }          "base":"Ba.4.1.9",
-               "mutations":["S:P337S","S:L938F"]
+               "mutations":["S:P337S","S:L938F","S:S1239T"]
                "type":"",
   }
 
