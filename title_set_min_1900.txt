@@ -21,7 +21,8 @@
         "1902":{
                "openTime":"2023.04.17"
                "title":{
-                   "0":""
+                   "0":"XBB.2.3.3 with S:M153I in Europe and USA (11 seqs, 5 countries) ",
+
     }
   }
 
