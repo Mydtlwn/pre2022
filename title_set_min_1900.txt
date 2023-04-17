@@ -5,6 +5,6 @@
               "stopCloseTime":"",
   }
         "1900":{
-               "openTime"
+               "openTime":"2023.04.17"
   }
 }
