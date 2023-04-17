@@ -11,4 +11,9 @@
     }          "base":"XBB.1.16",
                "mutations":"S:Q146K"
   }
+        "1901":{
+               "openTime":"2023.04.17"
+               "title":{
+  }
+
 }
