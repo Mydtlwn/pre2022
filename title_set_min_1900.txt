@@ -44,7 +44,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"BA.4.1.9 with S:P337S, S:L938F, S1239T(6 seq. Spain)"
     }          "base":"",
                "mutations":""
                "type":"",
