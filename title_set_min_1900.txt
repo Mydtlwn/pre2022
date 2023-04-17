@@ -1,5 +1,9 @@
 "title":{
-        "model
+        "model":{
+              "openTime":"",
+              "closeTime":"",
+              "stopCloseTime":"",
+  }
         "1900":{
                "openTime"
   }
