@@ -7,4 +7,5 @@
                   "0":""
     }          "base":"",
                "mutations":""
+               "type":"",
   }
