@@ -1,5 +1,5 @@
 "1900":{
-               "openTime":"2023.04.17"
+               "openTime":"2023.XX.XX"
                "title":{
                   "0":""
     }          "base":"",
