@@ -33,7 +33,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"XBB.1.16 sublineage with S:T678I - 34 seqs"
     }          "base":"",
                "mutations":""
                "type":"",
