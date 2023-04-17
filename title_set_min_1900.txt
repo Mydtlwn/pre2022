@@ -34,8 +34,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.16 sublineage with S:T678I - 34 seqs"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.16",
+               "mutations":"S:T678I"
                "type":"",
   }
       "1904":{
