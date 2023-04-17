@@ -1,5 +1,6 @@
 "1900":{
                "openTime":"2023.XX.XX"
+               "openCount":""
                "title":{
                   "0":""
     }          "base":"",
