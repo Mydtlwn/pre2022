@@ -24,6 +24,7 @@
                "title":{
                    "0":"XBB.2.3.3 with S:M153I in Europe and USA (11 seqs, 5 countries) ",
                "base":"XBB.2.3.3"
+               "mutations":"S:M153I"
     }
   }
 
