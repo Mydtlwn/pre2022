@@ -3,5 +3,6 @@
     "S:R346T":1,
     "M:E11Q":1,
     "Mix_S:R346T,M:E11Q":1,
+    "S:M153I":1,
 }
 subLineages
