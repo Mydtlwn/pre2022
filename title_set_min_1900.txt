@@ -16,13 +16,14 @@
                "title":{
                    "0":"CM.8.1.1 with S:R346T and M:E11Q (9 seqs as of 2023-04-17, multiple Asian countries) "
                "base":"CM.8.1.1"
+               
     }
   }
         "1902":{
                "openTime":"2023.04.17"
                "title":{
                    "0":"XBB.2.3.3 with S:M153I in Europe and USA (11 seqs, 5 countries) ",
-               "base":""
+               "base":"XBB.2.3.3"
     }
   }
 
