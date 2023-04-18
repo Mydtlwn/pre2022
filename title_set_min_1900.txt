@@ -105,7 +105,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"New XBB.1 + Orf8:G8* sublineage with S:F486P spreading in India (Gujarat) and England 42 sequences"
     }          "base":"",
                "mutations":""
                "type":"",
