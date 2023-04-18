@@ -60,6 +60,17 @@
                "mutations":""
                "type":"del",
   }
+       "1906":{
+               "openTime":"2023.04.18"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"Mostly European XBB.1.5* sublineage with S:146K and S:177I"
+    }          "base":"XBB.1.5",
+               "mutations":""
+               "type":"",
+  }
 
 
 
