@@ -1,1 +1,2 @@
 CH.1.1 ist in letzter Zeit in einigen Ländern wieder aufgetaucht, was auf mehrere Szenarien zurückzuführen ist: erstens auf eine Reparatur einer falschen Klassifizierung, zweitens auf eine interne Mutation und drittens auf eine Rekombination mit einem anderen Stamm.
+Recent development of sub-strains of XBB.1.5, first order with XBB.1.5.15, XBB.1.5.1,XBB.1.5.20,XBB.1.5.13,XBB.1.5.16
