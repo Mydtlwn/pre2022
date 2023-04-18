@@ -76,7 +76,7 @@
                "type":"",
   }
        "1907":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
                "closeType":"",
@@ -88,7 +88,7 @@
                "type":"",
   }
        "1908":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
                "closeType":"",
@@ -100,7 +100,7 @@
                "type":"",
   }
      "1909":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
                "closeType":"",
