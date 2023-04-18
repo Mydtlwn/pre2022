@@ -81,7 +81,8 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":"Potentially Interesting Lineage of XBB.1.5 with S:K356T, S:T572I, ORF3a:S92L circulating in North America"
+                  "0":""
+                  "1":"Potentially Interesting Lineage of XBB.1.5 with S:K356T, S:T572I, ORF3a:S92L circulating in North America"
     }    
                "base":"XBB.1.5",
                "mutations":["S:K356T","S:T572I","ORF3a:S92L"]
