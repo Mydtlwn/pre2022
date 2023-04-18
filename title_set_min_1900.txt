@@ -83,7 +83,7 @@
                "title":{
                   "0":"Potentially Interesting Lineage of XBB.1.5 with S:K356T, S:T572I, ORF3a:S92L circulating in North America"
     }    
-               "base":"",
+               "base":"XBB.1.5",
                "mutations":""
                "type":"",
   }
@@ -96,7 +96,7 @@
                   "0":"XBB.1.32 with S:Y453F and multiple AA substitutions likely circulating in Davao Philippines - 10 sequences"
     }          
                "base":"XBB.1.32",
-               "mutations":""
+               "mutations":"S:Y453F"
                "type":"",
   }
      "1909":{
