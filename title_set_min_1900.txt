@@ -95,7 +95,7 @@
                "title":{
                   "0":"XBB.1.32 with S:Y453F and multiple AA substitutions likely circulating in Davao Philippines - 10 sequences"
     }          
-               "base":"",
+               "base":"XBB.1.32",
                "mutations":""
                "type":"",
   }
@@ -106,7 +106,7 @@
                "closeType":"",
                "title":{
                   "0":"New XBB.1 + Orf8:G8* sublineage with S:F486P spreading in India (Gujarat) and England 42 sequences"
-    }          "base":"",
+    }          "base":"XBB.1",
                "mutations":""
                "type":"",
   }
