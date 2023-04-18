@@ -49,6 +49,17 @@
                "mutations":["S:P337S","S:L938F","S:S1239T"]
                "type":"",
   }
+       "1905":{
+               "openTime":"2023.04.18"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"del",
+  }
 
 
 
