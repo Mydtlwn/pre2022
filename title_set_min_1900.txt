@@ -34,7 +34,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.16 sublineage with S:T678I - 34 seqs"
-    }          "base":"XBB.1.16",
+    }          
+               "base":"XBB.1.16",
                "mutations":"S:T678I"
                "type":"",
   }
@@ -45,7 +46,8 @@
                "closeType":"",
                "title":{
                   "0":"BA.4.1.9 with S:P337S, S:L938F, S1239T(6 seq. Spain)"
-    }          "base":"Ba.4.1.9",
+    }          
+               "base":"Ba.4.1.9",
                "mutations":["S:P337S","S:L938F","S:S1239T"]
                "type":"",
   }
@@ -56,7 +58,8 @@
                "closeType":"",
                "title":{
                   "0":""
-    }          "base":"",
+    }          
+               "base":"",
                "mutations":""
                "type":"del",
   }
@@ -67,7 +70,8 @@
                "closeType":"",
                "title":{
                   "0":"Mostly European XBB.1.5* sublineage with S:146K and S:177I"
-    }          "base":"XBB.1.5",
+    }          
+               "base":"XBB.1.5",
                "mutations":""
                "type":"",
   }
@@ -78,7 +82,8 @@
                "closeType":"",
                "title":{
                   "0":"Potentially Interesting Lineage of XBB.1.5 with S:K356T, S:T572I, ORF3a:S92L circulating in North America"
-    }          "base":"",
+    }    
+               "base":"",
                "mutations":""
                "type":"",
   }
