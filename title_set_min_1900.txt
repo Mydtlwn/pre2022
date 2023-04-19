@@ -61,7 +61,7 @@
     }          
                "base":"",
                "mutations":""
-               "type":"del",
+               "type":"delete",
   }
        "1906":{
                "openTime":"2023.04.18"
