@@ -112,7 +112,7 @@
                "mutations":"S:F486P or S:S486P"
                "type":"",
   }
-    "1910":{
+     "1910":{
                "openTime":"2023.04.19"
                "openCount":""
                "closeTime":[],
@@ -121,6 +121,17 @@
                   "0":"XBB.1.5 sublineage with S:S494P and N:N77T/ORF9b:I74L (52 seqs as of 2023-04-18, mainly Singapore)"
     }          
                "base":"",
+               "mutations":""
+               "type":"",
+  }
+     "1911":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"New XBB.2.3 + nsp2_A357S + nsp3_T1004I"
+    }          "base":"",
                "mutations":""
                "type":"",
   }
