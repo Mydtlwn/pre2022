@@ -113,12 +113,12 @@
                "type":"",
   }
     "1910":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.19"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"XBB.1.5 sublineage with S:S494P and N:N77T/ORF9b:I74L (52 seqs as of 2023-04-18, mainly Singapore)"
     }          
                "base":"",
                "mutations":""
