@@ -221,7 +221,8 @@
                "closeType":"",
                "title":{
                   "0":"Saltation lineage with 5 spike mutations (S:H245Y, R346T, L368I, K440R, A942T) popped up in China , Liaoning 5 sequences "
-                  
+                  "1":"(Editing this right now, be careful)Saltation lineage with 5 spike mutations (S:H245Y, R346T, L368I, K440R, A942T) popped up in China , Liaoning 5 sequences "
+
     }          "base":"",
                "mutations":""
                "type":"",
