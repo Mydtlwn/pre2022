@@ -164,7 +164,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"New CH.1.1 + nsp13_V169F + ORF7b_I26S + nsp16_K160R"
     }          "base":"",
                "mutations":""
                "type":"",
