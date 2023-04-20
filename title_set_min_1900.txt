@@ -27,7 +27,7 @@
                "mutations":"S:M153I"
     }
   }
-       "1903":{
+        "1903":{
                "openTime":"2023.04.17"
                "openCount":""
                "closeTime":[],
@@ -39,7 +39,7 @@
                "mutations":"S:T678I"
                "type":"",
   }
-      "1904":{
+        "1904":{
                "openTime":"2023.04.17"
                "openCount":""
                "closeTime":[],
@@ -51,7 +51,7 @@
                "mutations":["S:P337S","S:L938F","S:S1239T"]
                "type":"",
   }
-       "1905":{
+        "1905":{
                "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
@@ -63,7 +63,7 @@
                "mutations":""
                "type":"delete",
   }
-       "1906":{
+        "1906":{
                "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
@@ -75,7 +75,7 @@
                "mutations":""
                "type":"",
   }
-       "1907":{
+        "1907":{
                "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
@@ -88,7 +88,7 @@
                "mutations":["S:K356T","S:T572I","ORF3a:S92L"]
                "type":"",
   }
-       "1908":{
+        "1908":{
                "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
@@ -100,7 +100,7 @@
                "mutations":"S:Y453F"
                "type":"",
   }
-     "1909":{
+        "1909":{
                "openTime":"2023.04.18"
                "openCount":""
                "closeTime":[],
@@ -112,7 +112,7 @@
                "mutations":"S:F486P or S:S486P"
                "type":"",
   }
-     "1910":{
+        "1910":{
                "openTime":"2023.04.19"
                "openCount":""
                "closeTime":[],
@@ -124,7 +124,7 @@
                "mutations":""
                "type":"",
   }
-     "1911":{
+        "1911":{
                "openTime":"2023.XX.XX"
                "openCount":""
                "closeTime":[],
@@ -136,7 +136,7 @@
                "type":"",
   }
 
-     "1912":{
+        "1912":{
                "openTime":"2023.XX.XX"
                "openCount":""
                "closeTime":[],
@@ -147,7 +147,7 @@
                "mutations":""
                "type":"delete",
   }
-     "1913":{
+        "1913":{
                "openTime":"2023.04.19"
                "openCount":""
                "closeTime":[],
@@ -158,7 +158,7 @@
                "mutations":""
                "type":"",
   }
-    "1914":{
+        "1914":{
                "openTime":"2023.04.20"
                "openCount":""
                "closeTime":[],
