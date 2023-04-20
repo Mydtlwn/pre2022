@@ -250,7 +250,7 @@
                "mutations":""
                "type":"",
   }
-      "1922":{
+       "1922":{
                "openTime":"2023.04.20"
                "openCount":""
                "closeTime":[],
