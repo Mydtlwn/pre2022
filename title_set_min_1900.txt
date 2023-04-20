@@ -131,8 +131,8 @@
                "closeType":"",
                "title":{
                   "0":"New XBB.2.3 + nsp2_A357S + nsp3_T1004I"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.2.3",
+               "mutations":"nsp2,nsp3"
                "type":"",
   }
 
