@@ -234,7 +234,7 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.16 sublineage with S:N178D (G22094A) (25 seqs in Canada) "
-                  "1":""
+                  "1":"XBB.1.16 sublineage with S:D178N (G22094A) (25 seqs in Canada)"
     }          "base":"",
                "mutations":""
                "type":"",
