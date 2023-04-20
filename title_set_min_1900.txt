@@ -257,8 +257,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.5 with S:K444R (33 seq., Italy, Slovenia, Austria, Germany) "
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.5",
+               "mutations":"S:K444R"
                "type":"",
   }
 
