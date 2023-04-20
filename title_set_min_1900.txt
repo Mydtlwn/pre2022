@@ -209,6 +209,7 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.9.2 with S:F456L (54 sequences throughout asia, europe, n. america)"
+                  "1":"XBB.1.9.2 sublineage(s?) with S:F456L (54 sequences throughout asia, europe, n. america)"
     }          "base":"",
                "mutations":""
                "type":"",
