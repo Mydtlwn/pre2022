@@ -186,7 +186,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"New XBB.1.5 + nsp2 E574D (15 sequences) "
     }          "base":"",
                "mutations":""
                "type":"",
