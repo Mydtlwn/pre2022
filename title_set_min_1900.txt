@@ -246,8 +246,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1 (or XBB.1.5.24?) sublineage with S:E748V(A23058T) (64seqs) "
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1",
+               "mutations":"S:E748V"
                "type":"",
   }
        "1922":{
