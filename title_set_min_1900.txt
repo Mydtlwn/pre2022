@@ -175,7 +175,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"New XBB.1.5 + nsp3 T1203I (25 sequences) "
     }          "base":"",
                "mutations":""
                "type":"",
