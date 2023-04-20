@@ -199,7 +199,7 @@
                "title":{
                   "0":"XBB.1.16 w/ s:Q613H (12 sequences, India) "
     }          "base":"XBB.1.16",
-               "mutations":""
+               "mutations":"S:Q613H"
                "type":"",
   }
         "1918":{
