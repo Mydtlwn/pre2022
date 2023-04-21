@@ -187,9 +187,9 @@
                "closeType":"",
                "title":{
                   "0":"New XBB.1.5 + nsp2 E574D (15 sequences) "
-    }          "base":"",
+    }          "base":"XBB.1.5",
                "mutations":""
-               "type":"",
+               "type":"nsp2",
   }
         "1917":{
                "openTime":"2023.04.20"
