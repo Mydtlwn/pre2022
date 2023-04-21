@@ -154,8 +154,8 @@
                "closeType":"",
                "title":{
                   "0":"New XBB.1.9 sublineage with S:F486P and Orf1a:S2024L likely emerged in Pakistan and it is already internationally spread 13 seqs "
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.9",
+               "mutations":"S:F486P,ORF1a:S2024L"
                "type":"",
   }
         "1914":{
