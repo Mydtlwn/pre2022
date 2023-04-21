@@ -261,6 +261,28 @@
                "mutations":"S:K444R"
                "type":"",
   }
+        "1923":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
+        "1924":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 
