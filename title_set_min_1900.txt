@@ -165,8 +165,8 @@
                "closeType":"",
                "title":{
                   "0":"New CH.1.1 + nsp13_V169F + ORF7b_I26S + nsp16_K160R"
-    }          "base":"",
-               "mutations":""
+    }          "base":"CH.1.1",
+               "mutations":"nsp13,nsp16,ORF7b:I26S"
                "type":"",
   }
         "1915":{
