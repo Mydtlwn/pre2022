@@ -405,6 +405,17 @@
                "mutations":"S:F486P,ORF9b:P3L"
                "type":"",
   }
+        "1938":{
+               "openTime":"2023.04.22"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 
