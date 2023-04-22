@@ -290,7 +290,7 @@
                "closeTime":["2023.04.22"],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"NoteWorthy XBB.1* descendent with S:L455F and S:F456L"
     }          "base":"",
                "mutations":""
                "type":"",
