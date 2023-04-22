@@ -339,15 +339,15 @@
                "mutations":"S:F486P"
                "type":"",
   }
-"1900":{
-               "openTime":"2023.XX.XX"
+        "1930":{
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
-    }          "base":"",
-               "mutations":""
+                  "0":"new BF.7.14 sublineage with S:G261R (G22343C) (20seqs in China)"
+    }          "base":"BF.7.14",
+               "mutations":"S:G261R"
                "type":"",
   }
 
