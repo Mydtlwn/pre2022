@@ -395,14 +395,14 @@
                "type":"delete",
   }
         "1937":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
-    }          "base":"",
-               "mutations":""
+                  "0":"Another XBB.1 + Orf8:G8* sublineage with S:F486P and Orf9b:P3L circulating in Usa and Portugal and internationally (127 sequences) "
+    }          "base":"XBB.1",
+               "mutations":"S:F486P,ORF9b:P3L"
                "type":"",
   }
 
