@@ -413,7 +413,7 @@
                "title":{
                   "0":"BF.7.14 Sublineage with N:A35T, E:T11M, & 5x ORF1ab (12 seq, April 21)"
     }          "base":"BF.7.14",
-               "mutations":"N:A35T,E:T11M"
+               "mutations":"N:A35T,E:T11M，ORF1b:S220N"
                "type":"",
   }
 
