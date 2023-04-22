@@ -288,7 +288,7 @@
                "openTime":"2023.04.22"
                "openCount":""
                "closeTime":["2023.04.22"],
-               "closeType":"",
+               "closeType":"repetitive",
                "title":{
                   "0":"NoteWorthy XBB.1* descendent with S:L455F and S:F456L"
     }          "base":"",
