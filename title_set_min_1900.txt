@@ -350,6 +350,39 @@
                "mutations":"S:G261R"
                "type":"",
   }
+        "1931":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"XBB.2.3.6 with N:T165I in Singapore and Shanghai(5 seqs) "
+    }          "base":"XBB.2.3.6",
+               "mutations":"N:T165I"
+               "type":"",
+  }
+"1900":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
+"1900":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 
