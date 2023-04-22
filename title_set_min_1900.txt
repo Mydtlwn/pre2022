@@ -317,14 +317,14 @@
                "mutations":"S:T478R"
                "type":"",
   }
-"1900":{
-               "openTime":"2023.XX.XX"
+        "1928":{
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
-    }          "base":"",
+                  "0":"Descendent of XBC.1.6 with stop codon in orf7a:Q21* in South Australia"
+    }          "base":"XBC.1.6",
                "mutations":""
                "type":"",
   }
