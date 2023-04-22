@@ -383,6 +383,17 @@
                "mutations":"S:E281D,S:P445S"
                "type":"",
   }
+       "1934,1935,1936":{
+               "openTime":"2023.04.22"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"delete",
+  }
 
 
 
