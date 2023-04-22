@@ -372,15 +372,15 @@
                "mutations":"S:L176F"
                "type":"",
   }
-"1900":{
-               "openTime":"2023.XX.XX"
+        "1933":{
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
-    }          "base":"",
-               "mutations":""
+                  "0":"XBB.1.5 sublineage with S:E281D and further gets S:P445S (67seqs)"
+    }          "base":"XBB.1.5",
+               "mutations":"S:E281D,S:P445S"
                "type":"",
   }
 
