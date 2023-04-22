@@ -312,8 +312,8 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
-    }          "base":"",
+                  "0":"FL.2 (XBB.1.9.1+T4579A) with S:T478R (17 seqs on Usher)"
+    }          "base":"FL.2",
                "mutations":""
                "type":"",
   }
