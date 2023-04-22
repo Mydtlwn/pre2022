@@ -394,6 +394,17 @@
                "mutations":""
                "type":"delete",
   }
+        "1937":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 
