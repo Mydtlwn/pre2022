@@ -269,8 +269,8 @@
                "title":{
                   "0":"BN.1.2 with Orf9b:I5V,Orf9b:G31V (23 seqs, 9 countries)"
                   "1":"BN.1.2 with Orf9b:I5V,Orf9b:G31V mostly in Taiwan (23 seqs, 9 countries) "
-    }          "base":"",
-               "mutations":""
+    }          "base":"BN.1.2",
+               "mutations":"ORF9b:I5V,ORF9b:G31V"
                "type":"",
   }
         "1924":{
