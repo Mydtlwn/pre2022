@@ -279,7 +279,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"Proposal of restricting back XBB.1.5 to T17214C carrying lineages consequently renaming XBB.1.5.22 XBB.1.5.23 XBB.1.5.24"
     }          "base":"",
                "mutations":""
                "type":"",
