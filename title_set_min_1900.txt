@@ -274,7 +274,7 @@
                "type":"",
   }
         "1924":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
