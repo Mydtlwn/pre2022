@@ -351,7 +351,7 @@
                "type":"",
   }
         "1931":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
@@ -361,15 +361,15 @@
                "mutations":"N:T165I"
                "type":"",
   }
-        "1900":{
-               "openTime":"2023.XX.XX"
+        "1932":{
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
                   "0":"BQ.1.1.13 with S:L176F emerging in China(19 seqs)"
-    }          "base":"",
-               "mutations":""
+    }          "base":"BQ.1.1.13",
+               "mutations":"S:L176F"
                "type":"",
   }
 "1900":{
