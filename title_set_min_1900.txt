@@ -438,7 +438,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"XBB.1.22.1 Sublineage with S:A83S, S:T573I, N:T366I, ORF1a:K625E, ORF1b:D1782N (55 seq, Apr 22)"
     }          "base":"",
                "mutations":""
                "type":"",
