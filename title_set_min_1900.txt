@@ -243,8 +243,8 @@
        "1921":{
                "openTime":"2023.04.20"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.04.22],
+               "closeType":"not planned",
                "title":{
                   "0":"XBB.1 (or XBB.1.5.24?) sublineage with S:E748V(A23058T) (64seqs) "
     }          "base":"XBB.1",
