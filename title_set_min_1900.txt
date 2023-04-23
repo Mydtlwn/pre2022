@@ -454,6 +454,8 @@
     }          "base":"XBB.1.5",
                "mutations":"S:V772I,S:P521T,S:N481S"
                "designation":"XBB.1.5.41"
+               "base":"XBB.1.5.41"
+               "mutations":"S:N481S"
                "type":"",
   }
 
