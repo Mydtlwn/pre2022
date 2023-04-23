@@ -205,13 +205,14 @@
         "1918":{
                "openTime":"2023.04.20"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.04.22],
                "closeType":"",
                "title":{
                   "0":"XBB.1.9.2 with S:F456L (54 sequences throughout asia, europe, n. america)"
                   "1":"XBB.1.9.2 sublineage(s?) with S:F456L (54 sequences throughout asia, europe, n. america)"
     }          "base":"XBB.1.9.2",
                "mutations":"S:F456L"
+               "designation":"EG.5",[*]
                "type":"",
   }
         "1919":{
