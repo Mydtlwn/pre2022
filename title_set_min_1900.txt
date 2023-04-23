@@ -427,7 +427,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"XBB.1.5.20 with S:Q954Y [22 sequences, Canada]"
     }          "base":"",
                "mutations":""
                "type":"",
