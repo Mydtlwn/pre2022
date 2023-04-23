@@ -450,7 +450,7 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.5 sublineage with S:V772I, P521T and N481S (65seqs, mainly in USA) "
-                  ""
+                  "1":"XBB.1.5 sublineage with S:V772I, S:P521T and S:N481S (64seqs, mainly in USA)"
     }          "base":"XBB.1.5",
                "mutations":""
                "type":"",
