@@ -433,7 +433,7 @@
                "type":"",
   }
         "1940":{
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
                "closeType":"",
