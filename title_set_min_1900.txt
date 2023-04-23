@@ -377,12 +377,15 @@
         "1933":{
                "openTime":"2023.04.22"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.04.22],
                "closeType":"",
                "title":{
                   "0":"XBB.1.5 sublineage with S:E281D and further gets S:P445S (67seqs)"
     }          "base":"XBB.1.5",
                "mutations":"S:E281D,S:P445S"
+               "designation":"XBB.1.5.42"
+               "base":"XBB.1.5.42"
+               "mutations":"S:P445S"
                "type":"",
   }
        "1934,1935,1936":{
