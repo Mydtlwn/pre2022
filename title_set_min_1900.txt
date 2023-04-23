@@ -277,8 +277,8 @@
         "1924":{
                "openTime":"2023.04.22"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.4.22],
+               "closeType":"not planned",
                "title":{
                   "0":"Proposal of restricting back XBB.1.5 to T17214C carrying lineages consequently renaming XBB.1.5.22 XBB.1.5.23 XBB.1.5.24"
     }          "base":"",
