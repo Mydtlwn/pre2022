@@ -115,8 +115,8 @@
         "1910":{
                "openTime":"2023.04.19"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.04.22],
+               "closeType":"not planned",
                "title":{
                   "0":"XBB.1.5 sublineage with S:S494P and N:N77T/ORF9b:I74L (52 seqs as of 2023-04-18, mainly Singapore)"
     }          
@@ -316,7 +316,7 @@
                   "0":"FL.2 (XBB.1.9.1+T4579A) with S:T478R (17 seqs on Usher)"
     }          "base":"FL.2",
                "mutations":"S:T478R"
-               "designation":FL.2.2,[*],;
+               "designation":"FL.2.2",[*],;
                "type":"",
   }
         "1928":{
