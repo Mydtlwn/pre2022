@@ -310,12 +310,13 @@
         "1927":{
                "openTime":"2023.04.22"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.04.22],
                "closeType":"",
                "title":{
                   "0":"FL.2 (XBB.1.9.1+T4579A) with S:T478R (17 seqs on Usher)"
     }          "base":"FL.2",
                "mutations":"S:T478R"
+               "designation":FL.2.2,[*],;
                "type":"",
   }
         "1928":{
