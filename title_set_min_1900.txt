@@ -428,8 +428,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.5.20 with S:Q954Y [22 sequences, Canada]"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.5.20",
+               "mutations":"S:Q954Y"
                "type":"",
   }
         "1940":{
