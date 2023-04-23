@@ -421,6 +421,40 @@
                "mutations":"N:A35T,E:T11M，ORF1b:S220N,ORF1a:T2283I,ORF1a:T2532I,ORF1a:A3529T,ORF1a:T4175I"
                "type":""
   }
+"1900":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
+"1900":{
+               "openTime":"2023.XX.XX"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
+        "1941":{
+               "openTime":"2023.04.22"
+               "openCount":""
+               "closeTime":[2023.04.22],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
+
 
 
 
