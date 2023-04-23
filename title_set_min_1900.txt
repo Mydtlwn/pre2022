@@ -465,8 +465,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.16.1 Sublineage with S:P521S, ORF1a:L681F"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.16.1",
+               "mutations":"S:P521S,ORF1a:L681F"
                "type":"",
   }
         "1943":{
