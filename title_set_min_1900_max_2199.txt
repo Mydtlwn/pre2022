@@ -514,8 +514,8 @@
                "closeType":"",
                "title":{
                   "0":"EL.1 with orf1b:K82R (168 sequences, europe, mostly poland)"
-    }          "base":"",
-               "mutations":""
+    }          "base":"EL.1",
+               "mutations":"orf1b:K82R"
                "type":"",
   }
 
