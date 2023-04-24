@@ -496,7 +496,17 @@
                "mutations":""
                "type":"delete",
   }
-
+        "1945":{
+               "openTime":"2023.04.24"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"Another XBB.2.3+S:G184V with orf1a:P1786L (43 seqs, 5 countries) "
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 
