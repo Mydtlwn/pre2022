@@ -86,6 +86,7 @@
     }    
                "base":"XBB.1.5",
                "mutations":["S:K356T","S:T572I","ORF3a:S92L"]
+               "designation":"XBB.1.5.44"[*]
                "type":"",
   }
         "1908":{
