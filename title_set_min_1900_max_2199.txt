@@ -507,7 +507,17 @@
                "mutations":"S:G184V[*],Orf1a:P1786L[*]"
                "type":"",
   }
-
+        "1946":{
+               "openTime":"2023.04.24"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"EL.1 with orf1b:K82R (168 sequences, europe, mostly poland)"
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 
