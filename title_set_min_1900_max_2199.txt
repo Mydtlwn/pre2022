@@ -525,8 +525,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.9.1 sublineage defined by orf1a:L349F, about 100 samples"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.9.1",
+               "mutations":"Orf1a:L349F"
                "type":"",
   }
 
