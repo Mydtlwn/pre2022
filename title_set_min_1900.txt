@@ -477,8 +477,8 @@
         "1943":{
                "openTime":"2023.04.23"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.04.24],
+               "closeType":"fix",
                "title":{
                   "0":"lineage_notes.txt"
     }          "base":"",
