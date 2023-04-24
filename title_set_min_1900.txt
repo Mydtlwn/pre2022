@@ -11,6 +11,7 @@
                   "0":"Various branches of XBB.1.16 and XBB.1.16.1 with S:Q146K (74 seqs, 7 countries and 19 seqs, 5 countries)"
     }          "base":"XBB.1.16",
                "mutations":"S:Q146K"
+               "type":"not planned"
   }
         "1901":{
                "openTime":"2023.04.17"
