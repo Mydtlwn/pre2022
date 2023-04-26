@@ -636,4 +636,15 @@
                "mutations":""
                "type":"help",
   }
+        "1957":{
+               "openTime":"2023.04.26"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"XBB.1.9.1 acquired S:T478N after S:V1122M. (8 sequences - Finland, Austria ) "
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
