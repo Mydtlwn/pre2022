@@ -621,8 +621,8 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.5* with S:D253G and S:Q613H"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB.1.5",
+               "mutations":"S:D253G,S:Q613H"
                "type":"",
   }
         "1956":{
@@ -646,6 +646,17 @@
                   "1":"XBB.1.9.1 acquired S:T478N after S:V1122M. (8 sequences - Finland, Austria ) "
     }          "base":"XBB.1.9.1",
                "mutations":"S:T478N,S:V1122M"
+               "type":"",
+  }
+        "1958":{
+               "openTime":"2023.04.26"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"Proposal for a new sub-lineage of XBB.1.16.1 with ORF3a:D210Y mutation (circulating in mainly India - 43 sequences) "
+    }          "base":"XBB.1.16.1",
+               "mutations":"Orf3a:D210Y"
                "type":"",
   }
 }
