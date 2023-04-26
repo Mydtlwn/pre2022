@@ -642,7 +642,8 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":"XBB.1.9.1 acquired S:T478N after S:V1122M. (8 sequences - Finland, Austria ) "
+                  "0":"XBB.1.9.1 acquired S:T478N in Finalnd after S:V1122M. (8 sequences - Finland, Austria )"
+                  "1":"XBB.1.9.1 acquired S:T478N after S:V1122M. (8 sequences - Finland, Austria ) "
     }          "base":"",
                "mutations":""
                "type":"",
