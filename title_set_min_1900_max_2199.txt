@@ -327,7 +327,7 @@
         "1928":{
                "openTime":"2023.04.22"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.04.22],
                "closeType":"",
                "title":{
                   "0":"Descendent of XBC.1.6 with stop codon in orf7a:Q21* in South Australia"
