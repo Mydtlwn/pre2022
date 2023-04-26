@@ -540,5 +540,15 @@
                "mutations":""
                "type":"",
   }
-
+        "1949":{
+               "openTime":"2023.04.25"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
