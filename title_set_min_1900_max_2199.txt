@@ -529,10 +529,10 @@
                "mutations":"Orf1a:L349F"
                "type":"",
   }
-"1900":{
-               "openTime":"2023.XX.XX"
+        "1948":{
+               "openTime":"2023.04.25"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.04.25],
                "closeType":"",
                "title":{
                   "0":""
