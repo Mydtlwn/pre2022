@@ -569,7 +569,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":" "
     }          "base":"",
                "mutations":""
                "type":"",
