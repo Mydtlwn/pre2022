@@ -546,7 +546,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"Another XBB.1.5* with S:456L, 62 seqs at 2023-04-24"
     }          "base":"",
                "mutations":""
                "type":"",
