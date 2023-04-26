@@ -671,4 +671,15 @@
                "mutations":""
                "type":"",
   }
+        "1960":{
+               "openTime":"2023.04.26"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"Lineages with S:403K to watch for growth "
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
