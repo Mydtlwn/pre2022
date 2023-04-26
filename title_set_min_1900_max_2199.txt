@@ -593,7 +593,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"Eg.1 With a S:G1124V mutation (226 sequences)"
     }          "base":"",
                "mutations":""
                "type":"",
