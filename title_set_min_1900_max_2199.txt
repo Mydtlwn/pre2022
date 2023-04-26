@@ -609,7 +609,7 @@
                   "3":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (29 seqs, 10 countries, 24 seqs contain S:Q613H)"
                   "4":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (28 seqs, 10 countries, 24 seqs contain S:Q613H)"
                   "5":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (31 seqs, 10 countries, 27 seqs contain S:Q613H)"
-    }          "base":"",
+    }          "base":"recombinant XBB.1.9.2*,XBB.1.22*",
                "mutations":""
                "type":"",
   }
