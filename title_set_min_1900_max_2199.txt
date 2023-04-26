@@ -572,8 +572,8 @@
                   "0":"XBB.4 with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
                   "1":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
                   "2":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 4 countries)"
-    }          "base":"",
-               "mutations":""
+    }          "base":"XBB",
+               "mutations":"S:478R,S:486P,Orf9b:I19V"
                "type":"",
   }
         "1952":{
@@ -609,6 +609,17 @@
                   "3":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (29 seqs, 10 countries, 24 seqs contain S:Q613H)"
                   "4":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (28 seqs, 10 countries, 24 seqs contain S:Q613H)"
                   "5":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (31 seqs, 10 countries, 27 seqs contain S:Q613H)"
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
+        "1955":{
+               "openTime":"2023.04.25"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"XBB.1.5* with S:D253G and S:Q613H"
     }          "base":"",
                "mutations":""
                "type":"",
