@@ -693,4 +693,15 @@
                "mutations":""
                "type":"",
   }
+        "1962":{
+               "openTime":"2023.04.26"
+               "openCount":""
+               "closeTime":[2023.04.26],
+               "closeType":"",
+               "title":{
+                  "0":"XBB.2.3.2 with Orf1a:T1788M(54 seqs, 7 countries)"
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
