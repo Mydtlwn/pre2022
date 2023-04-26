@@ -576,8 +576,8 @@
                "mutations":""
                "type":"",
   }
-"1952":{
-               "openTime":"2023.XX.XX"
+        "1952":{
+               "openTime":"2023.04.25"
                "openCount":""
                "closeTime":[],
                "closeType":"",
@@ -585,6 +585,6 @@
                   "0":""
     }          "base":"",
                "mutations":""
-               "type":"",
+               "type":"delete",
   }
 }
