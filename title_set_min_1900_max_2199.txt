@@ -569,7 +569,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":" "
+                  "0":"XBB.4 with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
     }          "base":"",
                "mutations":""
                "type":"",
