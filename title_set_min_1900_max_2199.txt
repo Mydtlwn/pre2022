@@ -659,4 +659,15 @@
                "mutations":"Orf3a:D210Y"
                "type":"",
   }
+        "1959":{
+               "openTime":"2023.04.26"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"CH.1.1.3 (ORF1ab) x EU.1.1 (Spike) recombinant (4 seq, 2x FIN, 1x AUT, 1xLTU)"
+    }          "base":"recombinant",
+               "mutations":""
+               "type":"",
+  }
 }
