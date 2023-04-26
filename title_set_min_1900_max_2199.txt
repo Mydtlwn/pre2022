@@ -680,6 +680,6 @@
                   "0":"Lineages with S:403K to watch for growth "
     }          "base":"",
                "mutations":""
-               "type":"",
+               "type":"collection",
   }
 }
