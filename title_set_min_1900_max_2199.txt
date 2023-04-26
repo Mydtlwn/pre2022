@@ -688,7 +688,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"XBB.1.31 with convergent S:F157L and S:G496S mutations popped up in Singapore (3 sequences)"
     }          "base":"",
                "mutations":""
                "type":"",
