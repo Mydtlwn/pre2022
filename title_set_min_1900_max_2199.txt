@@ -558,6 +558,7 @@
                "closeType":"",
                "title":{
                   "0":"Sister Group of EG.5 being probably successful in Isarel"
+                  "1":"Sister Group of EG.5 being probably successful in Israel, 21 seqs total "
     }          "base":"",
                "mutations":""
                "type":"",
