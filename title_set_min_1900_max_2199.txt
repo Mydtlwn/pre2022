@@ -551,13 +551,13 @@
                "mutations":"456L"
                "type":"",
   }
-"1900":{
-               "openTime":"2023.XX.XX"
+        "1950":{
+               "openTime":"2023.04.25"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"Sister Group of EG.5 being probably successful in Isarel"
     }          "base":"",
                "mutations":""
                "type":"",
