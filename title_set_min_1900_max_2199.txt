@@ -571,10 +571,12 @@
                "title":{
                   "0":"XBB.4 with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
                   "1":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
+                  "2":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 4 countries)"
     }          "base":"",
                "mutations":""
                "type":"",
-  }"1900":{
+  }
+"1952":{
                "openTime":"2023.XX.XX"
                "openCount":""
                "closeTime":[],
