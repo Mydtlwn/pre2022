@@ -573,7 +573,7 @@
                   "1":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
                   "2":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 4 countries)"
     }          "base":"XBB",
-               "mutations":"S:478R,S:486P,Orf9b:I19V"
+               "mutations":"S:478R,S:486P,Orf9b:I19V,Orf8:F120V,Orf8:I121L"
                "type":"",
   }
         "1952":{
@@ -594,8 +594,8 @@
                "closeType":"",
                "title":{
                   "0":"Eg.1 With a S:G1124V mutation (226 sequences)"
-    }          "base":"",
-               "mutations":""
+    }          "base":"EG.1",
+               "mutations":"S:G1124V"
                "type":"",
   }
         "1954":{
