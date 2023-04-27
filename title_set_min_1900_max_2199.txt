@@ -737,4 +737,15 @@
                "mutations":"S:K478R"
                "type":"",
   }
+       "1966":{
+               "openTime":"2023.04.27"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"Sublineage of XBB.1.5.42 + S:V445S, (spotted and proposed by @hynnspylor in #1933) with Orf1a:K1655N (23 sequences) "
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
