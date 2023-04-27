@@ -744,6 +744,7 @@
                "closeType":"",
                "title":{
                   "0":"Sublineage of XBB.1.5.42 + S:V445S, (spotted and proposed by @hynnspylor in #1933) with Orf1a:K1655N (23 sequences) "
+                  "1":"Sublineage of XBB.1.5.42 + S:V445S, (spotted and proposed by @hynnspylor in #1933) with Orf1a:K1655N (24 sequences)"
     }          "base":"",
                "mutations":""
                "type":"",
