@@ -726,4 +726,15 @@
                "mutations":""
                "type":"delete",
   }
+        "1965":{
+               "openTime":"2023.04.26"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"XBB.1.22.1 sublineage with S:K478R (6seqs in Indonesia, China and South Korea) "
+    }          "base":"XBB.1.22.1",
+               "mutations":"S:K478R"
+               "type":"",
+  }
 }
