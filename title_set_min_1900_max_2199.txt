@@ -766,7 +766,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"EG.1 with S:Q954L[9 or 10 sequences,mainly in Italy]"
     }          "base":"",
                "mutations":""
                "type":"",
