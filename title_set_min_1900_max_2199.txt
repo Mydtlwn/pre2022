@@ -789,7 +789,7 @@
                "closeType":"",
                "title":{
                   "0":"BA.1.17.2 Saltation sublineage in Italy in multiple forms, (5 seq, Apr 27) "
-    }          "base":"",
+    }          "base":"BA.1.17.2",
                "mutations":""
                "type":"",
   }
