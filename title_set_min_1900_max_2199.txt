@@ -846,7 +846,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"XBB.1.5 without T17214C branch with S:G181R recently sampled in Shanghai"
     }          "base":"",
                "mutations":""
                "type":"",
