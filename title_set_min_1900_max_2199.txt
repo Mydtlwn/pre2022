@@ -812,7 +812,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"EG.1.2 with s:p479r and several orf muts (29 seqs, austria) "*
     }          "base":"",
                "mutations":""
                "type":"",
