@@ -829,13 +829,13 @@
                "mutations":""
                "type":"",
   }
-"1974":{
+        "1974":{
                "openTime":"2023.XX.XX"
                "openCount":""
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"Proposal for a new sub-lineage of XBB.1.16.1 with Spike S494P & G184S - circulating in Asia - 8 Sequences"
     }          "base":"",
                "mutations":""
                "type":"",
