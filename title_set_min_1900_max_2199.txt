@@ -847,6 +847,7 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.5 without T17214C branch with S:G181R recently sampled in Shanghai"
+                  "1":"XBB.1.5 without T17214C branch with Orf1b:K82R and S:G181R recently sampled in Shanghai "
     }          "base":"",
                "mutations":""
                "type":"",
