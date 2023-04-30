@@ -851,6 +851,7 @@
                   "2":"XBB.1.5 without T17214C branch with Orf1b:K82R and S:G181R recently sampled in Shanghai (8 samples) "
                   "3":"XBB.1.5 without T17124C branch with Orf1b:K82R and S:G181R recently sampled in Shanghai (8 samples) "
                   "4":"XBB.1.5 without T17124C branch with Orf1b:K82R and S:G181R recently sampled in Shanghai "
+                  "5":"XBB.1.5 without T17124C branch with Orf1b:K82R and S:G181R"
     }          "base":"",
                "mutations":""
                "type":"",
