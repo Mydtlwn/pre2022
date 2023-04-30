@@ -21,6 +21,7 @@
                    "0":"CM.8.1.1 with S:R346T and M:E11Q (9 seqs as of 2023-04-17, multiple Asian countries) "
                "base":"CM.8.1.1"
                "mutations":["S:R346T","M:E11Q"]
+               "designation":""
     }
   }
         "1902":{
