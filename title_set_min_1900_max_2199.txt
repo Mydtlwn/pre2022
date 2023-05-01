@@ -789,7 +789,7 @@
         "1970":{
                "openTime":"2023.04.29"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.01],
                "closeType":"",
                "title":{
                   "0":"BA.1.17.2 Saltation sublineage in Italy in multiple forms, (5 seq, Apr 27) "
