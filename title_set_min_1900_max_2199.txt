@@ -862,7 +862,7 @@
                "openTime":"2023.XX.XX"
                "openCount":""
                "closeTime":[],
-               "closeType":"",
+               "closeType":"Repetitive",
                "title":{
                   "0":""
     }          "base":"",
