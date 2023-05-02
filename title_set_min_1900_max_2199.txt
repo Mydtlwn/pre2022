@@ -858,10 +858,10 @@
                "mutations":""
                "type":"",
   }
-"1976":{
-               "openTime":"2023.XX.XX"
+        "1976":{
+               "openTime":"2023.05.01"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.01],
                "closeType":"Repetitive",
                "title":{
                   "0":"Recent BF.7.14 sublineage with S:G261R may have emerged in Zhejiang (20 Seqs) "
