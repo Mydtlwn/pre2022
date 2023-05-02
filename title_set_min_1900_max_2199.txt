@@ -880,4 +880,15 @@
                "mutations":""
                "type":"",
   }
+         "1978":{
+               "openTime":"2023.05.02"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"XBL.3 x BQ.1.1.13 recombinant (2x Australia, 1x Singapore as of 2023-05-01) "
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
