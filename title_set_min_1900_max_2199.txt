@@ -38,7 +38,7 @@
         "1903":{
                "openTime":"2023.04.17"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.05],
                "closeType":"",
                "title":{
                   "0":"XBB.1.16 sublineage with S:T678I - 34 seqs"
@@ -46,6 +46,7 @@
                "base":"XBB.1.16",
                "mutations":"S:T678I"
                "type":"",
+              
   }
         "1904":{
                "openTime":"2023.04.17"
