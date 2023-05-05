@@ -898,6 +898,7 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.22.1 from Kenya with S:Y451H (19 very recent samples) "
+                  "1":"XBB.1.22.1 from Kenya with S:Y451H (22 very recent samples, 21 Kenya + 1 Germany)"
     }          "base":"",
                "mutations":""
                "type":"",
