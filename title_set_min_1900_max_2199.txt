@@ -942,4 +942,15 @@
                "mutations":""
                "type":"",
   }
+        "1983":{
+               "openTime":"2023.05.05"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+5                  "0":"Suggestion to designate XBB.1.16+T9991C+C16332T (111 seqs, 14 countries)"
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
