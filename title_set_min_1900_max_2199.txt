@@ -919,4 +919,15 @@
                "mutations":""
                "type":"",
   }
+"1981":{
+               "openTime":"2023.05.04"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"BN.1.3.5 mini-saltation(8 nuc/5 aa) in China (6 seqs)"
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
