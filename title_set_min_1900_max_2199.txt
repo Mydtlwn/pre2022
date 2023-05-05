@@ -822,7 +822,7 @@
         "1973":{
                "openTime":"2023.04.30"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.05],
                "closeType":"",
                "title":{
                   "0":"Suggestion to designate the branch (without T17214C), shown on the same Usher branch of XBL, XBB.1.5.X defined by Orf9b:10F (C28312T) and A20379G"
