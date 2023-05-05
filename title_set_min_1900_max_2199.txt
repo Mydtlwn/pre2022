@@ -46,7 +46,7 @@
                "base":"XBB.1.16",
                "mutations":"S:T678I"
                "type":"",
-              
+               "designation":"XBB.1.16.4"[*]
   }
         "1904":{
                "openTime":"2023.04.17"
