@@ -900,6 +900,7 @@
                   "0":"XBB.1.22.1 from Kenya with S:Y451H (19 very recent samples) "
                   "1":"XBB.1.22.1 from Kenya with S:Y451H (22 very recent samples, 21 Kenya + 1 Germany)"
                   "2":"XBB.1.22.1 from Kenya with S:Y451H and Orf3a:P42L (22 very recent samples, 21 Kenya + 1 Germany)"
+                  "3":"XBB.1.22.1 from Kenya with S:Y451H and Orf3a:P42L (23 very recent samples, 21 Kenya + 1 Germany +1 Australia) "
     }          "base":"",
                "mutations":""
                "type":"",
