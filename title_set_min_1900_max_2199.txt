@@ -937,6 +937,7 @@
                "closeType":"",
                "title":{
                   "0":"XBB.1.5 sublineage with ORF1a:A4086S, S:L455F, S:F456L, and ORF8:P38S (4 seq. Chile, USA)"
+                  "1":"XBB.1.5 sublineage with ORF1a:A4068S, S:L455F, S:F456L, and ORF8:P38S (4 seq. Chile, USA)"
     }          "base":"",
                "mutations":""
                "type":"",
