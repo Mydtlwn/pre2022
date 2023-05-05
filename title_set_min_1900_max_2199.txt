@@ -908,4 +908,15 @@
                "type":"",
                "designation":"FY.4"[*]
   }
+        "1980":{
+               "openTime":"2023.05.03"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"New xbb.1.9.1 defined by S:256L and orf3a:V62I, 34seqs at 2023-05-02, multiple countries. "
+    }          "base":"",
+               "mutations":""
+               "type":"",
+  }
 }
