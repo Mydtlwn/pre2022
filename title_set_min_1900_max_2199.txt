@@ -830,6 +830,7 @@
     }          "base":"",
                "mutations":""
                "type":"",
+               "designation":"XBB.1.5.57"
   }
         "1974":{
                "openTime":"2023.04.30"
