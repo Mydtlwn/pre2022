@@ -904,5 +904,6 @@
     }          "base":"",
                "mutations":""
                "type":"",
+               "designation":"FY.4"[*]
   }
 }
