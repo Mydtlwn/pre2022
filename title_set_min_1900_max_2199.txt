@@ -953,4 +953,17 @@
                "mutations":""
                "type":"",
   }
+        "1984":{
+               "openTime":"2023.05.06"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"xbb.1.16 SubLineage with Orf9b:A22T /N:G25D mostly in East Asia& Southeast Asia"
+    }          
+               "base":"",
+               "mutations":""
+               "type":"",
+  }
+
 }
