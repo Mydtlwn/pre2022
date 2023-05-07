@@ -1010,7 +1010,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":""
+                  "0":"Variant spotters community announcement: a new dedicated github repo for small, unclear, ambiguous, slow lineages"
     }          
                "base":"",
                "mutations":""
