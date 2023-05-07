@@ -350,6 +350,7 @@
     }          "base":"XBB.1",
                "mutations":"S:F486P"
                "type":"",
+               "designation":"XBB.1.37,XBB.1.37.1"
   }
         "1930":{
                "openTime":"2023.04.22"
