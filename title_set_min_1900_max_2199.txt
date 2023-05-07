@@ -967,5 +967,18 @@
                "mutations":""
                "type":"",
   }
+        "1985":{
+               "openTime":"2023.05.06"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"Two FL.1(XBB.1.9.1.1) branches with S:K478R (A22995G)"
+    }          
+               "base":"",
+               "mutations":""
+               "type":"",
+  }
+
 
 }
