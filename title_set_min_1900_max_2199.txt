@@ -991,6 +991,19 @@
                "mutations":""
                "type":"",
   }
+        "1987":{
+               "openTime":"2023.05.06"
+               "openCount":""
+               "closeTime":[2023.05.06],
+               "closeType":"not planned",
+               "title":{
+                  "0":"FL.4 with S:A766S,417K reversion in Myanmar(8 seqs)"
+    }          
+               "base":"",
+               "mutations":""
+               "type":"",
+  }
+
 
 
 }
