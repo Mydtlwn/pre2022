@@ -713,8 +713,8 @@
         "1963":{
                "openTime":"2023.04.26"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.05.07],
+               "closeType":"Transferred",
                "title":{
                   "0":"Old XBB.1 (without Orf8:G8*) with S:F486P and S:F186L reappeared in China in March 2023. 11 sequences "
     }          "base":"",
