@@ -780,13 +780,14 @@
         "1969":{
                "openTime":"2023.04.28"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.06],
                "closeType":"",
                "title":{
                   "0":"XBB.1.5.46 with S:L518V and Orf9b:I5T 151 sequences (likely emerged in France)"
     }          "base":"XBB.1.5.46",
                "mutations":"S:L518V,Orf9b:I5T"
                "type":"",
+               "designation":"GB.1"
   }
         "1970":{
                "openTime":"2023.04.29"
