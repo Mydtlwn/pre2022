@@ -1004,6 +1004,15 @@
                "type":"",
   }
 
-
-
-}
+        "1988":{
+               "openTime":"2023.05.07"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":""
+    }          
+               "base":"",
+               "mutations":""
+               "type":"",
+  }
