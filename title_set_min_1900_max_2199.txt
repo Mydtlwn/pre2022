@@ -101,8 +101,8 @@
         "1908":{
                "openTime":"2023.04.18"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.05.07],
+               "closeType":"not planned",
                "title":{
                   "0":"XBB.1.32 with S:Y453F and multiple AA substitutions likely circulating in Davao Philippines - 10 sequences"
     }          
