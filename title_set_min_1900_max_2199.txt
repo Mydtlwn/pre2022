@@ -549,7 +549,7 @@
         "1949":{
                "openTime":"2023.04.25"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.06],
                "closeType":"",
                "title":{
                   "0":"Another XBB.1.5* with S:456L, 62 seqs at 2023-04-24"
