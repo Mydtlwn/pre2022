@@ -979,6 +979,18 @@
                "mutations":""
                "type":"",
   }
+        "1986":{
+               "openTime":"2023.05.06"
+               "openCount":""
+               "closeTime":[],
+               "closeType":"",
+               "title":{
+                  "0":"XBB.1.5 sublineage with S:K182Q, ORF1a:T1322I (73 seq, May 5) "
+    }          
+               "base":"",
+               "mutations":""
+               "type":"",
+  }
 
 
 }
