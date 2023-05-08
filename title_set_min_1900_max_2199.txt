@@ -527,7 +527,7 @@
         "1947":{
                "openTime":"2023.04.24"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.07],
                "closeType":"",
                "title":{
                   "0":"XBB.1.9.1 sublineage defined by orf1a:L349F, about 100 samples"
