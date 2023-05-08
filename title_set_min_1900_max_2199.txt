@@ -534,6 +534,7 @@
     }          "base":"XBB.1.9.1",
                "mutations":"Orf1a:L349F"
                "type":"",
+               "designation":"FL.11"
   }
         "1948":{
                "openTime":"2023.04.25"
