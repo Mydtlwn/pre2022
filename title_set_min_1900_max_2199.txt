@@ -1019,3 +1019,15 @@
                "mutations":""
                "type":"",
   }
+        "1989":{
+               "openTime":"2023.05.07"
+               "openCount":""
+               "closeTime":[2023.05.07],
+               "closeType":"",
+               "title":{
+                  "0":"Correct Lineage Notes for XBB.1.24.3 "
+    }          
+               "base":"",
+               "mutations":""
+               "type":"",
+  }
