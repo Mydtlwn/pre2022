@@ -1032,3 +1032,27 @@
                "mutations":""
                "type":"",
   }
+          "1990":{
+
+               "openTime":"2023.05.10"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.9.1 with ORF1ab:M5974T and N:R195I and 3 spike mutations (S494P,N616D,S256L) 12 seq. only in France "
+                  "1":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
