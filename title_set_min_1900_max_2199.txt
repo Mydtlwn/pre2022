@@ -1056,3 +1056,27 @@
                "type":"",
 
   }
+          "1991":{
+
+               "openTime":"2023.05.11"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.16 sublineage with S:E224Q (19seqs mainly in Japan and USA) "
+                  "1":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
