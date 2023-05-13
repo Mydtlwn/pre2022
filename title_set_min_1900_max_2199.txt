@@ -1103,3 +1103,26 @@
                "type":"delete",
 
   }
+          "1900":{
+
+               "openTime":"2023.05.13"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"FP.1 sublineage with N:195S and ORF:8C (18 seqs as of 2023-05-11, Singapore)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
