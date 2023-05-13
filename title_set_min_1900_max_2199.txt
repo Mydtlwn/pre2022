@@ -1126,3 +1126,26 @@
                "type":"",
 
   }
+          "1994":{
+
+               "openTime":"2023.05.13"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
