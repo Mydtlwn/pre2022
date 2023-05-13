@@ -1069,7 +1069,7 @@
                "title":{
 
                   "0":"XBB.1.16 sublineage with S:E224Q (19seqs mainly in Japan and USA) "
-                  "1":""
+                  "1":"XBB.1.16 sublineage with S:E224Q (21seqs mainly in Japan and USA) "
 
     }          
 
