@@ -1080,3 +1080,26 @@
                "type":"",
 
   }
+          "1992":{
+
+                 "openTime":"2023.05.11"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"delete",
+
+  }
