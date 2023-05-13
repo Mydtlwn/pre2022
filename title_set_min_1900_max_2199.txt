@@ -573,8 +573,8 @@
         "1951":{
                "openTime":"2023.04.25"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.05.11],
+               "closeType":"not planned",
                "title":{
                   "0":"XBB.4 with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
                   "1":"XBB.4(or XBB+S:K444R) with S:478R, S:486P, Orf9b:I19V, Orf8:F120V,I121L (7 seqs, 3 countries) "
