@@ -1138,7 +1138,7 @@
 
                "title":{
 
-                  "0":""
+                  "0":"XBB.1.9.1 with S:F456L starting in Vietnam(27 seqs, 9 countries) "
 
     }          
 
