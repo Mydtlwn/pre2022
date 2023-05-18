@@ -1149,3 +1149,26 @@
                "type":"",
 
   }
+          "1995":{
+
+               "openTime":"2023.05.15"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.8 Sublineage with S:S486P, ORF1a:A2529V, T1507G—SE Africa (14 seq, May 15)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
