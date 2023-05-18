@@ -1209,7 +1209,8 @@
                "title":{
 
                   "0":"XBB.1* Sublineage with S:L335S, S:R403K, S:S486P, ORF1a:T403I, ORF1b:S2212I (11 seq, 4 continents, May 16, 1 seq from Republic of Congo,Brazzaville) "
-                  "1":""
+                  "1":"XBB.1* Sublineage with S:L335S, S:R403K, S:S486P, ORF1a:T403I, ORF1b:S2212I (14 seq, 4 continents, May 16—1 seq from Congo)"
+                  "2":""
 
     }          
 
