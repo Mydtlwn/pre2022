@@ -1221,3 +1221,26 @@
                "type":"",
 
   }
+          "1998":{
+
+               "openTime":"2023.05.18"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.5 sublineage with S:K462R and 2 ORF mutation (21 seqs- Peru, Japan and USA) "
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
