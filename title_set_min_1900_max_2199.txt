@@ -1244,3 +1244,27 @@
                "type":"",
 
   }
+        "1999":{
+
+               "openTime":"2023.05.18"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1/XBB.1.5 Sublineage with S:I19L, S:K147N, S:R403K, S:S486P, S:S494P, S:L582R, S:A688P, ORF9b:D89E, ORF1a: T346I, ORF1a:K3499R (Guatemala, 10 seq, May 17)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
+
