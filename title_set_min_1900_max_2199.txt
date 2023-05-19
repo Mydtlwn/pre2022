@@ -171,7 +171,7 @@
         "1914":{
                "openTime":"2023.04.20"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.19],
                "closeType":"",
                "title":{
                   "0":"New CH.1.1 + nsp13_V169F + ORF7b_I26S + nsp16_K160R"
