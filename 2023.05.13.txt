@@ -14,4 +14,4 @@ XBB.1.5.24,XBB.1.5.49 are the main ones.
 The dark horse that broke into the new circle, XBB.1.5.49,XBB.1.5.68,XBB.1.5.69
 
 EG.5,EG.5.1
-
+With the increase of XBB.1.16* and XBB.1.9*, we will adjust the ladder list starting next week and will choose 10 XBB.1.5* variants, 8 XBB.1.9* variants, and 3 XBB.1.16* variants as reference instead of XBB.1.5*
