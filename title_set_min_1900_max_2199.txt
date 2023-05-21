@@ -1303,6 +1303,7 @@
                "title":{
 
                   "0":"XBB.1.9.1 sublineage with S:D215V (A22206T) rapidly increases in China (57 seqs)"
+                  "1":"XBB.1.9.1 sublineage with S:D215V (A22206T) rapidly increases in China (59 seqs) "
 
     }          
 
