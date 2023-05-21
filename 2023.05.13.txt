@@ -11,3 +11,7 @@ The third ladder is dominated by XBB.1.5.20,XBB.1.5.12,XBB.1.5.35.
 XBB.1.5.24,XBB.1.5.49 are the main ones.
 
 
+The dark horse that broke into the new circle, XBB.1.5.49,XBB.1.5.68,XBB.1.5.69
+
+EG.5,EG.5.1
+
