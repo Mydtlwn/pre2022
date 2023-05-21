@@ -1314,4 +1314,27 @@
                "type":"",
 
   }
+          "2002":{
+
+               "openTime":"2023.05.20"
+
+               "openCount":""
+
+               "closeTime":[2023.05.20],
+
+               "closeType":"not planned",
+
+               "title":{
+
+                "0":"XBB.1.9.1 with S:Y200C and S:T478R, Orf1b:H641Q (NSP12_H650Q) in the branch with Orf1a:T2007I (NSp3_T1189I) and N:T166I (9 sequences) "
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
 
