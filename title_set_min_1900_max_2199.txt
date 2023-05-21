@@ -1360,4 +1360,27 @@
                "type":"",
 
   }
+          "2004":{
+
+               "openTime":"2023.05.20"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"Unusual BA.1(.1) with 59 (yeah fifty nice) S mutations 2 samples in The Netherlands"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
 
