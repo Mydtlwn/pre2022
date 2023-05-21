@@ -878,7 +878,7 @@
                "openTime":"2023.05.01"
                "openCount":""
                "closeTime":[2023.05.16],
-               "closeType":"",
+               "closeType":"not planned",
                "title":{
                   "0":"FQ.1 sublineage with N:S37P (15 seq. Australia, Canada, New Zealand)"
     }          "base":"",
