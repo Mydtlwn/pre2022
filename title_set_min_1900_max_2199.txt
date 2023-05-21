@@ -1397,7 +1397,7 @@
 
                   "0":"XBB.2.3.3 with Orf8:E106Q and Orf1a:I4205V likely at high prevalence recently in Philippines and been caught in airport of multiple countries very recently. "
                   "1"："XBB.2.3.3 with Orf8:E106Q and Orf1a:I4205V (40seqs) likely at high prevalence recently in Philippines and been caught in airport of multiple countries very recently."
-                  "2"：""
+                  "2"："XBB.2.3.3 with Orf8:E106Q and Orf1a:I4205V (40seqs) likely at high prevalence recently in Philippines and been caught in airport surveillance of multiple countries very recently. "
 
     }          
 
