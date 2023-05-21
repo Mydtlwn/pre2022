@@ -172,7 +172,7 @@
                "openTime":"2023.04.20"
                "openCount":""
                "closeTime":[2023.05.19],
-               "closeType":"",
+               "closeType":"not planned",
                "title":{
                   "0":"New CH.1.1 + nsp13_V169F + ORF7b_I26S + nsp16_K160R"
     }          "base":"CH.1.1",
