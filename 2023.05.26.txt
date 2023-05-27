@@ -5,3 +5,10 @@ XBB.1.5 part: first ladder: XBB.1.5.49,EU.1.1,XBB.1.5.12,XBB.1.5.10
 XBB.1.5.1,XBB.1.5.15,XBB.1.5.68.
 
 Second order: XBB.1.5.37,XBB.1.5.17,XBB.1.5.13,XBB.1.5.28
+
+
+XBB.1.9 part: first step: XBB.1.9.1,XBB.1.9.2,EG.1,FL.4,FL.2
+
+Second step: EG.2,FL.5,EG.4.
+
+Note: XBB.1.9 part of the first ladder 5, the second ladder 3.
