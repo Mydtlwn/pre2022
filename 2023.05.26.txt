@@ -1,1 +1,7 @@
+Last week, we made some adjustments to the monitoring, and the ladder analysis chart was divided into three parts: XBB.1.5, XBB.1.9, XBB.1.16. In addition, XBB.1.22 and XBB.2.3 are growing fast, so maybe we will open a separate statistical ladder chart soon.
 
+XBB.1.5 part: first ladder: XBB.1.5.49,EU.1.1,XBB.1.5.12,XBB.1.5.10
+
+XBB.1.5.1,XBB.1.5.15,XBB.1.5.68.
+
+Second order: XBB.1.5.37,XBB.1.5.17,XBB.1.5.13,XBB.1.5.28
