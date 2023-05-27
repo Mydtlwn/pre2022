@@ -12,3 +12,7 @@ XBB.1.9 part: first step: XBB.1.9.1,XBB.1.9.2,EG.1,FL.4,FL.2
 Second step: EG.2,FL.5,EG.4.
 
 Note: XBB.1.9 part of the first ladder 5, the second ladder 3.
+
+Part XBB.1.16: Important .
+
+XBB.1.16.2, XBB.1.16.1,FU.1. potential new dark horse as described in the Basel report, XBB.1.5.59 is a new dark horse, except for XBB.1.5.66, EG.5.1,XBB.1.16.6,XBB.1.16.7,XBB.1.16.8 except for the last designated strain There are some interesting strains in there, and the dominance in EG.5.1 may not be false. strains with new mutations in EG.5.1 may be worth specifying, and some subsequent descendants of the XBB.1.9 family, and some subsequent descendants of the XBB.1.16 family should also
