@@ -1827,7 +1827,7 @@
   }
           "2023":{
 
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.05.27"
 
                "openCount":""
 
@@ -1837,7 +1837,7 @@
 
                "title":{
 
-                  "0":""
+                  "0":"XBB.2.3.11 (S:K478R) Sublineage with S:E213D (40 seq, 4 continents, May 27)"
 
     }          
 
