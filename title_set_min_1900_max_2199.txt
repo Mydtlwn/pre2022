@@ -1650,4 +1650,27 @@
                "type":"",
 
   }
+          "2016":{
+
+               "openTime":"2023.05.24"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"FL.2 sublineage with Orf1b:K1383R circulating in China and other countries (362 seq) and then N:R189L (137 seq)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
 
