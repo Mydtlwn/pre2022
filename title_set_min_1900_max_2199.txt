@@ -204,7 +204,7 @@
         "1917":{
                "openTime":"2023.04.20"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.29],
                "closeType":"",
                "title":{
                   "0":"XBB.1.16 w/ s:Q613H (12 sequences, India) "
