@@ -1457,4 +1457,27 @@
                "type":"delete",
 
   }
+          "2008":{
+
+               "openTime":"2023.05.22"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"New possible XBB.1 sublineage rapidly growing in Campania, Italy"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
 
