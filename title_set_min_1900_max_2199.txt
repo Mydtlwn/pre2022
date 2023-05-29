@@ -1690,7 +1690,7 @@
                "title":{
 
                   "0":"FY.1 (XBB.1.22.1.1.) sublineage with S:T572I and ORF1b:P218L (31 seqs in 10 conturies) "
-                  "1":""
+                  "1":"FY.1 (XBB.1.22.1.1) sublineage with S:T572I and ORF1b:P218L (31 seqs in 10 conturies)"
 
     }          
 
