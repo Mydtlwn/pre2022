@@ -1203,7 +1203,7 @@
 
                "openCount":""
 
-               "closeTime":[],
+               "closeTime":[2023.05.24],
 
                "closeType":"",
 
@@ -1220,6 +1220,7 @@
                "mutations":""
 
                "type":"",
+               "designation":"XBB.1.41"
 
   }
           "1998":{
