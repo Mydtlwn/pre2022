@@ -355,7 +355,7 @@
         "1930":{
                "openTime":"2023.04.22"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.04.22],
                "closeType":"",
                "title":{
                   "0":"new BF.7.14 sublineage with S:G261R (G22343C) (20seqs in China)"
