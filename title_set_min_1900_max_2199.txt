@@ -1871,6 +1871,29 @@
                "type":"",
 
   }
+          "2025":{
+
+               "openTime":"2023.05.29"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.5.70 sublineage with ORF3a:T89I and S:S704L (39 seq. mainly Brazil and USA) and a further sublineage with ORF1a:R287G, ORF1a:E633A, and ORF1b:D1130G (14 seq. USA) "
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
   
 
