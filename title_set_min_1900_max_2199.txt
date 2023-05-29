@@ -1179,7 +1179,7 @@
 
                "openCount":""
 
-               "closeTime":[],
+               "closeTime":[2023.05.27],
 
                "closeType":"",
 
@@ -1195,6 +1195,7 @@
                "mutations":""
 
                "type":"",
+               "designation":"FL.13.1"
 
   }
           "1997":{
