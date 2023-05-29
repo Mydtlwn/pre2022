@@ -1415,6 +1415,7 @@
                   "0":"Quick (in China) FR.1 Sublineage with S:P82H (46 Seqs - China, Japan) "
                   "1":"Quick (in China) FR.1 Sublineage with S:P82H (50 Seqs - China, Japan, Singapore)"
                   "2":"Quick (in China) FR.1 Sublineage with S:P82H (56 Seqs - China, Japan, Singapore, USA)"
+                  "3":"Quick (in China) FR.1 Sublineage with S:P82H (57 Seqs - China, Japan, Singapore, USA)"
 
     }          
 
