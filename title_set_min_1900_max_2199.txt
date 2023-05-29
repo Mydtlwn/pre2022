@@ -1742,7 +1742,7 @@
                "title":{
 
                   "0":"Potential XBB.1.9.1/1.9.2 recombinant (56 samples) with a branch with S:Y200C and S:T487R (11 samples)"
-                  "1":""
+                  "1":"Potential XBB.1.9.1/(1.9.2 or XBB.1.22.2) recombinant (56 samples) with a branch with S:Y200C and S:T487R (11 samples) "
 
     }          
 
