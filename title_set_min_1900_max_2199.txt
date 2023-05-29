@@ -378,7 +378,7 @@
                "openTime":"2023.04.22"
                "openCount":""
                "closeTime":[],
-               "closeType":"",
+               "closeType":"2023.05.22",
                "title":{
                   "0":"BQ.1.1.13 with S:L176F emerging in China(19 seqs)"
     }          "base":"BQ.1.1.13",
