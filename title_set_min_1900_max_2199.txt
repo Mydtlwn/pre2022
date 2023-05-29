@@ -624,8 +624,8 @@
         "1955":{
                "openTime":"2023.04.25"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.04.29],
+               "closeType":"not planned",
                "title":{
                   "0":"XBB.1.5* with S:D253G and S:Q613H"
     }          "base":"XBB.1.5",
