@@ -1666,6 +1666,7 @@
                   "1":"FL.2 sublineage with Orf1b:K1383R circulating in China and other countries (370 seq) and then N:R189L (138 seq) "
                   "2":"FL.2 sublineage with Orf1b:K1383R circulating in China and other countries (372 seq) and then N:R189L (138 seq)"
                   "3":"FL.2 sublineage with Orf1b:K1383R circulating in China and other countries (373 seq) and then N:R189L (138 seq) "
+                  "4":"FL.2 sublineage with Orf1b:K1383R circulating in China and other countries (374 seq) and then N:R189L (139 seq) "
 
     }          
 
