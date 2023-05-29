@@ -1506,4 +1506,27 @@
                "designation":"FY.3.1"
 
   }
+          "2010":{
+
+               "openTime":"2023.05.22"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.16.4 (S:T678i) sublineage with S:Q677H (15 seqs, Australia)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
 
