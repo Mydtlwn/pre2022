@@ -1565,8 +1565,31 @@
                "title":{
 
                   "0":"Fast XBB.1.11.1 saltation sublineage with S:T478R, ORF1a:I693T, Orf1a:T951A and ORF3a:W149C emerged in Indonesia"
-                  "1":""
+                  "1":"Fast XBB.1.11.1 saltation sublineage with S:T478R, ORF1a:I693T, Orf1a:T951A and ORF3a:W149C emerged in Indonesia (35seqs)"
                   "2":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
+          "1900":{
+
+               "openTime":"2023.XX.XX"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":""
 
     }          
 
