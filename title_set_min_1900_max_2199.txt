@@ -1779,6 +1779,29 @@
                "type":"",
 
   }
+          "2021":{
+
+               "openTime":"2023.05.26"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.11.1 (S:S486P) Sublineage with S:K478R (87 seq, May 20)—first proposed by @FedeGueli"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
   
 
