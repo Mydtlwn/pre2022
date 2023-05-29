@@ -1708,6 +1708,8 @@
                   "0":" FL.4 with Orf8:S67F"
                   "1":"FL.4+28615G with Orf8:S67F and Orf1a:D1228G"
                   "2":"FL.4+28615G with Orf1a:D1228G(354), S:S67F seem dominant in this variant (314)"
+                  "3":"FL.4+28615G with Orf1a:D1228G(347), S:S67F seem dominant in this variant (314)"
+                  "4":""
 
     }          
 
