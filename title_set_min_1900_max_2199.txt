@@ -1753,5 +1753,30 @@
                "type":"",
 
   }
+          "2020":{
+
+               "openTime":"2023.05.26"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"EG.5.1 with orf1b:D54N in China, USA, Canada (97 seq) "
+                  "1":""
+                  "2":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
 
