@@ -936,7 +936,7 @@
         "1982":{
                "openTime":"2023.05.04"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.05.22],
                "closeType":"",
                "title":{
                   "0":"XBB.1.5 sublineage with ORF1a:A4086S, S:L455F, S:F456L, and ORF8:P38S (4 seq. Chile, USA)"
@@ -944,6 +944,7 @@
     }          "base":"",
                "mutations":""
                "type":"",
+               "designation":"XBB.1.5.70"
   }
         "1983":{
                "openTime":"2023.05.05"
