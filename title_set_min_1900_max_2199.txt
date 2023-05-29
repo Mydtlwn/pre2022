@@ -1693,6 +1693,21 @@
                   "1":"FY.1 (XBB.1.22.1.1) sublineage with S:T572I and ORF1b:P218L (31 seqs in 10 conturies)"
 
     }          
+        "2018":{
+
+               "openTime":"2023.05.24"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":" FL.4 with Orf8:S67F"
+
+    }          
 
                "base":"",
 
@@ -1701,4 +1716,14 @@
                "type":"",
 
   }
+
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
+  
 
