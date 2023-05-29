@@ -1402,7 +1402,7 @@
     }  
             "2006":{
 
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.05.22"
 
                "openCount":""
 
@@ -1412,7 +1412,8 @@
 
                "title":{
 
-                  "0":""
+                  "0":"Quick (in China) FR.1 Sublineage with S:P82H (46 Seqs - China, Japan) "
+                  "":""
 
     }          
 
