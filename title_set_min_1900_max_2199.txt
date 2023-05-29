@@ -1639,7 +1639,7 @@
                "title":{
 
                   "0":"New XBB.1 + Orf8:G8* with S:486P in a branch with orf1a:A2621V (140 seqs, 26 countries)"
-                  "1":""
+                  "1":"New XBB.1 + Orf8:G8* with S:486P in a branch with orf1a:A2621V (142 seqs, 26 countries) "
 
     }          
 
