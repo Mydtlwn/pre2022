@@ -1577,9 +1577,9 @@
                "type":"",
 
   }
-          "1900":{
+          "2013":{
 
-               "openTime":"2023.XX.XX"
+               "openTime":"2023.05.22"
 
                "openCount":""
 
@@ -1589,7 +1589,10 @@
 
                "title":{
 
-                  "0":""
+                  "0":"XBB.1.9.1 with S:E180Q likely emerged in Malaysia (40 seqs as 23/05) "
+                  "1":""
+                  "2":""
+                  "3":""
 
     }          
 
