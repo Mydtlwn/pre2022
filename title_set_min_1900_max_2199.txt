@@ -815,7 +815,7 @@
        "1972":{
                "openTime":"2023.04.30"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2022.05.22],
                "closeType":"",
                "title":{
                   "0":"EG.1.2 with s:p479r and several orf muts (29 seqs, austria) "*
