@@ -1590,7 +1590,7 @@
                "title":{
 
                   "0":"XBB.1.9.1 with S:E180Q likely emerged in Malaysia (40 seqs as 23/05) "
-                  "1":""
+                  "1":"XBB.1.9.1 with S:E180Q likely emerged in Malaysia (40 seqs as 23/05 - 10 countries)"
                   "2":""
                   "3":""
 
