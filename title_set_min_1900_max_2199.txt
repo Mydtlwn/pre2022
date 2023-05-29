@@ -1529,4 +1529,27 @@
                "type":"",
 
   }
+          "2011":{
+
+               "openTime":"2023.05.22"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"FD.1.1 with ORF1a:W630R(T2153C) 175 seq. mostly Canada"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
 
