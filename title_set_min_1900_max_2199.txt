@@ -1970,6 +1970,29 @@
                "designation":"FR.1.2"
 
   }
+          "2029":{
+
+               "openTime":"2023.05.31"
+
+               "openCount":""
+
+               "closeTime":[2023.06.02],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"Double headed sublineage of XBB.2.3 with S:S494P one with Orf8:I58T likely emerged in Philippines (61 sequences) and its apparently sibling lineage defined by silent S:R498R (14 seqs- see what this means in the great comment by Ryan Hisner)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
   
 
