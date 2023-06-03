@@ -2016,6 +2016,29 @@
                "type":"",
 
   }
+          "2031":{
+
+               "openTime":"2023.06.02"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"First XBB.1.4 sublineage gained S:F486P and Orf1a:V3595F (NSP6_V26F) - 76 Seqs - 70% of Prevalence in Federal District Brazil in May"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
   
 
