@@ -1946,6 +1946,30 @@
                "type":"",
 
   }
+          "2028":{
+
+               "openTime":"2023.05.31"
+
+               "openCount":""
+
+               "closeTime":[2023.06.01],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":""
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+               "designation":"FR.1.2"
+
+  }
   
   
 
