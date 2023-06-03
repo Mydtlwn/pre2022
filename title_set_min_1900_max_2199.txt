@@ -1923,6 +1923,29 @@
                "type":"delete",
 
   }
+          "2027":{
+
+               "openTime":"2023.05.31"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"FL.2.2 (XBB.1.9.1.2.2) sublineage with S:T307I (84 seqs in 8 countries)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
   
 
