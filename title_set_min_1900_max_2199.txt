@@ -1638,7 +1638,7 @@
 
                "openCount":""
 
-               "closeTime":[],
+               "closeTime":[2023.05.31],
 
                "closeType":"",
 
@@ -1654,6 +1654,7 @@
                "mutations":""
 
                "type":"",
+               "designation":"XBB.1.43,XBB.1.43.1"
 
   }
           "2016":{
