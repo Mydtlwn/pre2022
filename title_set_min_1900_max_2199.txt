@@ -278,7 +278,7 @@
                "closeTime":[],
                "closeType":"",
                "title":{
-                  "0":"BN.1.2 with Orf9b:I5V,Orf9b:G31V (23 seqs, 9 countries)"
+                  "0":"BN.1.2 with Orf9b:I5V,Orf9b:G31V (23 seqs, 9 countries)8"
                   "1":"BN.1.2 with Orf9b:I5V,Orf9b:G31V mostly in Taiwan (23 seqs, 9 countries) "
     }          "base":"BN.1.2",
                "mutations":"ORF9b:I5V,ORF9b:G31V"
@@ -1348,9 +1348,9 @@
 
                "openCount":""
 
-               "closeTime":[],
+               "closeTime":[2023.05.30],
 
-               "closeType":"",
+               "closeType":"not planned",
 
                "title":{
 
