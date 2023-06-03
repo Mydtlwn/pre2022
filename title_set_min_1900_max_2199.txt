@@ -561,7 +561,7 @@
         "1950":{
                "openTime":"2023.04.25"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.06.02],
                "closeType":"",
                "title":{
                   "0":"Sister Group of EG.5 being probably successful in Isarel"
@@ -569,6 +569,7 @@
     }          "base":"",
                "mutations":""
                "type":"",
+               "designation":"EG.6.1"
   }
         "1951":{
                "openTime":"2023.04.25"
