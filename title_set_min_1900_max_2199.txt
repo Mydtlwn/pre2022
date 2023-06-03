@@ -1232,7 +1232,7 @@
 
                "openCount":""
 
-               "closeTime":[],
+               "closeTime":[2023.06.02],
 
                "closeType":"",
 
