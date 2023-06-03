@@ -1790,7 +1790,7 @@
 
                "openCount":""
 
-               "closeTime":[],
+               "closeTime":[2023.05.31],
 
                "closeType":"",
 
@@ -1805,6 +1805,7 @@
                "mutations":""
 
                "type":"",
+               "designation":"FP.3"
 
   }
           "2022":{
