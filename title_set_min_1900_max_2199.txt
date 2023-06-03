@@ -608,7 +608,7 @@
         "1954":{
                "openTime":"2023.04.25"
                "openCount":""
-               "closeTime":[],
+               "closeTime":[2023.06.01],
                "closeType":"",
                "title":{
                   "0":"Potential recombinant of XBB.1.9.2* and XBB.1.22* emerging worldwide (27 seqs, 9 countries, 23 seqs contain S:Q613H))"
@@ -620,6 +620,7 @@
                "breakpoint":"",
                "mutations":"",
                "type":"",
+               "designation":"XBB.1.42"
   }
         "1955":{
                "openTime":"2023.04.25"
