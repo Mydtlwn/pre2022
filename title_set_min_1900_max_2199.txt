@@ -1993,6 +1993,29 @@
                "type":"",
 
   }
+          "2030":{
+
+               "openTime":"2023.06.02"
+
+               "openCount":""
+
+               "closeTime":[],
+
+               "closeType":"",
+
+               "title":{
+
+                  "0":"XBB.1.9.1 with S:F490P (130 seqs, 15 countries, mostly in Finland and around Europe)"
+
+    }          
+
+               "base":"",
+
+               "mutations":""
+
+               "type":"",
+
+  }
   
   
 
