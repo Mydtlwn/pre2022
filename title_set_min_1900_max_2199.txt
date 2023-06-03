@@ -987,8 +987,8 @@
         "1986":{
                "openTime":"2023.05.06"
                "openCount":""
-               "closeTime":[],
-               "closeType":"",
+               "closeTime":[2023.05.31],
+               "closeType":"not planned",
                "title":{
                   "0":"XBB.1.5 sublineage with S:K182Q, ORF1a:T1322I (73 seq, May 5) "
     }          
