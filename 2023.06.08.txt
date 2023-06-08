@@ -1,1 +1,7 @@
+A new phase of the ladder chart.
+
+XBB.1.5 family of ladder diagrams:
+
+First ladder: XBB.1.5.49,EU.1.1,XBB.1.5.37,EU.1.1.1,XBB.1.5.24
+
 
