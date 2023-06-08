@@ -4,4 +4,4 @@ XBB.1.5 family of ladder diagrams:
 
 First ladder: XBB.1.5.49,EU.1.1,XBB.1.5.37,EU.1.1.1,XBB.1.5.24
 Second step: XBB.1.5.1,XBB.1.5.10,XBB.1.5.15,XBB.1.5.67
-
+There has been a violent decline in some early designated variants of the XBB.1.5 family, with even the dark horses of the first two weeks suffering a decline in share, but there is still a potentially large possibility that some XBB.1.5 variants could rise, such as XBB.1.5.70 and the descendants and newly designated XBB.1.5.72, XBB.1.5.81, with the gradual reduction in sequencing Some variants should not adhere too closely to the original
