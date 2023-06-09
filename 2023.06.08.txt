@@ -12,3 +12,6 @@ First order: XBB.1.9.1,FL.4,EG.1,XBB.1.9.2,,EG.5.1
 Second step: FL.1,FL.2,EG.4
 
 The XBB.1.16 family: XBB.1.16.1,FU.1,XBB.1.16.2. Additional thanks to all the staff involved in the sequencing, as the analysis of these data has bought everyone a lot of time.
+Several strains that may have had a significant advantage in recent times, FL.15, XBB.1.5.70, XBB.1.5.72, XBB.1.5.81, FL.1.5, FL.1.5.1, GK.1
+
+,GE.1,XCD,XBB.8.2,XBB.1.34.1,XBB.1.34.2,XBB.1.5.74,XBB.1.16.9
