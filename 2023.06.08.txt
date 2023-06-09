@@ -9,3 +9,4 @@ XBB.1.9 family:
 First order: XBB.1.9.1,FL.4,EG.1,XBB.1.9.2,,EG.5.1
 
 First order: XBB.1.9.1,FL.4,EG.1,XBB.1.9.2,,EG.5.1
+Second step: FL.1,FL.2,EG.4
