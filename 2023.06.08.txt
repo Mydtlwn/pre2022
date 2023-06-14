@@ -15,3 +15,6 @@ The XBB.1.16 family: XBB.1.16.1,FU.1,XBB.1.16.2. Additional thanks to all the st
 Several strains that may have had a significant advantage in recent times, FL.15, XBB.1.5.70, XBB.1.5.72, XBB.1.5.81, FL.1.5, FL.1.5.1, GK.1
 
 ,GE.1,XCD,XBB.8.2,XBB.1.34.1,XBB.1.34.2,XBB.1.5.74,XBB.1.16.9
+Possible strains with potential at this stage, FL.15,FL.1.5.1,GK.1. Although strains have been designated as more likely threats, more emphasis should be placed on these three strains now, as subsequent strains gain momentum. We may include new strains for close attention at a later date.
+
+
