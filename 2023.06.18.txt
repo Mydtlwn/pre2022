@@ -1,1 +1,13 @@
 In the recent past, the potential threat of the EG.5.1 strain has begun to take shape, in addition to FL.15, GK.1, GR.1, GS.1, FL.1.5.1, GN.1, FL.16, FL.1.6 which are also under siege, GJ.1 perhaps starting, GE.1 perhaps starting to grow, and currently, XBB.2.3.2 which is also in great need of splitting, and XBB.1. 5.1 and XBB.1.5.49 have been on the list for some time, and I suspect that some of them could have been split off into some additional branches long ago.
+Latest mutations of concern:
+
+S:E554K.
+
+S:E554D.
+
+S:Q52H.
+
+S:Q1208H
+
+S:T732I
+
