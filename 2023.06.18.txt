@@ -10,4 +10,5 @@ S:Q52H.
 S:Q1208H
 
 S:T732I
+A ladder chart for the XBB.2.3 family will be added next week, with three as the standard for the first ladder chart and more at a later date depending on popularity.
 
