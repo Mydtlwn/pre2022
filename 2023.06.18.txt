@@ -17,5 +17,5 @@ XBB.1.5 family ladder list: 1st ladder: XBB.1.5.17,XBB.1.5.1,XBB.1.5.49,XBB.1.5.
 
 XBB.1.5.10
 
-
+Second order, EU.1.1,XBB.1.5.37,XBB.1.5.42,XBB.1.5.68,XBB.1.5.16
 
