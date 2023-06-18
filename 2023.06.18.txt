@@ -24,3 +24,6 @@ XBB.1.9 family ladder, first ladder:
 XBB.1.9.1,XBB.1.9.2,FL.4,EG.1,EG.5.1
 
 Second step: FL.2,EG.5,FL.1.
+
+
+XBB.1.16 family ladder list, XBB.1.16.1,XBB.1.16.2,FU.1
