@@ -6,3 +6,4 @@ XBB.1.5 family: 1st ladder: XBB.1.5.37,XBB.1.5.49,GR.1,XBB.1.5.73.
 
 XBB.1.5.13. What can be seen is that XBB.1.5.49 is suppressed, while XBB.1.5.37 shows an advantage, but I don't think the advantage will last long, as GR.1 and XBB.1.5.73 seem to have more potential.
 Second order: XBB.1.5.67,XBB.1.5.1,XBB.1.5.68, XBB.1.5.51. XBB.1.5.67, XBB.1.5.68 seem to be very promising. They will probably be in is third and fourth in the subsequent steps of the ladder.
+XBB.1.9 family: first order, XBB.1.9.1,EG.5.1,EG.1,FL.4,EG.5.2. More surprising is EG.5.2, who is in the same EG.5 family as EG.5.1, even though this time XBB.1.9.2 dropped to sixth, although in the last report EG.5.2 had shown potential.
