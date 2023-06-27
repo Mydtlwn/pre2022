@@ -5,3 +5,4 @@ The figures for this step list are as follows:
 XBB.1.5 family: 1st ladder: XBB.1.5.37,XBB.1.5.49,GR.1,XBB.1.5.73.
 
 XBB.1.5.13. What can be seen is that XBB.1.5.49 is suppressed, while XBB.1.5.37 shows an advantage, but I don't think the advantage will last long, as GR.1 and XBB.1.5.73 seem to have more potential.
+Second order: XBB.1.5.67,XBB.1.5.1,XBB.1.5.68, XBB.1.5.51. XBB.1.5.67, XBB.1.5.68 seem to be very promising. They will probably be in is third and fourth in the subsequent steps of the ladder.
