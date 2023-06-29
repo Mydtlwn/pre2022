@@ -9,3 +9,4 @@ Second order: XBB.1.5.67,XBB.1.5.1,XBB.1.5.68, XBB.1.5.51. XBB.1.5.67, XBB.1.5.6
 XBB.1.9 family: first order, XBB.1.9.1,EG.5.1,EG.1,FL.4,EG.5.2. More surprising is EG.5.2, who is in the same EG.5 family as EG.5.1, even though this time XBB.1.9.2 dropped to sixth, although in the last report EG.5.2 had shown potential.
 Second tier: XBB.1.9.2, FL.2, FL.5. Although FL.2.3 is not in the list, it has the potential to enter the first tier in subsequent tier lists.
 XBB.1.16 family: XBB.1.16.1,FU.1,XBB.1.16.2
+XBB.2.3 family: XBB.2.3.2, GJ.1.
