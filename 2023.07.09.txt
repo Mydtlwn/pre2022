@@ -10,3 +10,6 @@ XBB.1.9 family: first order:
 XBB.1.9.1, EG.5.1, EG.1, EG.5.2, FL.4.
 
 Second order: XBB.1.9.2, FL.2, FL.5, FL.2.3, EG.2
+
+
+XBB.1.16 family: XBB.1.16.1, FU.1, XBB.1.16.2, FU.2, XBB.1.16.6
