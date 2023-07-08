@@ -3,7 +3,7 @@ The data for this step list is as follows:
 XBB.1.5 family: 1st ladder: XBB.1.5.49, XBB.1.5.77, XBB.1.5.72, FD.1.1,
 XBB.1.5.10.
 
-Second order: XBB.1.5.28, GR.1, XBB.1.5.13
+Second order: XBB.1.5.28, XBB.1.5.37，GR.1, /*XBB.1.5.13*/
 
 XBB.1.9 family: first order:
 
