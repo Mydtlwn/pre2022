@@ -1,1 +1,5 @@
+The latest week in the ladder rankings:
 
+XBB.1.5 family: first ladder:
+
+xbb.1.5.10, xbb.1.5.49, xbb.1.5.72, xbb.1.5.77, xbb.1.5.28.
