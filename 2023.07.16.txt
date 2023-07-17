@@ -14,3 +14,6 @@ Second steps: FL.2, FL.1.5.1, XBB.1.9.2, FL.15, EG.1.4.
 
 
 XBB.1.16 family: XBB.1.16.1, FU.1, XBB.1.16.2, XBB.1.16.6, FU.2.
+
+
+XBB.2.3 family: GJ.1, XBB.2.3.2, XBB.2.3.3.
