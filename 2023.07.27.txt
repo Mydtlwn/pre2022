@@ -13,3 +13,5 @@ Second Step:EG.5.2, FL.4, EG.6.1.
 XBB.1.16 family: XBB.1.16.6, XBB.1.16.1, XBB.1.16.11, XBB.1.16.2, FU.1.
 
 XBB.2.3 family: GJ.1, XBB.2.3.2, GE.1.
+
+New potential strains, GW.5, FL.4.1.1, FY.4.1.1, HK.3, FL.20.1, EG.10.1, FL.10.1，HP.1.1，HM.1，GA.4，GA.6.1.
