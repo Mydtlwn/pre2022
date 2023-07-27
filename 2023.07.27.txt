@@ -1,3 +1,5 @@
 Regarding the next ladder list, the XBB.1.5 family will be reduced to five slots for the next ladder list, and the current ladder list will still be counted with eight slots.
 
 The data of this ladder list: XBB.1.5 family: the first ladder:XBB.1.5.10, XBB.1.5.49, XBB.1.5.77, XBB.1.5.72, XBB.1.5.28.
+
+Second Order: GN.1, XBB.1.5.68, FD.1.1.
