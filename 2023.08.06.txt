@@ -1,3 +1,9 @@
 New intriguing mutations, there have been some intriguing mutations in recent times, S:Q14H and S:Q14R are new and frequent mutations lately, this mutation was classified as a priority mutation in the beginning but I didn't pay much attention to it until recently when this mutation has been appearing very frequently, S:Q52H, S:Q52R, these two mutations are the EG.5.1, FL.20 and other strains, I think I should have already written about the S:Q52H mutation.S:E554Q, this mutation has been very highly regarded in our area lately, and some people think that this mutation is more adaptive than S:E554K, I can't say for sure if this is correct or not here, there have been a lot of mutations on S:E554 lately, with the highest frequency on S:E554K, and apart from that S: E554K is the most frequent mutation. E554A, S:E554D, S:E554V, S:E554Q these mutations are gradually appearing. I think there may be other attempts to appear, in addition to some mutations around S:550_559 are starting to appear. s:A222V, this mutation is appearing very frequently these days.There is also the S:T323I mutation, which appears frequently in different branches and seems to have a decent gain, although slightly inferior to some other mutations.
 
 
+Some of the mutant strains that need attention, FL.20.1, a strain that is acquiring a new branch of a key mutation, has a number of combinations that should gain more focus.
+HK.3 This is a very important branch of EG.5.1.1.
+HK.2 is an equally important branch that has recently shown some promise.
+GW.5, this one is the only non-important branch of several major families that is currently in focus. Some new strains were specified in the first few weeks and there are some powerful mutations, but none of the mutations have shown much gain within the XBB lineage, so I don't know if this one escapes that fate.
+
+
