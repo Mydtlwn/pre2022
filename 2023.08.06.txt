@@ -7,3 +7,8 @@ HK.2 is an equally important branch that has recently shown some promise.
 GW.5, this one is the only non-important branch of several major families that is currently in focus. Some new strains were specified in the first few weeks and there are some powerful mutations, but none of the mutations have shown much gain within the XBB lineage, so I don't know if this one escapes that fate.
 
 
+Ladder list for this report :.
+XBB.1.5 Family : XBB.1.5.10, XBB.1.5.72, XBB.1.5.28, XBB.1.5.49.
+
+
+
