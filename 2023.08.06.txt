@@ -15,3 +15,6 @@ XBB.1.9 family: first order: EG.5.1, EG.5.1.1, FL.1.5.1, XBB.1.9.1, EG.6.1.
 
 Step 2: EG.5.2, EG.1, FL.4.
 
+
+XBB.1.16 family: XBB.1.16.6, XBB.1.16.1, FU.2, FU.1, XBB.1.16.11.
+
