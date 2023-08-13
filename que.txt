@@ -155,6 +155,7 @@ FL.19.1         [S:G252V，S:S486P，S:F456L]
 FL.20           [S:G252V，S:S486P，S:F456L，S:Q52H]
 FL.20.1         [S:G252V，S:S486P，S:F456L，S:L455W，S:Q52H]
 FL.21.1         [S:G252V，S:S486P，S:D1084N]
+/*  Error on  lineage_note FL.21.2 alias ，this alias should is XBB.1.9.2.21.2。
 FL.24           [S:G252V，S:S486P，S:Q613H，S:A688V]
 FL.25           [S:G252V，S:S486P，S:E554K]
 FL.26.1         [S:G252V，S:S486P，S:Q493L]
