@@ -1,3 +1,5 @@
 This ladder list reports on the XBB.1.5 family: XBB.1.5.72, XBB.1.5.10, XBB.1.5.49, and XBB.1.5.28.
+
 Due to the splitting of branching data for some of the previous strains, we made adjustments midway through the process and the XBB.1.9 section was split into two parts, the XBB.1.9 family and the EG.5.1 family.
 XBB.1.9 family (excluding EG.5.1 family): FL.1.5.1, EG.6.1, XBB.1.9.1, XBB.1.9.2, FL.4
+
