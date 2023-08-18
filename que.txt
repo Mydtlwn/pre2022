@@ -196,4 +196,4 @@ EG.12           [S:G252V，S:S486P，S:E554K]
 GD.1            [S:G252V，S:Y453F]
 GD.2            [S:G252V，S:L212S]
 GD.3            [S:G252V，S:F59L]
-XBB.1.9.6       [S:G252V，S:R403K，
+XBB.1.9.6       [S:G252V，S:R403K，S:A570T]
