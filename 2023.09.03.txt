@@ -1,1 +1,3 @@
 
+
+This report is a few days ahead of schedule as subsequent reports will be delayed, this ladder scoreboard is in two forms, the first form is for the XBB.1.5 family, currently XBB.1.5.72 has had excellent numbers in recent days, while XBB.1.5.10 has had a somewhat less than stellar performance.
