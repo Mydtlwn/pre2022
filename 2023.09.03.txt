@@ -18,3 +18,6 @@ Second Order: FU.2, HF.1, FU.2.1.
 
 
 XBB.2.3 family: GJ.1.2, GE.1, XBB.2.3.2.
+
+
+Some of the mutations that need to be looked into are mutations such as, S:N481K, S:N556K, S:F157L, and S:N450D，S:E583D.
