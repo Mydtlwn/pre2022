@@ -17,3 +17,5 @@ The Second Step:FU.1, XBB.1.16.15, FU.2.1.
 
 
 XBB.2.3 family: GJ.1.2, GE.1, XBB.2.3.11.
+
+Among the XBB.2.3 family, XBB.2.3.3 has also seen a lot of growth recently.
