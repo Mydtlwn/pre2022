@@ -23,6 +23,5 @@ Among the XBB.2.3 family, XBB.2.3.3 has also seen a lot of growth recently.
 
 Strains with more growth potential in recent times include JF.1, JG.3, HV.1, GK.1.4, GW.5.1.1, HK.3.1, HK.3.2, FL.20.2, FL.1.5.2. FL.31.1, FL.32.1, EG.5.1.8，JP.1，GK.2.1.1，GS.5，JM.1，JD.1。
 
-
-
+Some of the mutations that need to be looked into are mutations such as, S:N481K, S:N556K, S:F157L, and S:N450D，S:T76I，S:K77R，S:P521S，S:P521T，S:R190M.
 
