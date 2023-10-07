@@ -1,5 +1,6 @@
 
 
+
 For this edition of the standings, the XBB.1.5 family enters the list with only GK.1.1, but it should be noted that there is also JD.1.1 in the XBB.1.5 family that may have an impact later on, but perhaps it's already as far as the next data will show!
 
 
@@ -20,4 +21,8 @@ Family XBB.2.3: GJ.1.2, GE.1, XBB.2.3.3.
 
 
 There is no worthwhile data information on the XBB.1.19 family in the current reserved position for the time being, and the XBB.1.17 family in the reserved position will be added starting next week. The future may see XBB.1.16, XBB.1.17, XBB.1.19, FL.1.5.1, FL.1.5.2, and EG.5.1 fighting against XBB.1.5.70, JD.1, DV.7.1, and BA.2.86.
+
+
+Recent mutations of interest are S:P809S and S:P809T as well as S:T76I and S:G75V. the former, more notably, has been shown to increase in frequency in recent datasets for the S:P809S and S:P809T mutations.
+
 
