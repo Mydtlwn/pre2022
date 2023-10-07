@@ -17,3 +17,7 @@ Second Step: HF.1, JF.1, FU.1.
 
 Family XBB.2.3: GJ.1.2, GE.1, XBB.2.3.3.
 
+
+
+There is no worthwhile data information on the XBB.1.19 family in the current reserved position for the time being, and the XBB.1.17 family in the reserved position will be added starting next week. The future may see XBB.1.16, XBB.1.17, XBB.1.19, FL.1.5.1, FL.1.5.2, and EG.5.1 fighting against XBB.1.5.70, JD.1, DV.7.1, and BA.2.86.
+
