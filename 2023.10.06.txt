@@ -15,3 +15,5 @@ Family XBB.1.16: First Order: XBB.1.16.6, XBB.1.16.11, FU.2, XBB.1.16.1, XBB.1.1
 Second Step: HF.1, JF.1, FU.1.
 
 
+Family XBB.2.3: GJ.1.2, GE.1, XBB.2.3.3.
+
