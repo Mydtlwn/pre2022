@@ -1,4 +1,4 @@
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AA704V&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
 
 
 
