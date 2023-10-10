@@ -34,7 +34,7 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AP809S&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
 
-
+FL.1.5.1+75 or 76 and 52
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AT76I&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
@@ -95,6 +95,7 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AQ14H&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
+FL.1.5.1+14
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AQ14K&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
