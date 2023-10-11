@@ -301,11 +301,14 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AG184S&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
+FL.1.5.1+450 or 452 453
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AL452R&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AY453F&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AN450D&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
 
 
