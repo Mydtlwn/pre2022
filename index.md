@@ -642,3 +642,16 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AT573I&nextcladePangoLineage1=BA.2.86.4*&analysisMode=CompareToBaseline&
 
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AT573I&nextcladePangoLineage1=BA.2.86.5*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AT573I&nextcladePangoLineage1=JN.2*&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AT573I&nextcladePangoLineage1=JN.3*&analysisMode=CompareToBaseline&
+
+____________________________
+(R)--S:E583D
+
+
+
