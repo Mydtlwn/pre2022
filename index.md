@@ -668,3 +668,13 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 （V）--S:E583D
 
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AE583D&nextcladePangoLineage1=BA.2.86.2*&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AE583D&nextcladePangoLineage1=BA.2.86.3*&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AE583D&nextcladePangoLineage1=BA.2.86.4*&analysisMode=CompareToBaseline&
+
+
