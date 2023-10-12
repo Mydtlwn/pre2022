@@ -580,3 +580,6 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AN556H&nextcladePangoLineage1=EG.5.1.1*&analysisMode=CompareToBaseline&
+
+
+S:T572,S:T573I，S:E583D
