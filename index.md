@@ -495,3 +495,7 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AQ14R&nextcladePangoLineage1=EG.5.1.2*&analysisMode=CompareToBaseline&
 
 
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AK460R&nextcladePangoLineage1=EG.5.1.4*&analysisMode=CompareToBaseline&
+
+
