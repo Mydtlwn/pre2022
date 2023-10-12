@@ -685,5 +685,10 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AE583D&nextcladePangoLineage1=JN.3*&analysisMode=CompareToBaseline&
+_________________________
+EG.5.1 +  572，573，583
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AT572I&nextcladePangoLineage1=EG.5.1.1*&analysisMode=CompareToBaseline&
 
 
