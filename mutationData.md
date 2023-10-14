@@ -283,4 +283,4 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AA222V&analysisMode=CompareToBaseline&
 
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=XBB.2.3*&aaMutations1=S%3AQ252V&analysisMode=CompareToBaseline&
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=XBB.2.3*&aaMutations1=S%3AG252V&analysisMode=CompareToBaseline&
