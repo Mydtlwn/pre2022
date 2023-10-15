@@ -4,6 +4,7 @@ F     TTT
 F=>L  CTT
       TTA
       TTG
+      CTC
 
 F=>I  ATT
 
