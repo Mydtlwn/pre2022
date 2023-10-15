@@ -2,7 +2,8 @@ F     TTT
 
 
 F=>L  CTT
-
+      TTA
+      TTG
 
 F=>I  ATT
 
@@ -13,3 +14,9 @@ F=>V  GTT
 
 
 F=>S  TCT
+
+
+F=>Y  TAT
+
+
+F=>C  TGT   
