@@ -27,3 +27,8 @@ F=>P  CCT
 
 
 
+F=>N   AAT
+
+
+
+F=>G   GGT
