@@ -1,1 +1,11 @@
 F     TTT
+
+
+F=>L  CTT
+
+
+F=>I  ATT
+
+
+
+F=>V  GTT
