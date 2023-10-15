@@ -14,6 +14,7 @@ F=>V  GTT
 
 
 F=>S  TCT
+      TCC
 
 
 F=>Y  TAT
@@ -32,3 +33,9 @@ F=>N   AAT
 
 
 F=>G   GGT
+
+
+
+F=>W   TGG
+
+
