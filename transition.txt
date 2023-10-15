@@ -7,7 +7,7 @@ F=>L  CTT
       CTC
 
 F=>I  ATT
-
+      ATA
 
 
 F=>V  GTT
@@ -38,5 +38,7 @@ F=>G   GGT
 
 
 F=>W   TGG
+
+
 
 
