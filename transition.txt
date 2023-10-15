@@ -11,6 +11,7 @@ F=>I  ATT
 
 
 F=>V  GTT
+      GTG
 
 
 
