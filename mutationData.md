@@ -503,7 +503,9 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AL455H&analysisMode=CompareToBaseline&
 
 
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AF456L&analysisMode=CompareToBaseline&
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BA.2.86*&aaMutations1=S%3AF456L&analysisMode=CompareToBaseline&
+
+
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AF456S&analysisMode=CompareToBaseline&
@@ -525,3 +527,26 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BA.2.86*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BA.2.86.1*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BA.2.86.2*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BA.2.86.3*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.1*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.2*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.3*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JQ.1*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
