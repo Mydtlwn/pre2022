@@ -23,10 +23,14 @@ F=>V  ↓
 
 
 
-F=>S  TCT
-      TCC
-      TCA
-      TCG
+F=>S    ↓
+      T C T
+        ↓↓
+      T C C
+        ↓↓
+      T C A
+        ↓↓
+      T C G
 
 
 F=>Y  TAT
