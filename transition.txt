@@ -17,6 +17,8 @@ F=>V  GTT
 
 F=>S  TCT
       TCC
+      TCA
+      TCG
 
 
 F=>Y  TAT
