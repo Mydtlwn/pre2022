@@ -35,8 +35,10 @@ F=>S    ↓
       T C G
 
 
-F=>Y  TAT
-      TAC
+F=>Y    ↓
+      T A T
+        ↓↓
+      T A C
 
 
 F=>C  TGT   
