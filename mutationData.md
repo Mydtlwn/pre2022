@@ -519,3 +519,9 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BF.7*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=CM.8.1*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BA.2.86*&aaMutations1=S%3AN460K&analysisMode=CompareToBaseline&
