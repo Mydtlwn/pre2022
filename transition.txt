@@ -1,10 +1,14 @@
-F     TTT
+F     T T T
 
 
-F=>L  CTT
-      TTA
-      TTG
-      CTC
+F=>L  ↓
+      C T T
+          ↓
+      T T A
+          ↓
+      T T G
+      ↓  ↓
+      C T C
 
 F=>I  ATT
       ATA
