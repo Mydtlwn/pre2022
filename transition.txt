@@ -22,6 +22,7 @@ F=>S  TCT
 
 
 F=>Y  TAT
+      TAC
 
 
 F=>C  TGT   
