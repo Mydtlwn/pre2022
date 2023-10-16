@@ -1,7 +1,9 @@
 F     T T T
 
 
-F=>L  ↓
+F=>L  
+T22928C，T22930A，T22930G，(T22928C，T22930C)
+      ↓
       C T T
           ↓
       T T A
