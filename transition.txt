@@ -10,12 +10,16 @@ F=>L  ↓
       ↓  ↓
       C T C
 
-F=>I  ATT
-      ATA
+F=>I  ↓
+      A T T
+      ↓  ↓
+      A T A
 
 
-F=>V  GTT
-      GTG
+F=>V  ↓ 
+      G T T
+      ↓  ↓
+      G T G
 
 
 
