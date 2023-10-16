@@ -520,6 +520,23 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=BQ.1*&aaMutations1=S%3AF456L&analysisMode=CompareToBaseline&
 
 
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=XBC.1.6*&aaMutations1=S%3AF456LS&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=XBB.1.5*&aaMutations1=S%3AF456L&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=XBB.1.9.1*&aaMutations1=S%3AF456L&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=XBB.1.9.2*&aaMutations1=S%3AF456L&analysisMode=CompareToBaseline&
+
+
+
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AF456S&analysisMode=CompareToBaseline&
 
 
