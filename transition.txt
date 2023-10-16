@@ -41,7 +41,8 @@ F=>Y    ↓
       T A C
 
 
-F=>C  TGT   
+F=>C    ↓
+      T G T   
 
 
 
