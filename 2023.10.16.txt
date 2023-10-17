@@ -16,3 +16,5 @@ XBB.1.16 Family: First Order: XBB.1.16.6, XBB.1.16.11, HF.1, JF.1, XBB.1.16.15.
 
 Second ladder: FU.2, XBB.1.16.1, HF.1.1.
 
+
+Family XBB.2.3: GJ.1.2, GE.1, GJ.1.2.2.
