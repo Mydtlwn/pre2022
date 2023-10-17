@@ -2,3 +2,7 @@
 
 Points list data over the last ten days is as follows:
 Leaderboard information for the XBB.1.5 family: GK.1.1, JD.1.1. JD.1.1 has seen rapid growth potential in recent times, and perhaps further breakdowns.
+Of note are FD.5.1 and GN.1.3. in particular, GN.1.3 has once again gained new gainful mutations on top of the original, FD.5.1 has a very similar composition to FD.1.1, but they are things on different branches, FD.5.1 also has a gainful spiking mutation that FD.1.1 does not have, and the more recent GS.4.1 in some regions and the previously CH.1.1.1 both carry this mutation.
+
+
+
