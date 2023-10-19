@@ -223,12 +223,17 @@ FL.20.1         [S:G252V，S:S486P，S:F456L，S:L455W，S:Q52H]
 FL.20.2         [S:G252V，S:S486P，S:K478R，S:F456L，S:Q52H]
 FL.21.1         [S:G252V，S:S486P，S:D1084N]
 /*  Error on  lineage_note LN_2912 FL.21.2 alias ，this alias should is XBB.1.9.1.21.2。
+---- FL.21.2
+FL.23.2         [S:G252V，S:S486P，S:S494P]
+FL.23.2.1       [S:G252V，S:S486P，S:P521T，S:S494P]
 FL.24           [S:G252V，S:S486P，S:Q613H，S:A688V]
 FL.25           [S:G252V，S:S486P，S:E554K]
 FL.26.1         [S:G252V，S:S486P，S:Q493L]
 FL.28           [S:G252V，S:S486P，S:K478R]
 FL.29           [S:G252V，S:S486P，S:S490P]
 /*Error on the lineage_notes Ln_2922  at  S:490;*/
+FL.30           [S:G252V，S:S486P，S:E484K]
+FL.30.1         [S:G252V，S:S486P，S:E484K，S:A852S]
 XBB.1.9.2       [S:G252V，S:S486P]
 EG.1     [S:G252V，S:S486P，S:Q613H]
 EG.1.1          [S:G252V，S:S486P，S:Q613H，S:V70F]
