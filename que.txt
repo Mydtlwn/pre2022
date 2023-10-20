@@ -234,6 +234,7 @@ FL.29           [S:G252V，S:S486P，S:S490P]
 /*Error on the lineage_notes Ln_2922  at  S:490;*/
 FL.30           [S:G252V，S:S486P，S:E484K]
 FL.30.1         [S:G252V，S:S486P，S:E484K，S:A852S]
+FL.31.1         [S:G252V，S:S486P，S:K478R，S:Q613H，S:D80H]
 XBB.1.9.2       [S:G252V，S:S486P]
 EG.1     [S:G252V，S:S486P，S:Q613H]
 EG.1.1          [S:G252V，S:S486P，S:Q613H，S:V70F]
