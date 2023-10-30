@@ -543,9 +543,9 @@ XBB.2.6.1       [S:D253G，S:P521S]
 XBB.2.6.2       [S:D253G，S:T19L]
 XBB.2.6.3       [S:D253G，S:T883I]
 XBB.2.7.1       [S:D253G，S:K478Q，S:Y453F]
-
-
-
+XBB.2.9         [S:D253G，S:S486P]
+XBB.2.10        [S:D253G，S:Q52H]
+XBB.2.12        [S:D253G，S:Q613H]
 
 
 
