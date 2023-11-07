@@ -10,5 +10,5 @@ The XBB.1.9 family is dominated by FL.1.5.1. In recent times, FL.1.5.1 has shown
 EG.5.1 family: HV.1, EG.5.1.1, HK.3, EG.5.1.6, EG.5.1.4.
 
 
-
+XBB.1.16 family: XBB.1.16.6, XBB.1.16.11, JF.1, HF.1, FU.2.
 
