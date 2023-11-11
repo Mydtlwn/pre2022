@@ -15,3 +15,6 @@ XBB.1.16 family: XBB.1.16.6, XBB.1.16.11, JF.1, HF.1, FU.2.
 
 The XBB.2.3 family is dominated by GE.1 and GJ.1.2.
 
+
+JN.1 has a large share of the BA.2.86 family, and I would like to see it upgraded to a VOI, and also, strains in the BA.2.86 family that carry the S:A475V, and those that carry the S:A222V mutation are recommended for direct designation.
+
