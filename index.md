@@ -988,6 +988,9 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AQ613H&nextcladePangoLineage1=JN.5*&analysisMode=CompareToBaseline&
 
 
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AQ613H&nextcladePangoLineage1=JN.6*&analysisMode=CompareToBaseline&
+
+
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AQ613H&nextcladePangoLineage1=JQ.1*&analysisMode=CompareToBaseline&
