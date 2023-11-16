@@ -4,7 +4,7 @@
 The difference between the results of the current data and those of the previous data is not significant.
 
 
-The difference between the results of the current data and those of the previous data is not significant.
+The XBB.1.5 family spreads mainly with JD.1.1 and GK.1.1 as the main strains.
 
 
 The XBB.1.9 family is dominated by FL.1.5.1 as the main strain.
