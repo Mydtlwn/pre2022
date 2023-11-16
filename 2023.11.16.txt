@@ -22,3 +22,9 @@ XBB.1.16 family: XBB.1.16.6, JF.1, XBB.1.16.11, HF.1, XBB.1.16.15.
 The XBB.2.3 family is dominated by GJ.1.2 as the main strain. In addition, GS.4.1 is beginning to show some increase.
 
 
+
+New strains with potential for growth: JN.4, JN.6, HK.22, HK.20.1, XCT.1, XBB.1.16.26, JD.1.2.1.
+
+
+
+
