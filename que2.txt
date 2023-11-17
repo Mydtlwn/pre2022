@@ -2,6 +2,7 @@
 
 
 JN.1        [S:L455S]
+JN.3.1      [S:L922F]
 JN.4        [S:A475V]
 JN.6        [S:V193L]
 JN.7        [S:G594S]
