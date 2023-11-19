@@ -1,12 +1,9 @@
 
 
-FL.1.5.1+701 or 704 521 621
+FL.1.5.1 +704 521 621
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AS704L&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
-
-
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HK.3*&aaMutations1=S%3AA701V&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
 
 
