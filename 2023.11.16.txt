@@ -23,7 +23,7 @@ The XBB.2.3 family is dominated by GJ.1.2 as the main strain. In addition, GS.4.
 
 
 
-New strains with potential for growth: JN.4, JN.6, HK.22, HK.20.1, XCT.1, XBB.1.16.26, JD.1.2.1，JG.3.2，GK.1.10，JN.7，JN.8，JN.3.1，HR.1.1，XDD.
+New strains with potential for growth: JN.4, JN.6, HK.22, HK.20.1, XCT.1, XBB.1.16.26, JD.1.2.1，JG.3.2，GK.1.10，JN.7，JN.8，JN.3.1，HR.1.1，XDD，JN.2.1，JN.10，BA.2.86.4，JN.5.1，JD.1.1.4，HK.3.2.1，HK.3.8，FL.15.4，XDE，XBB.1.16.27，KB.1.
 
 
 
