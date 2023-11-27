@@ -9,3 +9,6 @@ The XBB.1.5 family is dominated by JD.1.1 and GK.1.1.
 The XBB.1.9 family is dominated by FL.1.5.1.
 
 
+
+
+EG.5.1 family: HV.1, EG.5.1.1, HK.3, EG.5.1.4, EG.5.1.6.
