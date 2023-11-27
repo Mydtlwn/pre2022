@@ -18,3 +18,8 @@ EG.5.1 family: HV.1, EG.5.1.1, HK.3, EG.5.1.4, EG.5.1.6.
 XBB.1.16 family: XBB.1.16.6, XBB.1.16.11, JF.1, XBB.1.16.15.
 
 
+
+Some potentially dominant strains have:HK.25，HK.23.1，HK.24，HK.24.1.
+
+
+
