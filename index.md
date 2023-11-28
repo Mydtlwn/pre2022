@@ -12,3 +12,11 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AP621S&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AP621T&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
+
+
+FL.1.5.1+809
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AP809T&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AP809S&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
