@@ -35,3 +35,17 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AQ52R&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
 
+
+
+FL.1.5.1+14
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AQ14K&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AQ14R&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AQ14H&nextcladePangoLineage1=FL.1.5.1*&analysisMode=CompareToBaseline&
+
+
