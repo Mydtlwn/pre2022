@@ -1832,12 +1832,20 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AG75V&nextcladePangoLineage1=EG.5.2.4*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AT76I&nextcladePangoLineage1=EG.5.2.4*&analysisMode=CompareToBaseline&
 
 
 
 
 
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AA1078S&nextcladePangoLineage1=HV.1*&analysisMode=CompareToBaseline&
+
+
+
 
 
 
