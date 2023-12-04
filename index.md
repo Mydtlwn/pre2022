@@ -2340,6 +2340,17 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AT76I&nextcladePangoLineage1=JN.3.4*&analysisMode=CompareToBaseline&
 
 
+_______________________________________________R______75_____76
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AG75V&nextcladePangoLineage1=XDD*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AT76I&nextcladePangoLineage1=XDD*&analysisMode=CompareToBaseline&
+
+
 
 
 
