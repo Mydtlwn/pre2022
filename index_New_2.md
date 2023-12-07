@@ -2,6 +2,9 @@
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157L&nextcladePangoLineage1=EG.5.1.2*&analysisMode=CompareToBaseline&
 
+
+（N，[EG.5.1.2，EG.5.1.3，EG.5.1.4，EG.5.1.8]，[KB.1，KB.2]）
+
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157L&nextcladePangoLineage1=EG.5.1.3*&analysisMode=CompareToBaseline&
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157L&nextcladePangoLineage1=EG.5.1.4*&analysisMode=CompareToBaseline&
