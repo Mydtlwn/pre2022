@@ -299,6 +299,27 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 
+—————————————————————————————————————————————————————————pre_Recombinant_____________________
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=EG.5.1.12*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=EG.5.1.13*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=EG.5.1.14*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=EG.5.1.15*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=EG.5.1.16*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=EG.5.1.18*&analysisMode=CompareToBaseline&
+
+
+_______________________________________
+
+
+
+
+
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=HK.3.8*&analysisMode=CompareToBaseline&
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AF157S&nextcladePangoLineage1=HK.3.2.1*&analysisMode=CompareToBaseline&
