@@ -32,4 +32,4 @@ XBB.1.16 family: XBB.1.16.6, XBB.1.16.11, JF.1, HF.1, XBB.1.16.15.
 
 
 
-Family HV.1: HV.1.1, HV.1.2, HV.1.6.
+HV.1 family: HV.1.1, HV.1.2, HV.1.6.
