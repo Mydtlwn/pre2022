@@ -763,6 +763,36 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AL176F&nextcladePangoLineage1=HK.34.1*&analysisMode=CompareToBaseline&
 
 
+_____________________________
+V___________176
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AL176F&nextcladePangoLineage1=BA.2.86.6*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AL176F&nextcladePangoLineage1=JN.1.3*&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AL176F&nextcladePangoLineage1=JN.1.4*&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AL176F&nextcladePangoLineage1=JN.3.2*&analysisMode=CompareToBaseline&
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AL176F&nextcladePangoLineage1=JN.3.3*&analysisMode=CompareToBaseline&
+
+
+
+
+
+
+
+
 
 
 
