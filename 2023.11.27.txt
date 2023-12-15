@@ -19,7 +19,7 @@ XBB.1.16 family: XBB.1.16.6, XBB.1.16.11, JF.1, XBB.1.16.15.
 
 
 
-Some potentially dominant strains have:HK.25，HK.23.1，HK.24，HK.24.1，HK.26.1，HK.27.1，HK.27.1.1，HK.3.10，HK.3.2.2，XDG，EG.5.2.4，JR.1.1.1，JN.1.1，BA.2.86.5，HV.1.1，EG.5.1.17，EG.5.1.19，GY.1.1.1，KB.2，KC.1，JC.5.
+Some potentially dominant strains have:HK.25，HK.23.1，HK.24，HK.24.1，HK.26.1，HK.27.1，HK.27.1.1，HK.3.10，HK.3.2.2，XDG，EG.5.2.4，JR.1.1.1，JN.1.1，BA.2.86.5，HV.1.1，EG.5.1.17，EG.5.1.19，GY.1.1.1，KB.2，KC.1，JC.5，HV.1.2，HV.1.6，HV.1.6.1，HV.1.7.
 
 
 
