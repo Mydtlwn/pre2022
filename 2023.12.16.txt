@@ -22,3 +22,8 @@ XBB.1.16 family: XBB.1.16.6, XBB.1.16.11, JF.1, XBB.1.16.15, HF.1. It is importa
 
 
 
+The XBB.1.5 family is dominated by JD.1.1, GK.1.1, and JD.1.1.1, and attention needs to be paid to the fact that there are a number of new strains that need to be designated in the JD.1.1 family and the JD.1.1.1 family.
+
+
+
+
