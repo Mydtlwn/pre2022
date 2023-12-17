@@ -8,3 +8,8 @@ JN.1 family and JN.1.1 family and JN.2 family, some branches of JN.3 exist that 
 
 
 For list information, BA.2.86 family: JN.1, JN.1.1, BA.2.86.1.
+
+
+
+EG.5.1 family: HV.1, HK.3, EG.5.1.1, JG.3, EG.5.1.6.
+
