@@ -1020,17 +1020,35 @@ ______________V_253_255
 
 
 
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AD253G&nextcladePangoLineage1=HK.34.1*&analysisMode=CompareToBaseline&
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AD253G&nextcladePangoLineage1=BA.2.86.6*&analysisMode=CompareToBaseline&
 
 
 
 
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AS255F&nextcladePangoLineage1=HK.34.1*&analysisMode=CompareToBaseline&
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AS255F&nextcladePangoLineage1=BA.2.86.6*&analysisMode=CompareToBaseline&
 
 
 
 
-https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AS255L&nextcladePangoLineage1=HK.34.1*&analysisMode=CompareToBaseline&
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AS255L&nextcladePangoLineage1=BA.2.86.6*&analysisMode=CompareToBaseline&
+
+
+____________________________
+____________R__253_255
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AD253G&nextcladePangoLineage1=BA.2.86*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AS255F&nextcladePangoLineage1=BA.2.86*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AS255L&nextcladePangoLineage1=BA.2.86*&analysisMode=CompareToBaseline&
 
 
 
