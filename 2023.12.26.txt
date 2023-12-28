@@ -4,3 +4,8 @@
 
 
 The BA.2.86 family is dominated by JN.1, JN.1.1, and BA.2.86.1.
+
+
+
+
+EG.5.1 family: HV.1, HK.3, JG.3, EG.5.1.1, EG.5.1.6.
