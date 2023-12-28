@@ -24,3 +24,7 @@ The XBB.1.9 family is dominated by FL.1.5.1.
 XBB.1.16 family: XBB.1.16.6, JF.1, XBB.1.16.11.
 
 
+
+
+Current strains with possible potential are KJ.1, GN.1.4, JW.1.1, GK.1.8.1, GK.1.11.
+
