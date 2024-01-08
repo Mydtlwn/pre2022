@@ -4,3 +4,9 @@
 
 
 Recent data show that the BA.2.86 family has been dominated by JN.1, JN.1.1, BA.2.86.1, JN.1.2, and JN.3 in the recent past. Recently, globally, JN.1.2 has shown high growth. Currently, there are strains in JN.1, JN.1.1, and JN.1.2 that need to be defined as soon as possible.
+
+
+
+
+EG.5.1 family: HV.1, HK.3, JG.3, HV.1.1, EG.5.1.1. It is important to note that JG.3.2 and its subsequent evolutionary branches show a very strong growth rate, but of course keep an eye on the HV.1.6.1 strain.
+
