@@ -20,7 +20,7 @@ XBB.1.16 family: XBB.1.16.6, JF.1, XBB.1.16.11.
 
 
 
-
+New strains with potential growth advantages, XDD.1, JN.1.4, JN.1.5.
 
 
 
