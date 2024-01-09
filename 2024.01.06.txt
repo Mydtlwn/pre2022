@@ -16,6 +16,8 @@ The XBB.1.5 family is dominated by JD.1.1, JD.1.1.1, the XBB.1.9 family is domin
 
 
 
+XBB.1.16 family: XBB.1.16.6, JF.1, XBB.1.16.11.
+
 
 
 
