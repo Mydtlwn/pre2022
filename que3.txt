@@ -1,5 +1,5 @@
 
 
 XDD.1          [S:S704L]
-XDD.1.1        [S:I584V]
+XDD.1.1        [S:S704L，S:I584V]
 XDD.2          [S:T307I]
