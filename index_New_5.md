@@ -1878,7 +1878,13 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.1*&aaMutations1=S%3AT307I&nextcladePangoLineage1=EG.5.1.19*&analysisMode=CompareToBaseline&
 
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.1*&aaMutations1=S%3AT307N&nextcladePangoLineage1=EG.5.1.19*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.1*&aaMutations1=S%3AT307R&nextcladePangoLineage1=EG.5.1.19*&analysisMode=CompareToBaseline&
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.1*&aaMutations1=S%3AT307S&nextcladePangoLineage1=EG.5.1.19*&analysisMode=CompareToBaseline&
 
 
 
