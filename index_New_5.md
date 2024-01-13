@@ -1641,6 +1641,10 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=JN.1*&aaMutations1=S%3AK304R&nextcladePangoLineage1=EG.5.1.4*&analysisMode=CompareToBaseline&
+
+
+
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=HV.1*&aaMutations1=S%3AK304I&nextcladePangoLineage1=EG.5.1.4*&analysisMode=CompareToBaseline&
 
 
