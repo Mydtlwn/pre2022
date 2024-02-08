@@ -16,3 +16,9 @@ Second Ladder: JN.1.9, JN.1.8, JN.1.2.
 
 
 Family EG.5.1: JG.3.2, JG.3, HV.1, HV.1.1, HK.3.
+
+
+
+
+
+The XBB.1.5 family is dominated by JD.1.1 and JD.1.1.1.
