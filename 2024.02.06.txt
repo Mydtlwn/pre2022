@@ -10,3 +10,9 @@ Family BA.2.86: First Order: JN.1, JN.1.4, JN.1.8.1, JN.2.5, JN.1.1, JN.1.7.
 
 
 Second Ladder: JN.1.9, JN.1.8, JN.1.2.
+
+
+
+
+
+Family EG.5.1: JG.3.2, JG.3, HV.1, HV.1.1, HK.3.
