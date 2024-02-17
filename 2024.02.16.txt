@@ -22,3 +22,16 @@ EG.5.1 Family: HV.1, JG.3, JG.3.2.
 
 
 The XBB.1.5 family primarily features JD.1.1 and JD.1.1.1 as its dominant strains, yet these strains may not exhibit the same prevalence or dominance compared to other strains outside the family.
+
+
+
+
+
+Potentially significant strains in the current phase may include: JD.1.4.3, 
+KN.1.1, and JN.1.1.4.
+
+
+
+
+
+
