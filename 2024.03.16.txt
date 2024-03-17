@@ -9,4 +9,13 @@
 
 
 
-The data this time indicates that BA.2.86 family: the first ladder: JN.1, JN.1.4, JN.1.7, JN.1.8.1, and JN.1.1.
+The data this time indicates that BA.2.86 family: the first step: JN.1, JN.1.4, JN.1.7, JN.1.8.1, and JN.1.1.
+
+
+
+
+
+
+
+
+The second step: JN.1.4.3, JN.1.13.1, JN.1.18.
