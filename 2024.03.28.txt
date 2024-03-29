@@ -15,6 +15,8 @@ The potential new convergent mutations that may emerge at the current stage are:
 
 
 
+As of now, within the BA.2.86 family, the first step includes JN.1, JN.1.4, JN.1.7, JN.1.8.1, and JN.1.13.1.
+
 
 
 
