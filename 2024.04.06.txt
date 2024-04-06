@@ -42,4 +42,12 @@ At the current stage, with the decrease in sequencing efforts worldwide, there a
 
 
 
+Currently, the number of virus transmissions in some regions has increased again, including several branches of JN.1.4 that carry non-spike mutations. These branches, despite having non-spike mutations, exhibit significant transmission advantages. It is hoped that some of these branches can be designated as soon as possible and identified among the already uploaded branches.
+
+
+
+
+
+
+
 
