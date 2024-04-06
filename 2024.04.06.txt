@@ -26,4 +26,9 @@ The potentially virulent strains under the current situation include: KZ.1.1.1, 
 
 
 
+KZ.1.1.1 is currently one of the rare strains that have gathered the first batch of convergent mutations from the BA.2.86 family, namely R346T, L455S, F456L or F456V, and T572I. However, it should be noted that while KP.2.2 is still a bit short of gathering all these mutations, it has acquired a mutation at position 59 of the spike protein, which may be one of the possible second batch of convergent mutations.
+
+
+
+
 
