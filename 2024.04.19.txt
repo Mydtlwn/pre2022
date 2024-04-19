@@ -7,7 +7,7 @@
 
 
 
-
+This time, JN.1 and JN.1.4 will be reported separately, and they will no longer be grouped and reported as part of the BA.2.86 family.
 
 
 
