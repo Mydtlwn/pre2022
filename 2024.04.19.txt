@@ -48,3 +48,9 @@ The combination of 346+456 is classified as Type E, the combination of 346+572 i
 
 
 The combination of 346+456+572 is named Type I. Currently, only one Type I has been identified, which is KZ.1.1.1.
+
+
+
+
+
+Currently, the branches that have been designated and carry three convergent mutations from Group A are: KR.1, KQ.1, KS.1, KU.2, LA.1, LA.2, LB.1, JN.1.48.1, KW.1.1, JN.1.16.1, KP.4.1, KP.4.2, KP.2, KP.1.2, KP.1.1, JN.1.7.1, JN.1.7.3 JN.1.7.4，KZ.1.1.
