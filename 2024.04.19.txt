@@ -33,3 +33,7 @@ Under the current situation, potentially promising new variant strains include: 
 
 
 Currently, the following convergent mutations are divided into two groups, Group A and Group B. The loci of Group A are [455, 456, 346, 572], while the loci of Group B are [31, 59, 680, 704].
+
+
+
+Multiple convergent virus strains have also been classified into different types. Type A acquired a mutation at the 572 locus, Type B acquired a mutation at the 346 locus, Type C acquired mutations at both the 346 and 31 loci, and Type D acquired mutations at the 346 and 59 loci. In summary, the probability of acquiring a mutation at the 346 locus first is the highest.
