@@ -43,3 +43,8 @@ Multiple convergent virus strains have also been classified into different types
 
 
 The combination of 346+456 is classified as Type E, the combination of 346+572 is called Type F, the combination of 456+572 is classified as Type G, and the combination of 346+456+59 is named Type H. It seems that acquiring 456 is more likely to occur after acquiring 346. Among the current types, Types B and E are more common.
+
+
+
+
+The combination of 346+456+572 is named Type I. Currently, only one Type I has been identified, which is KZ.1.1.1.
