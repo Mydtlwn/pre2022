@@ -37,3 +37,9 @@ Currently, the following convergent mutations are divided into two groups, Group
 
 
 Multiple convergent virus strains have also been classified into different types. Type A acquired a mutation at the 572 locus, Type B acquired a mutation at the 346 locus, Type C acquired mutations at both the 346 and 31 loci, and Type D acquired mutations at the 346 and 59 loci. In summary, the probability of acquiring a mutation at the 346 locus first is the highest.
+
+
+
+
+
+The combination of 346+456 is classified as Type E, the combination of 346+572 is called Type F, the combination of 456+572 is classified as Type G, and the combination of 346+456+59 is named Type H. It seems that acquiring 456 is more likely to occur after acquiring 346. Among the current types, Types B and E are more common.
