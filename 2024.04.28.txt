@@ -12,3 +12,10 @@ Currently, the JN.1 family includes the following first step: JN.1.7, JN.1.8.1, 
 
 
 Second Step: JN.1.18, JN.1.16.1, JN.1.16.
+
+
+
+
+
+
+The JN.1.4 family includes: KQ.1, JN.1.4.5, and JN.1.4.2.
