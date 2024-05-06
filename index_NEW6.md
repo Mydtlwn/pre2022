@@ -121,3 +121,30 @@ https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePango
 
 
 https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=KP.2*&aaMutations1=S%3AS31-&nextcladePangoLineage1=JN.1.1.7*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=KP.2*&aaMutations1=S%3AS31-&nextcladePangoLineage1=KR.1*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=KP.2*&aaMutations1=S%3AS31-&nextcladePangoLineage1=KZ.1*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=KP.2*&aaMutations1=S%3AS31-&nextcladePangoLineage1=KZ.1.1*&analysisMode=CompareToBaseline&
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=KP.2*&aaMutations1=S%3AS31-&nextcladePangoLineage1=KZ.1.1.1*&analysisMode=CompareToBaseline&
+
+
+
+
+
+
+https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?nextcladePangoLineage=KP.2*&aaMutations1=S%3AS31-&nextcladePangoLineage1=LC.1*&analysisMode=CompareToBaseline&
