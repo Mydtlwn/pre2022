@@ -6,3 +6,7 @@
 
 
 In the current situation, the S:S31del mutation has become a new convergent mutation that increases the growth advantage. Meanwhile, the S:H445P mutation, S:F59S/S:F59L mutation, and S:S60P mutation are mutations that may have a growth advantage in addition to the S:S31del mutation. Besides the above mutations,some virus strains seem to exhibit the S:L1143F mutation, which also displays a certain degree of convergence.
+
+
+
+The virus strains with growth potential under the current situation include: JN.1.1.8, LE.1.1, KP.2.3.1, KP.2.5, KP.2.7, KP.2.8, KP.2.9, KP.2.10, KP.2.13, KP.3.1, KP.3.2, KP.3.3, KP.4.2.1, KP.5, LF.1.1, LG.1, JN.1.39.1, JN.1.39.2.
