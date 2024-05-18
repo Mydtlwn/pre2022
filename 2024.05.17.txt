@@ -10,3 +10,10 @@ In the current situation, the S:S31del mutation has become a new convergent muta
 
 
 The virus strains with growth potential under the current situation include: JN.1.1.8, LE.1.1, KP.2.3.1, KP.2.5, KP.2.7, KP.2.8, KP.2.9, KP.2.10, KP.2.13, KP.3.1, KP.3.2, KP.3.3, KP.4.2.1, KP.5, LF.1.1, LG.1, JN.1.39.1, JN.1.39.2，JN.1.42.2，JN.1.47.2，LD.1，JN.1.50，JN.11.1，JQ.2.1.1，XDK.1.2，XDK.3，XDQ.1.1，XDQ.2，XDR.1.
+
+
+
+Under the current situation, the JN.1 family: First Step: JN.1.7, JN.1.13.1, JN.1.16, JN.1.18, LB.1.
+
+
+The second step: JN.1.8.1, JN.1.16.1, JN.1.4
