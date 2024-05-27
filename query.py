@@ -12,7 +12,7 @@ address4="&analysisMode=CompareToBaseline&&analysisMode=CompareToBaseline&"
 address5=address1+MonthChoose[0]
 address6=address2+ListChoose[0]
 address7=aaMutationLabel+aaMutation[0]
-print (address5+address6+address7)
-print (15)
-print (34)
+address8=address3+baseline
+print (address5+address6+address7+address8+address4)
+
 ​
