@@ -13,7 +13,7 @@ final_address = ""
 for month in MonthChoose:
     for variant in ListChoose:
         for mutation in aaMutation:
-            current_address = address1 + month + address2 + variant + aaMutationLabel + mutation + address3 + baseline + address4
+            current_address = address1 + month + address2 + baseline + aaMutationLabel + mutation + address3 + variant + address4
             final_address += current_address
 
 print(final_address)
