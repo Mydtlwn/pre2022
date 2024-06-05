@@ -34,3 +34,7 @@ http://www.allelefrequencies.net/
 
 
 https://www.who.int/health-topics/middle-east-respiratory-syndrome-coronavirus-mers
+
+
+
+https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCoV-ViPR-report_24JAN2020.pdf
