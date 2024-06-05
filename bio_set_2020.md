@@ -12,3 +12,6 @@ https://www.gisaid.org/CoV2020/
 
 
 https://virological.org/t/novel-2019-coronavirus-genome/319
+
+
+https://virological.org/t/clock-and-tmrca-based-on-27-genomes/347/6
