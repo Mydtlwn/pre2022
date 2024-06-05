@@ -9,3 +9,6 @@ https://www.who.int/emergencies/mers-cov/en/
 
 
 https://www.gisaid.org/CoV2020/
+
+
+https://virological.org/t/novel-2019-coronavirus-genome/319
