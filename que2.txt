@@ -38,6 +38,7 @@ LE.1           [S:L455S，S:R346T]
 LE.1.1         [S:L455S，S:F456V，S:R346T]
 LE.1.2         [S:L455S，S:R346T，S:K304N]
 LE.2           [S:L455S，S:R346S]
+JN.1.4.8       [S:L455S，S:S60P]
 JN.1.6.1       [S:L455S，S:R346T]
 JN.1.7         [S:L455S，S:T572I，S:E1150D]
 JN.1.7.1       [S:L455S，S:R346K，S:T572I，S:E1150D]    4
