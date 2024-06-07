@@ -6,3 +6,7 @@
 
 
 Under the current situation, the dominant virus strains that may have the potential for growth include: JN.1.4.8, JN.1.7.6, JN.1.7.7, LB.1.1, LB.1.2.1, LB.1.5, KP.2.3.2, KP.2.3.3, KP.2.16, KP.3.1.2, KP.3.1.3, LF.1.1.1, LF.3.1, LQ.1, LQ.1.1, LQ.2, JN.1.56.1, JN.1.57.1, JN.1.58.1, LR.1, LR.2, and XDY.
+
+
+
+Within the JN.1.11.1 family, the current first step includes: KP.2, KP.3, KP.3.1.1, KP.2.3.1, and KP.1.1.1.
