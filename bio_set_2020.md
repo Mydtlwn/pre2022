@@ -83,7 +83,8 @@ https://www.viprbrc.org/brc/home.spg?decorator=corona
 
 
 7、：
-https://www.biorxiv.org/content/10.1101/2020.02.22.951178v1
+
+https://www.biorxiv.org/content/10.1101/2020.02.22.951178v1.full
 
 8、：
 https://www.biorxiv.org/content/10.1101/2020.02.22.961268v1.full
