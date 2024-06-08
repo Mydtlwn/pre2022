@@ -92,3 +92,21 @@ https://www.biorxiv.org/content/10.1101/2020.02.22.961268v1.full
 9、：
 
 https://www.biorxiv.org/content/10.1101/2020.02.25.964775v1.full
+
+
+10、：
+
+https://www.biorxiv.org/content/10.1101/2020.02.27.967885v2.full
+
+
+http://www.computationalbiology.cn:5000/viralReceptor
+
+
+http://www.cbs.dtu.dk/services/NetNGlyc/
+
+
+http://phipster.org/
+
+
+
+11、：
