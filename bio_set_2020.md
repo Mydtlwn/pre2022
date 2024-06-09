@@ -180,10 +180,20 @@ http://www.rcsb.org/pdb/home/home.do
 https://www.biorxiv.org/content/10.1101/2020.03.02.968388v1.full
 
 17、：
+https://www.biorxiv.org/content/10.1101/2020.03.04.975995v1.full
 
 
 
+https://mafft.cbrc.jp/alignment/server/
 
+
+http://www.ebi.ac.uk/goldman-srv/webprank/
+
+
+http://test.datamonkey.org/relax
+
+
+18、：
 
 
 
