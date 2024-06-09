@@ -291,7 +291,17 @@ http://bioinfo3d.cs.tau.ac.il/FireDock/php.php
 http://cadd.zju.edu.cn/hawkdock/
 
 
+http://imods.chaconlab.org/
 
 
+http://www.jcat.de/
 
+
+https://www.iedb.org/
+
+
+http://www.cbs.dtu.dk/services/MHCcluster/
+
+
+https://servicesn.mbi.ucla.edu/PROCHECK/
 
