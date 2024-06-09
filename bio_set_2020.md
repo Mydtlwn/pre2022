@@ -1,4 +1,7 @@
 
+
+
+
 1、：https://www.biorxiv.org/content/10.1101/2020.02.03.933226v4.full
 
 https://www.who.int/csr/sars/archive/2003_05_07a/en/
@@ -219,3 +222,41 @@ https://www.iedb.org/
 
 
 http://www.cbs.dtu.dk/services/TMHMM/
+
+
+https://www.ddg-pharmfac.net/AllerTOP/
+
+
+http://ddg-pharmfac.net/AllergenFP/
+
+
+http://crdd.osdd.net/raghava/toxinpred/
+
+
+http://www.cbs.dtu.dk/services/MHCcluster/
+
+
+http://bioserv.rpbs.univ-paris-diderot.fr/services/PEP-FOLD3/
+
+
+https://bioinfo3d.cs.tau.ac.il/PatchDock/php.php
+
+
+http://bioinfo3d.cs.tau.ac.il/FireDock/php.php
+
+
+
+http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.htm
+
+
+http://crdd.osdd.net/raghava/algpred/
+
+
+https://www.ddg-pharmfac.net/AllerTOP/
+
+
+https://web.expasy.org/protparam/
+
+
+
+
