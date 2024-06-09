@@ -199,4 +199,23 @@ https://www.biorxiv.org/content/10.1101/2020.03.02.972927v1.full
 
 
 19、：
+https://www.biorxiv.org/content/10.1101/2020.02.05.935072v2.full
 
+
+
+https://www.ncbi.nlm.nih.gov/
+
+
+
+http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.htm
+
+
+
+https://web.expasy.org/protparam/
+
+
+
+https://www.iedb.org/
+
+
+http://www.cbs.dtu.dk/services/TMHMM/
