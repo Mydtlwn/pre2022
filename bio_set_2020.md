@@ -313,5 +313,14 @@ https://www.biorxiv.org/content/10.1101/2020.03.04.976027v3.full
 
 https://www.cbs.dtu.dk/services/NetNGlyc/
 
+21、：
+https://www.biorxiv.org/content/10.1101/2020.03.04.977736v1.full
+
+
+
+ftp://ftp.ncbi.nih.gov/blast/documents/blastclust.html
+
+
+22、：
 
 
