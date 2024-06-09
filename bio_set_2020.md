@@ -305,3 +305,13 @@ http://www.cbs.dtu.dk/services/MHCcluster/
 
 https://servicesn.mbi.ucla.edu/PROCHECK/
 
+
+
+20、：
+https://www.biorxiv.org/content/10.1101/2020.03.04.976027v3.full
+
+
+https://www.cbs.dtu.dk/services/NetNGlyc/
+
+
+
