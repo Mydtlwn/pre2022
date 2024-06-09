@@ -258,5 +258,40 @@ https://www.ddg-pharmfac.net/AllerTOP/
 https://web.expasy.org/protparam/
 
 
+http://bioinf.cs.ucl.ac.uk/psipred/
+
+
+http://www.cbs.dtu.dk/services/NetTurnP/
+
+
+http://raptorx.uchicago.edu/
+
+
+
+http://sysbio.rnet.missouri.edu/3Drefine/
+
+
+https://servicesn.mbi.ucla.edu/PROCHECK/
+
+
+http://cptweb.cpt.wayne.edu/DbD2/
+
+https://cluspro.bu.edu/login.php
+
+https://haddock.science.uu.nl/
+
+
+https://bioinfo3d.cs.tau.ac.il/PatchDock/php.php
+
+
+
+http://bioinfo3d.cs.tau.ac.il/FireDock/php.php
+
+
+http://cadd.zju.edu.cn/hawkdock/
+
+
+
+
 
 
