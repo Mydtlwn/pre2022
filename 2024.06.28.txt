@@ -24,7 +24,7 @@ The latter is a variant strain of KP.2.2+S:T572I and KP.1.1+S:F59S+S:T572I.
 
 
 
-
+Interestingly, a recently discovered variant of KP.3.1 harbors mutations in S:R346T and S:H445R, along with a clade featuring multiple mutations in ORF1a.
 
 
 
