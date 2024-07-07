@@ -21,3 +21,13 @@ Under the current circumstances, the virus strains with potential for growth may
 
 
 In recent times, the KP.3 family has been dominated by KP.3.1, KP.3.3.1, KP.3.1.1, KP.3.2, and KP.3.2.3 as the main prevalent strains.
+
+
+
+Under the current circumstances, convergent mutations that may have a gain-of-function effect include S:T22N, S:S31del/S:S31P, S:F59S/S:F59L, S:S60P/S:S60F, S:V62F, S:H445P/S:H445R, S:T547K, and S:V622A mutations.
+
+
+
+
+
+
