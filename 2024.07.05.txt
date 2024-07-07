@@ -16,7 +16,7 @@
 
 
 
-Under the current circumstances, the virus strains with potential for growth may include the following branches: KP.1.1.5, KP.3.1.5, LP.3, LW.1, KP.4.1.1, KP.4.1.2, KP.4.1.3, XDD.3, LB.1.3.1, LF.3.1.1, MA.1, JN.1.18.6, LY.1, JN.1.18.7, LZ.1, MB.1.1, LP.1.1, MC.1, LF.4.1, KP.3.3.1, MD.1, MD.2, MD.3.1, LK.2.1, JN.1.7.8, ME.1.
+Under the current circumstances, the virus strains with potential for growth may include the following branches: KP.1.1.5, KP.3.1.5, LP.3, LW.1, KP.4.1.1, KP.4.1.2, KP.4.1.3, XDD.3, LB.1.3.1, LF.3.1.1, MA.1, JN.1.18.6, LY.1, JN.1.18.7, LZ.1, MB.1.1, LP.1.1, MC.1, LF.4.1, KP.3.3.1, MD.1, MD.2, MD.3.1, LK.2.1, JN.1.7.8, ME.1，XDD.3.
 
 
 
