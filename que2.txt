@@ -175,7 +175,8 @@ LS.1           [S:L455S，S:F456L，S:R346T，S:G184del，S:N185del，S:186del�
 JN.1.18.6      [S:L455S，S:F456L，S:R346T，S:F59S]
 LY.1           [S:L455S，S:F456L，S:R346T，S:F59S，S:Q183P，S:F65Y]
 LY.2           [S:L455S，S:F456L，S:R346T，S:F59S，S:Q183H]
-JN.1.18.7      [S:L455S，S:R346T，S:F59S，S:D1260Y]
+JN.1.18.7      [S:L455S，S:R346T，S:T22N，S:F59S，S:D1260Y]
+MN.1           [S:L455S，S:R346T，S:T22N，S:F59S，S:D80Y，S:P174S，S:S689N，S:D1260Y]      8
 JN.1.20        [S:L455S，S:S31F]
 JN.1.21        [S:L455S，S:H1058Y]
 JN.1.23        [S:L455S，S:Y453F，S:K444R]
