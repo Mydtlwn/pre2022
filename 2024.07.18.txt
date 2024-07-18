@@ -19,7 +19,7 @@ Under the current circumstances, the newly designated strains that may have grow
 
 
 
-
+There are two new mutations, S:G35R and S:N185D, that may potentially have growth potential. S:N185D was previously the defining mutation of CH.1.1.1, and it also showed a period of convergence during the XBB era. S:G35R, on the other hand, is a relatively newer mutation that has been showing an increasing trend in its prevalence recently. Alongside S:G35R, another mutation, S:T22N, which was previously identified, is also appearing with increasing frequency.
 
 
 
