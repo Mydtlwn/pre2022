@@ -19,4 +19,12 @@ The data is not significantly different from the last time. The KP.3 family is s
 Some interesting mutations and combinations: S:S31del is currently the major mutation found in DeFLiRT and DeFLuQE variants. Another mutation is S:F32del. Since positions S:30-35 correspond to NSFTRG, both S:S31del and S:F32del, when present individually, can form N-glycans.
 
 
+When both exist simultaneously, they may not form an N-glycan, but since the 34th position is R, there is a high probability of mutating to S or T, and the 35th position also has a tendency to mutate to S. If the 34th position is also deleted, deleting both 31 and 32 at the same time may not necessarily disrupt the structure of the N-glycan.
+
+
+
+
+
+
+
 
