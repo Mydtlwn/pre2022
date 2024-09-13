@@ -22,5 +22,8 @@ The S:A435S mutation is a relatively convergent mutation that has attracted atte
 Recently, XEC has been considered a highly potential candidate for the next phase of potential virus strains, in addition to some similar recombinant strains. Furthermore, XEC has a relatively formidable competitor, LF.7. While LF.7 may not necessarily compete successfully against XEC, this variant still poses a certain degree of epidemiological threat.
 
 
+It's concerning that XEC already has a designated lineage and there are numerous other lineages that have yet to be assigned. Among these, a particular lineage that lacks the spike mutation but carries other non-spike mutations is of particular interest. I am worried that this lineage could emerge as a significant player, akin to the likes of EG.5.1.1 and JN.1.4.
+
+
 
 
