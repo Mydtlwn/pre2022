@@ -16,6 +16,15 @@ XEK and XEC.2, the XEK variant strain has previously entered the list in the for
 
 
 
+The two mutations worth noting are S:D111N and S:F58V. The S:D111N mutation alone may not necessarily achieve a favorable outcome. However, if the amino acid at position 111 mutates to asparagine, it may potentially form an N-glycan after the occurrence of S:K113T. Although an N-glycan has not yet formed, it warrants vigilance, given the many precedents where convergent evolution has occurred at neighboring sites followed by a convergent site. S:F58V could be a mutation of interest. Previously, there have been gradual convergent mutations such as S:F59S/S:F59L, S:S60P, S:V62F, and S:A67V. Considering that S:F58V is located near these sites, the probability of convergent evolution occurring is high. However, the S:F58V mutation may lack sustained effectiveness.
+
+
+
+
+
+
+
+
 
 
 
