@@ -10,3 +10,13 @@ At present, KP.3.1.1, KP.3.3, and KP.3.1 of the KP.3 family still account for th
 
 Regarding the data on XBB appearing in the latest US statistics, I have taken a look at it recently and found that many of the cases labeled as XBB are actually other variants mistakenly identified as XBB. In the past, there have also been issues of misidentification in the data during the period from September to October each year. This time, the main reason for the misidentification is that some virus strains have acquired more convergent mutations, which make some variants resemble XBB, leading to the error. Additionally, there are other recombinant variants involved, which represent the phenomenon of re-recombination between previous recombinant variants and new virus strains, causing some problems in identification.
 
+
+
+XEK and XEC.2, the XEK variant strain has previously entered the list in the form of KP.2.3/XEC in global sequencing data, which seems to be quite rare. In past instances, strains like EG.5.1 only appeared in US or global sequencing data lists after being designated, and it was uncommon for strains to enter these lists without prior designation. Of course, this may be closely related to the currently low number of sequencing efforts. XEC.2 seems to have certain transmission advantages compared to XEC.1. Sometimes, certain non-spike mutations may pose a greater transmission threat than spike mutations, as exemplified by EG.5.1.1. Of course, this may also imply that subsequent sub-lineages gradually provide considerable transmission momentum to the main lineage, such as XDV.1.
+
+
+
+
+
+
+
