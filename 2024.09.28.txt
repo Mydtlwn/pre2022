@@ -3,3 +3,10 @@
 
 
 At present, KP.3.1.1, KP.3.3, and KP.3.1 of the KP.3 family still account for the majority of them, while some outstanding branches have emerged in MC.16 of the KP.3.1.1 family, which have not been designated yet.
+
+
+
+
+
+Regarding the data on XBB appearing in the latest US statistics, I have taken a look at it recently and found that many of the cases labeled as XBB are actually other variants mistakenly identified as XBB. In the past, there have also been issues of misidentification in the data during the period from September to October each year. This time, the main reason for the misidentification is that some virus strains have acquired more convergent mutations, which make some variants resemble XBB, leading to the error. Additionally, there are other recombinant variants involved, which represent the phenomenon of re-recombination between previous recombinant variants and new virus strains, causing some problems in identification.
+
