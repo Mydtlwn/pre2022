@@ -20,7 +20,7 @@ The two mutations worth noting are S:D111N and S:F58V. The S:D111N mutation alon
 
 
 
-
+Three noteworthy mutation combinations: 1. S:T22N + S:F59S or S:T22N + S:F59L, this combination has been repeatedly verified as advantageous in multiple virus strains that have been under continuous observation; 2. S:T22N + S:S60P, this combination is currently only present in a few virus strains, however, there is still a significant possibility that it could lead to wider epidemic spread and convergence; 3. S:T22N + S:V62F, this combination appears in a virus strain from the Asian region and remains a target of concern with certain potential on XDV.1. It is currently uncertain whether it brings any benefits, and it may not have as much growth potential as the first combination, but current research has yet to prove this point.
 
 
 
