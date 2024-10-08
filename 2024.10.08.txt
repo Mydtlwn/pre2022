@@ -24,3 +24,8 @@ The virus strains within the KP.3.1.1 family that continue to show growth and po
 Some unspecified lineages within MC.16 are growing rapidly and should perhaps be designated as soon as possible. Since MC.16 appears to lack spike mutations, it may not be included in certain statistical reporting by the CDCs of some countries, which could lead to it being overlooked for some reasons. However, some of the lineages within MC.16 are already sufficient to warrant attention.
 
 
+
+
+The growth potential of LB.1.3, LB.1.7, and LB.1.3.1 within the LB.1 family has increased recently. This may be related to mutations in their sub-lineages.
+
+
