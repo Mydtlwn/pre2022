@@ -12,11 +12,14 @@ C-->B
 E-->C
 E-->B
 H-->J
-H-->L[S:F59S/S:F59L]
+H-->D[S:F59S]
+H-->G[S:F59L]
 H-->M[S:S60P]
 H-->N[S:T22N]
-H-->O[S:T22N+S:F59S]
-H-->P[S:T22N+S:S60P]
-H-->Q[S:T22N+S:V62F]
+N-->D
+N-->P[S:S60P]
+H-->P
+H-->Q[S:V62F]
+N-->Q
 J-->R[S:R190S]
 
