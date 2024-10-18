@@ -8,6 +8,9 @@ B-->E
 B-->H[S:Q493E]
 C-->E
 C-->J[S:S31del]
+C-->B
+E-->C
+E-->B
 H-->J
 H-->L[S:F59S/S:F59L]
 H-->M[S:S60P]
