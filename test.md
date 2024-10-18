@@ -1,8 +1,8 @@
 ```mermaid
 graph LR
 A[S:L455S]-->B[S:F456L]
-A-->D[S:R346T]
-B-->C[S:R346T]
+A-->C[S:R346T]
+B-->C
 A-->E[S:T572I]
 B-->E
 B-->H[S:Q493E]
