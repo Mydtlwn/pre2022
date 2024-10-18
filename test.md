@@ -15,3 +15,5 @@ H-->N[S:T22N]
 H-->O[S:T22N+S:F59S]
 H-->P[S:T22N+S:S60P]
 H-->Q[S:T22N+S:V62F]
+J-->R[S:R190S]
+K-->R
