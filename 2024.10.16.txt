@@ -19,7 +19,7 @@ The strains within the LB.1 family that currently still have growth potential in
 
 
 
-
+Currently, there is a virus strain with a multi-spike mutation that warrants attention. Although there is only one sequence of this strain identified so far, it has acquired the mutations S:T76I and S:A67T. It is now established that S:A67V is a relatively convergent mutation. Although this mutation still lags significantly behind others, the impact of S:A67T remains uncertain.
 
 
 
