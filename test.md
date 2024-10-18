@@ -16,6 +16,8 @@ H-->D[S:F59S]
 H-->G[S:F59L]
 H-->N[S:T22N]
 N-->D
+D-->N
+J-->N
 N-->P[S:S60P]
 H-->P
 P-->N
