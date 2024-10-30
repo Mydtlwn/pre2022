@@ -12,4 +12,4 @@ Another unspecified variant of LF.7.1 is still growing rapidly, perhaps it's tim
 
 The significant and still continuously growing branches within the KP.3.1.1 family are: MC.16, MC.13, MC.1, MC.2, and MC.11.
 
-
+NB.1，LP.8，LF.7.1.2，LP.7，LP.5，LF.7.2.1，LF.7.4，ND.1.1，ND.2，ND.3，NA.1.1.
