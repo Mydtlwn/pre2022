@@ -9,3 +9,8 @@ A=[ORF1a:I1367L]
 --------------------
 XEC.1            [S:K182R]
 XEC.2            [A]
+XEC.3            [S:E1202Q]
+XEC.4            [S:T572I]
+XEC.5            [S:G72R]
+XEC.6            [S:S680F]
+XEC.7            [S:W152R，S:P1263Q]
