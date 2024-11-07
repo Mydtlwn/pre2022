@@ -7,5 +7,5 @@
 
 
 The virus strains that may have growth potential at the current stage include:
-XEC.5，MJ.1.1，XEC.4，XEC.7
+XEC.5，MJ.1.1，XEC.4，XEC.7，MJ.2.1，MC.10.2.
 
