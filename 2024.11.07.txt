@@ -21,7 +21,7 @@ The strain with the S:D111N mutation should perhaps be designated as KP.3.1.1.
 
 
 
-The S:H445R mutation may have a competitive advantage over S:H445P on the BA.2.86 backbone. Some of the currently more advantageous mutations include: S:R346T, S:T572I，S:S31del，S:T22N，S:F59S/L，S:S60P，ORF1a:I1367L.
+The S:H445R mutation may have a competitive advantage over S:H445P on the BA.2.86 backbone. Some of the currently more advantageous mutations include: S:R346T, S:T572I，S:S31del，S:T22N，S:F59S/L，S:S60P，ORF1a:I1367L，S:K478T，S:A475V，S:A435S，S:I68F，S:D111N，S:S256L，S:G72R，S:G75R，S:P85Q，S:K182N.
 
 
 
