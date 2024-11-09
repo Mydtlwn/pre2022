@@ -9,3 +9,7 @@
 The virus strains that may have growth potential at the current stage include:
 XEC.5，MJ.1.1，XEC.4，XEC.7，LP.8.1，LP.8.2，NL.2，NL.3，NL.6，NL.7，MJ.2.1，MC.10.2，MC.19，MC.20.
 
+
+
+
+The virus strains within the KP.3.1.1 family that still have certain potential are: MC.10, MC.13, MC.2, MC.16, and MC.1.
