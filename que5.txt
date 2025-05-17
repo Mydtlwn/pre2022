@@ -33,3 +33,8 @@ XEC.17           [S:T95I]
 XEC.18.1         [S:S680Y]
 XEC.20.1         [S:A435S，S:S704L]
 XEC.21           [S:T572I]
+XEC.22           [S:K679R]
+XEC.24.1         [S:T345S]
+XEC.25.1         [S:A435S]
+XEC.26           [S:V1176F
+XEC.27           [S:R346T，S:H445R，S:T240I]
