@@ -38,3 +38,11 @@ XEC.24.1         [S:T345S]
 XEC.25.1         [S:A435S]
 XEC.26           [S:V1176F
 XEC.27           [S:R346T，S:H445R，S:T240I]
+XEC.32.1         [S:A435S，S:K679R]
+XEC.34           [S:V1264L]
+XEC.35.1         [S:N1187T]
+XEC.37           [S:V1264L]
+XEC.38           [S:V1264L]
+
+
+
