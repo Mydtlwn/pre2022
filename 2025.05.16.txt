@@ -15,6 +15,10 @@ Within the XEC lineage, the strains that retain transmission potential include: 
 
 Currently, the NB.1.8.1 and XFG strains demonstrate elevated transmission potential and public health threat, with NB.1.8.1 being particularly notable for its combinatorial spike protein mutations S:A435S and S:Q493E. Notably, the XEC.25.1 variant shares this same mutation profile while exhibiting an expanded combination with additional S:Q493E, S:A435S, and S:T572I substitutions in its spike protein configuration.
 
+The epidemiological trajectory of the combinatorial S:A435S and S:Q493E mutations has achieved near-consensus recognition in scientific communities, with speculation mounting that these mutations may exhibit epistatic interactions. Presently, convergent evolution toward S:A435S is being observed across most XEC lineage variants, encompassing both previously designated strains and newly emerged clusters.
+
+Notably, the NB.1.8.1 lineage has recently spawned multiple sublineages bearing ORF3a mutations, with striking convergence patterns emerging among these branches. This phenomenon warrants sustained surveillance and heightened scientific attention given its potential evolutionary implications.
+
 
 Recently, among the emerging strains, those that may exhibit growth potential and pose a threat include: LF.7.9.1，LF.7.9.2，PC.3.1，PC.3.2，PK.1.1，XEC.32.1 ，PL.1，MC.41，NY.11.1，PD.1.1，XEC.4.1.1，XEC.4.1.6，XEC.14.1.1，PJ.1，LF.7.10.1，XFJ.1，XEC.2.4，XEC.2.5，XFB.2，MC.11.3.1，NY.4.1，XEK.1.2.1，MC.11.1，XEC.38，XEC.37，NL.6。
 
