@@ -26,6 +26,10 @@ In the United States, concurrent with XFG circulation, the XFC variant has emerg
 
 Recently, among the emerging strains, those that may exhibit growth potential and pose a threat include: LF.7.9.1，LF.7.9.2，PC.3.1，PC.3.2，PK.1.1，XEC.32.1 ，PL.1，MC.41，NY.11.1，PD.1.1，XEC.4.1.1，XEC.4.1.6，XEC.14.1.1，PJ.1，LF.7.10.1，XFJ.1，XEC.2.4，XEC.2.5，XFB.2，MC.11.3.1，NY.4.1，XEK.1.2.1，MC.11.1，XEC.38，XEC.37，NL.6。
 
+The following convergent mutation profiles warrant prioritized surveillance:
 
+The combinatorial S:R346T mutation with either S:R765L or S:R765S substitutions. While the S:R765L variant has demonstrated notable fitness advantages in the NY.3 lineage, recent surveillance data suggest emerging convergent potential for the S:R346T + S:R765S/L mutation complex. Although premature to predict definitive outbreak potential at this stage, this combinatorial profile merits close monitoring as a candidate for future evolutionary waves.
+The S:T572I + S:R681H mutation dyad, which exhibits patterns of recurrent emergence in contemporary sequencing data and warrants particular attention during routine genomic surveillance.
+The adjacent S:T572I + S:T573I tandem mutations, which demonstrate structural proximity analogous to the previously characterized S:L455F + S:F456L mutation complex. Such spatial associations frequently predispose to epistatic interactions, necessitating functional validation studies to determine potential synergistic effects on viral phenotypic traits.
 
 
