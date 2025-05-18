@@ -13,7 +13,7 @@ Additionally, within the LP.8.1 lineage, the following strains retain transmissi
 Within the XEC lineage, the strains that retain transmission potential include: XEC.4.1, XEC.25.1, and XEC.4.1.1.
 
 
-Recently, among the emerging strains, those that may exhibit growth potential and pose a threat include: LF.7.9.1，LF.7.9.2，PC.3.1，PC.3.2，PK.1.1，XEC.32.1 ，PL.1，MC.41
+Recently, among the emerging strains, those that may exhibit growth potential and pose a threat include: LF.7.9.1，LF.7.9.2，PC.3.1，PC.3.2，PK.1.1，XEC.32.1 ，PL.1，MC.41，NY.11.1，PD.1.1，XEC.4.1.1，XEC.4.1.6，XEC.14.1.1，LF.7.10.1，XFJ.1，XEC.2.4。
 
 
 
