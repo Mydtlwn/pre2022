@@ -19,6 +19,10 @@ The epidemiological trajectory of the combinatorial S:A435S and S:Q493E mutation
 
 Notably, the NB.1.8.1 lineage has recently spawned multiple sublineages bearing ORF3a mutations, with striking convergence patterns emerging among these branches. This phenomenon warrants sustained surveillance and heightened scientific attention given its potential evolutionary implications.
 
+Beyond the NB.1.8.1 lineage, the XFG strain has demonstrated persistent global dissemination dynamics. As of now, XFG variants - particularly the XFG.2 sublineage - show no signs of epidemiological abatement. This recombinant strain, formed through genetic recombination between LP.8.1.2 and LF.7 parental lineages, carries an array of spike protein mutations that evoke parallels with the XBB lineage complex. Like its XBB counterparts, XFG variants have inherited most ancestral spike mutations, notably retaining the S:K444R, S:H445R, S:N487D, and S:T572I substitutions that characterize this evolutionary cluster.
+
+In the United States, concurrent with XFG circulation, the XFC variant has emerged as another circulating strain. While demonstrating lower overall evolutionary potential compared to XFG, the XFC lineage exhibits distinct mutation profiles including S:K679R, S:K1086R, and S:V1104L substitutions in its spike protein configuration. These divergent mutation patterns warrant continued molecular surveillance to monitor potential phenotypic implications.
+
 
 Recently, among the emerging strains, those that may exhibit growth potential and pose a threat include: LF.7.9.1，LF.7.9.2，PC.3.1，PC.3.2，PK.1.1，XEC.32.1 ，PL.1，MC.41，NY.11.1，PD.1.1，XEC.4.1.1，XEC.4.1.6，XEC.14.1.1，PJ.1，LF.7.10.1，XFJ.1，XEC.2.4，XEC.2.5，XFB.2，MC.11.3.1，NY.4.1，XEK.1.2.1，MC.11.1，XEC.38，XEC.37，NL.6。
 
