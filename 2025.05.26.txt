@@ -10,3 +10,9 @@ The combination of the S:R765L and S:R346T mutations warrants vigilance and clos
 
 
 At present, mutations such as S:T345S, S:L441R, S:K440R, and S:N477D are also of considerable interest. It is worth noting that another potential mutation, S:H66R, which has not yet been observed, may emerge in the future. Although this variant has not been detected experimentally, it has been highlighted by certain predictive modeling tools. Given these findings, it would be prudent to monitor this mutation closely in future surveillance efforts.
+
+
+
+The variant strains within the LP.8.1 family that still require further attention recently include: LP.8.1.1, LP.8.1.6, and PD.1.1.
+
+
