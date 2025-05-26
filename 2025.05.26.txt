@@ -16,3 +16,5 @@ At present, mutations such as S:T345S, S:L441R, S:K440R, and S:N477D are also of
 The variant strains within the LP.8.1 family that still require further attention recently include: LP.8.1.1, LP.8.1.6, and PD.1.1.
 
 
+The variant strains within the LF.7 lineage that still require ongoing monitoring include: PC.2.2, LF.7.9.1, and PL.1.
+
