@@ -22,5 +22,4 @@ The variant strains within the LF.7 lineage that still require ongoing monitorin
 However, within the XEC lineage, the variant strains that still require ongoing monitoring are: XEC.4.1.1, XEC.4.1, and XEC.25.1.
 
 
-PQ.2，PQ.1，PF.2.2.1，PM.2，PM.3，MC.32.1.1，PG.4.1,PN.1,PP.1，PP.2.1
-
+PQ.2，PQ.1，PF.2.2.1，PM.2，PM.3，MC.32.1.1，PG.4.1,PN.1,PP.1，PP.2.1，XFC.1.1，PM.1.2，PG.5，XDV.1.7.2，XDV.1.7.4.
