@@ -16,7 +16,7 @@ Here is the translation of your text:
 
 In addition, some convergent mutations even exhibit reversion characteristics, such as the S:K478T mutation. There are also mutations that, although not reversion mutations themselves, such as S:R681H, exhibit similarities to S:K478T！
 
-
+Intriguingly, in addition to the S:K478T and S:K478I mutations, the S:A475V and S:N477D mutations in close proximity to this region are also undergoing convergent evolution. Furthermore, certain strains carrying the S:K478I mutation (as seen in NB.1 and NB.1.8.1 lineages) are now exhibiting convergent trends toward the S:I478T mutation.
 
 The variant strains within the LP.8.1 family that still require further attention recently include: LP.8.1.1, LP.8.1.6, and PD.1.1.
 
