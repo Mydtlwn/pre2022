@@ -12,8 +12,6 @@ The combination of the S:R765L and S:R346T mutations warrants vigilance and clos
 At present, mutations such as S:T345S, S:L441R, S:K440R, and S:N477D are also of considerable interest. It is worth noting that another potential mutation, S:H66R, which has not yet been observed, may emerge in the future. Although this variant has not been detected experimentally, it has been highlighted by certain predictive modeling tools. Given these findings, it would be prudent to monitor this mutation closely in future surveillance efforts.
 
 
-Here is the translation of your text:
-
 In addition, some convergent mutations even exhibit reversion characteristics, such as the S:K478T mutation. There are also mutations that, although not reversion mutations themselves, such as S:R681H, exhibit similarities to S:K478T！
 
 Intriguingly, in addition to the S:K478T and S:K478I mutations, the S:A475V and S:N477D mutations in close proximity to this region are also undergoing convergent evolution. Furthermore, certain strains carrying the S:K478I mutation (as seen in NB.1 and NB.1.8.1 lineages) are now exhibiting convergent trends toward the S:I478T mutation.
