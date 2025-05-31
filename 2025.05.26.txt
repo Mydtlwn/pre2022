@@ -21,6 +21,11 @@ Intriguingly, in addition to the S:K478T and S:K478I mutations, the S:A475V and 
 
 The emergence frequency of the S:A522P mutation is also accelerating. Prior to the BA.2.86 lineage, the occurrence rate of S:A522P mutation was relatively low. However, a similar mutation, S:P521S, emerged in the XBB lineage and has been confirmed to confer functional advantages.
 
+
+The NB.1.8.1 strain exhibits significant differences in convergent evolutionary directions compared to other strains. Apart from certain sublineages undergoing spike protein mutations, another distinctive evolutionary trajectory of NB.1.8.1 involves large-scale convergent phenomena in the ORF3a region! This unique dual-directional evolution pattern has generated substantial research interest in the scientific community.
+
+
+
 The variant strains within the LP.8.1 family that still require further attention recently include: LP.8.1.1, LP.8.1.6, and PD.1.1.
 
 
