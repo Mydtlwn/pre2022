@@ -6,3 +6,7 @@ In the most recent period, the strains within the LP.8.1 family that have demons
 
 
 Within the LF.7 family, the predominant variants are primarily composed of the following strains: LF.7.7.2, LF.7.9.1, and PL.1.1!
+
+
+
+The most frequently observed convergent mutations include S:T345S, S:K440R, S:L441R, S:R765L, and N:R204P. These mutations have been identified in globally prevalent variants as well as in certain regional variants. Notably, the S:T345S and S:K440R mutations demonstrate a relatively higher concentration in their distribution patterns.
