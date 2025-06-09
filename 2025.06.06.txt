@@ -19,6 +19,10 @@ The paradoxical observation that certain combinations of viral mutations initial
 
 In subsequent BA.3.2 sublineages, if mutations occur at the S:455 and S:456 spike protein sites, the variants carrying S:L455R and either S:F456S or S:F456V mutations are more likely to achieve competitive dominance. Consequently, branches with S:L455S or S:F456L mutations may not necessarily outcompete those three mutated variants in this evolutionary contest.
 
+
+The S:L441R and S:K440R mutations may confer similar functional advantages, both potentially enhancing the transmissibility of certain viral strains. Notably, sublineages carrying the S:K440R mutation warrant particular attention due to their potential transmission risks.
+
+
 BA.3.2.2，BA.3.2.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2.
 
 
