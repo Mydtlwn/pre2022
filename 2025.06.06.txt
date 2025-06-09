@@ -12,6 +12,8 @@ Within the LF.7 family, the predominant variants are primarily composed of the f
 The most frequently observed convergent mutations include S:T345S, S:K440R, S:L441R, S:R765L, and N:R204P. These mutations have been identified in globally prevalent variants as well as in certain regional variants. Notably, the S:T345S and S:K440R mutations demonstrate a relatively higher concentration in their distribution patterns.
 
 
+The S:T345S mutation can synergize effectively with the S:R346T mutation. Furthermore, in the absence of the S:R346T mutation, the S:T345S mutation alone serves as a viable functional substitute. This is particularly advantageous in scenarios involving immune-experienced individuals who have encountered multiple exposures to viral strains carrying the S:R346T mutation.
+
 
 BA.3.2.2，BA.3.2.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2.
 
