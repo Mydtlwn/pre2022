@@ -17,7 +17,7 @@ The S:T345S mutation can synergize effectively with the S:R346T mutation. Furthe
 
 The paradoxical observation that certain combinations of viral mutations initially exhibit relatively slow growth rates, only to subsequently experience accelerated proliferation after a prolonged period, may be attributed to the specificity of antibodies generated from prior infections rather than inherent incompatibility with the viral backbone. For instance, in the context of BA.5 and BQ.1.1 infections in the United States, strains carrying the S:L452R mutation initially struggled to compete with XBB variants lacking this mutation. However, as the level of targeted antibodies wanes over time, XBB sublineages harboring the S:L452R mutation can revive and regain competitive advantage.
 
-
+In subsequent BA.3.2 sublineages, if mutations occur at the S:455 and S:456 spike protein sites, the variants carrying S:L455R and either S:F456S or S:F456V mutations are more likely to achieve competitive dominance. Consequently, branches with S:L455S or S:F456L mutations may not necessarily outcompete those three mutated variants in this evolutionary contest.
 
 BA.3.2.2，BA.3.2.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2.
 
