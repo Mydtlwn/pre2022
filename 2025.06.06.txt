@@ -15,6 +15,10 @@ The most frequently observed convergent mutations include S:T345S, S:K440R, S:L4
 The S:T345S mutation can synergize effectively with the S:R346T mutation. Furthermore, in the absence of the S:R346T mutation, the S:T345S mutation alone serves as a viable functional substitute. This is particularly advantageous in scenarios involving immune-experienced individuals who have encountered multiple exposures to viral strains carrying the S:R346T mutation.
 
 
+The paradoxical observation that certain combinations of viral mutations initially exhibit relatively slow growth rates, only to subsequently experience accelerated proliferation after a prolonged period, may be attributed to the specificity of antibodies generated from prior infections rather than inherent incompatibility with the viral backbone. For instance, in the context of BA.5 and BQ.1.1 infections in the United States, strains carrying the S:L452R mutation initially struggled to compete with XBB variants lacking this mutation. However, as the level of targeted antibodies wanes over time, XBB sublineages harboring the S:L452R mutation can revive and regain competitive advantage.
+
+
+
 BA.3.2.2，BA.3.2.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2.
 
 
