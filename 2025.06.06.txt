@@ -10,3 +10,10 @@ Within the LF.7 family, the predominant variants are primarily composed of the f
 
 
 The most frequently observed convergent mutations include S:T345S, S:K440R, S:L441R, S:R765L, and N:R204P. These mutations have been identified in globally prevalent variants as well as in certain regional variants. Notably, the S:T345S and S:K440R mutations demonstrate a relatively higher concentration in their distribution patterns.
+
+
+
+PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2。
+
+
+
