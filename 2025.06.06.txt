@@ -13,7 +13,7 @@ The most frequently observed convergent mutations include S:T345S, S:K440R, S:L4
 
 
 
-PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2。
+BA.3.2.2，BA.3.2.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2.
 
 
 
