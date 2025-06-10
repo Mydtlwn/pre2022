@@ -23,6 +23,10 @@ In subsequent BA.3.2 sublineages, if mutations occur at the S:455 and S:456 spik
 The S:L441R and S:K440R mutations may confer similar functional advantages, both potentially enhancing the transmissibility of certain viral strains. Notably, sublineages carrying the S:K440R mutation warrant particular attention due to their potential transmission risks.
 
 
+
+The S:R765L and S:R765S mutations may exhibit epistatic interactions with the S:R346T mutation, potentially leading to enhanced transmissibility through synergistic effects.
+
+
 BA.3.2.2，BA.3.2.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，NY.17.2.
 
 
