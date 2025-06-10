@@ -30,7 +30,7 @@ The S:R765L and S:R765S mutations may exhibit epistatic interactions with the S:
 Under current circumstances, the N:R204P mutation represents a non-spike convergent mutation. However, the emerging prevalence of diverse sublineages carrying this mutation suggests it may confer a potential growth advantage in the evolving viral landscape.
 
 
-Among recently designated viral lineages, those with potential growth advantages include the following sublineages:BA.3.2.2，BA.3.2.1，NY.3.1.1，PL.1.1，NY.3.2，XEC.25.1.3，XEC.25.1.1，XEC.25.1.2，NY.16.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，MC.19.1.1，NY.17.2，XFJ.4，PW.1，PY.1，PY.4，NW.1.1.1，NY.17.2，PZ.1，NY.17.1。XEC.18.2，XEC.18.4，PC.4.1.1，XFF.1.
+Among recently designated viral lineages, those with potential growth advantages include the following sublineages:BA.3.2.2，BA.3.2.1，NY.3.1.1，PL.1.1，NY.3.2，XEC.25.1.3，XEC.25.1.1，XEC.25.1.2，NY.16.1，PQ.1.1，PQ.3，PQ.5，NY.7.1.1，MC.19.1.1，NY.17.2，XFJ.4，PW.1，PY.1，PY.4，NW.1.1.1，NY.17.2，PZ.1，NY.17.1，XEC.4.5.1，XEC.4.6.1，XEC.18.2，XEC.18.4，PT.1，PU.1，PC.4.1.1，XFF.1，NB.1.6.1，NB.1.7.1，XFG.2，XFC.1.1.1，NL.22.1，NL.21，NM.3，MV.1.5.
 
 
 
