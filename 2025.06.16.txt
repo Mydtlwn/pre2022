@@ -5,4 +5,6 @@ The phenomenon of ＂two suns appearing in the sky＂ is unfolding in some regio
 
 Since April 2025, the NB.1.8.1 sublineage carrying the S:T572I mutation has emerged and begun to proliferate rapidly. Current data indicates that the combination of S:Q493E, S:A435S, and S:T572I mutations confers a proliferative advantage to the virus.
 
+The XFG and NB.1.8.1 strains are simultaneously spreading worldwide. It should be noted that XFG and NB.1.8.1 differ by at least 14 amino acids, while another strain, NY.3.1.1, differs from NB.1.8.1 by at least 16 amino acids. It is important to clarify that these calculations are highly conservative!
+
 XFP.1
