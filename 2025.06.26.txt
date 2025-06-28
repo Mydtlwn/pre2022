@@ -16,5 +16,8 @@ The recent emergence of the S:H1088R mutation in some NB.1.8.1 lineage strains i
 
 
 
+The emergence of the S:F59S mutation in XFG lineage marks the beginning of a new active phase for both S:F59S and S:S60P mutations. Notably, the S:F59S mutation has already been observed in NB.1.8.1, while the S:S60P mutation is predicted to likely emerge in subsequent evolutionary branches of NB.1.8.1, particularly in PY.1, with a high probability of occurrence. Additionally, following the acquisition of S:F59S by XFG, a triple mutation combination (S:T22N, S:S31P, S:F59S) has formed. Previously, when these three mutations co-occurred - due to staggered infections by strains like KP.3.1.1 and XEC - antibody-mediated pressure resulted in reduced infection efficiency. The current emergence of S:F59S suggests a weakening of this specific immune constraint.
+
+
 
 
