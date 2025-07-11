@@ -1,2 +1,8 @@
-XFG.1           [S:R445P]
+
+XFG.1           [S:R445P，S:E96D]
 XFG.3.1         [S:D1084G]
+XFG.3.3         [S:S680F]
+XFG.3.4.1       [S:S680P]
+XFG.6           [S:L441I]
+XFG.13          [S:A67V]
+XFG.14          [S:K529T，S:V1264L]
