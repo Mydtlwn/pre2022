@@ -17,4 +17,4 @@ In recent outbreaks, the predominant strains within the LF.7 family are primaril
 In recent outbreaks, the predominant strains within the LP.8.1 family are primarily composed of the NY.3.1.1, NY.13, and NW.1.2 variants.
 
 
-PY.1.1.1，PY.1.4.1，XFG.3.4.1，XFG.3.3，XFG.13，XFG.14，XFG.9.1，QF.1，PQ.2.2，PQ.1.2，PQ.17，PQ.2.1，PQ.18，PQ.19，PQ.20，PQ.8.1，PQ.9.1，NY.3.3.1，PQ.25，NY.1.2.1，QE.1，
+PY.1.1.1，PY.1.4.1，XFG.3.4.1，XFG.3.3，XFG.13，XFG.14，XFG.9.1，QF.1，PQ.2.2，PQ.1.2，PQ.17，PQ.2.1，PQ.18，PQ.19，PQ.20，XFG.3.4.2，PQ.8.1，PQ.9.1，NY.3.3.1，PQ.25，NY.1.2.1，QE.1，
