@@ -12,6 +12,10 @@ XFG.14          [S:K529T，S:V1264L]
 XFG.14.1        [S:K529T，S:V1264L，S:T604I]
 XFG.14.2        [S:K529T，S:V1264L，S:Q677L]
 XFG.15          [S:R681H]
+XFG.18          [S:L922F]
+XFG.19          [S:T286I]
+
+
 
 
 
