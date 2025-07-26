@@ -1,5 +1,13 @@
 
+
+
+
+
+
+
 XFG.1           [S:R445P，S:E96D]
+XFG.2.1         [S:A1070V]
+XFG.2.2         [S:P1263L]
 XFG.3.1         [S:D1084G]
 XFG.3.3         [S:S680F]
 XFG.3.4.1       [S:S680P]
@@ -14,7 +22,7 @@ XFG.14.2        [S:K529T，S:V1264L，S:Q677L]
 XFG.15          [S:R681H]
 XFG.18          [S:L922F]
 XFG.19          [S:T286I]
-
+XFG.22          [S:A958S]
 
 
 
