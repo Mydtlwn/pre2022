@@ -25,6 +25,6 @@ Within the recent LP.8.1 family, the strains showing significant potential inclu
 
 Recently, the convergent frequency of the S:A845S mutation has been notably high. Compared to previous observations, the gain-of-function effects of the S:A845S mutation have significantly increased. Additionally, mutations including S:S680F, S:S680P, S:K679R, and S:K679N are demonstrating enhancedcontributions to viral transmission. Several unspecified lineages carrying the S:I478T and S:T572I mutations have emerged domestically, while the S:K478T mutation is showing higher prevalence internationally. In northern China, the T572I-mutated lineage predominates, whereas southern regions are characterized by PQ.2.2,PQ.20, and various undefined lineages harboring S:I478T mutations. Notably, the PQ.2.2 strain serves as the primary driver of this wave.
 
-LF.7.12.1
+Recently, among the specified strains, those that may have potential transmission capacity include:LF.7.12.1
 
 
