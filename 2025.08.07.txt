@@ -24,7 +24,7 @@ Within the recent LP.8.1 family, the predominant branches in terms of competitiv
 Globally, multiple viral lineages are demonstrating convergent evolution in spike protein mutations, specifically S:K679R, S:S680P, and S:S704L. Beyond these three major convergent mutations, the S:A376S mutation is also prevalent. Additionally, to a certain extent, some strains are exhibiting partial convergence in the S:L335F mutation.
 
 
-
+In certain regions, convergent evolution is predominantly observed in the S:I478T and S:T572I spike protein mutations. Notably, northern regions exhibit clusters primarily composed of the S:T572I mutation, while southern regions are dominated by the S:I478T mutation. Additionally, the southern regions include the PQ.2.2 variant as a major lineage, whereas northern regions are primarily driven by the PQ.4.1 strain.It has now been confirmed that new variants carrying the S:T572I mutation have emerged. Beyond the three previously identified variants, there may exist an undocumented fourth lineage also harboring the S:T572I mutation. Furthermore, the S:I478T mutation has generated novel sub-lineages, with some branches of S:I478T already giving rise to new sub-branches containing additional mutations.
 
 
 
