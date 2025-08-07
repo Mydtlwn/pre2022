@@ -21,6 +21,10 @@ Within the recent LP.8.1 family, the predominant branches in terms of competitiv
 
 
 
+Globally, multiple viral lineages are demonstrating convergent evolution in spike protein mutations, specifically S:K679R, S:S680P, and S:S704L. Beyond these three major convergent mutations, the S:A376S mutation is also prevalent. Additionally, to a certain extent, some strains are exhibiting partial convergence in the S:L335F mutation.
+
+
+
 
 
 
@@ -30,3 +34,7 @@ Within the recent LP.8.1 family, the predominant branches in terms of competitiv
 
 
 PQ.2.3，MC.46.1
+
+
+
+
