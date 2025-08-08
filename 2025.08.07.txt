@@ -28,7 +28,7 @@ In certain regions, convergent evolution is predominantly observed in the S:I478
 
 
 
-
+In addition to the lineage within the NB.1.8.1 family carrying the S:R765L mutation, there is another lineage within the XFG family that also harbors the S:R765L mutation. Last week, the growth trajectory of this lineage appeared promising, but its expansion has begun to decline this week. While I initially intended to flag this lineage for attention, it now seems prudent to adopt a wait-and-see approach!
 
 
 
