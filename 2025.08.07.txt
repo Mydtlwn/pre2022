@@ -32,6 +32,8 @@ In addition to the lineage within the NB.1.8.1 family carrying the S:R765L mutat
 
 
 
+The NB.1.6.1 strain carrying the S:A435S mutation, along with a specific sub-lineage containing concurrent spike protein mutations S:T51I, S:H146Y, S:S446N, and S:T678I, requires vigilant monitoring!
+
 
 Among the recently designated viral strains, there may exist lineages with potential threats as follows:PQ.2.3，MC.46.1
 
