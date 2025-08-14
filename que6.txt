@@ -9,6 +9,8 @@ XFG.1           [S:R445P，S:E96D]
 XFG.2.1         [S:A1070V]
 XFG.2.2         [S:P1263L]
 XFG.3.1         [S:D1084G]
+/* QK is XFG.3.1.2 alias*/
+QK.1            [S:D1084G，S:Q218H]
 XFG.3.3         [S:S680F]
 XFG.3.4.1       [S:S680P]
 /*QF is XFG.3.4.1 alias!*/
