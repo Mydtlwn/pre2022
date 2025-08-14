@@ -15,6 +15,8 @@ XFG.3.3         [S:S680F]
 XFG.3.4.1       [S:S680P]
 /*QF is XFG.3.4.1 alias!*/
 QF.1            [S:S680P，S:L244S]
+XFG.3.5.1       [S:A688V]
+XFG.5.3         [S:S254F]
 XFG.6           [S:L441I]
 XFG.9.1         [S:A845S]
 XFG.13          [S:A67V]
