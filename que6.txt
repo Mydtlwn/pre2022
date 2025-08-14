@@ -28,6 +28,7 @@ XFG.18          [S:L922F]
 XFG.18.1        [S:L335F，S:L922F]
 XFG.19          [S:T286I]
 XFG.22          [S:A958S]
+XFG.23.1        [S:L335F]
 
 
 
