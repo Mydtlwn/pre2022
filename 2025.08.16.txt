@@ -35,7 +35,7 @@ The PQ.4.1 strain also represents a descendant lineage of NB.1.8.1, currently ex
 
 
 
-
+The PY.1.3 lineage and XFG family both exhibit multiple sublineages with convergent S:W452R mutations. Notably, S:W452R is essentially an alternative designation for the S:L452R mutation. Given that BA.2.86 originally carried S:L452W, the re-emergence of S:W452R after approximately two years constitutes concerning developments in viral evolution.
 
 
 
