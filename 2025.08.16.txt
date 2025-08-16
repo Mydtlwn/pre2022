@@ -26,5 +26,5 @@ The PQ.2.1 strain represents a descendant lineage of NB.1.8.1, characterized by 
 
 
 
-
+The PQ.2.2 strain, like its counterpart PQ.2.1, represents a descendant lineage of NB.1.8.1 and harbors eight novel spike mutations including S:T22N, S:F59S, S:G184S, S:A435S, S:F456L, S:K478I, S:Q493E, and S:H1088R. Notably, the S:H1088R mutation has been implicated in driving the strain's proliferation. It should be emphasized that multiple sublineages within PQ.2.2 have already undergone further mutations,suggesting that emerging descendants of this lineage may warrant specific attention and potential designation in viral surveillance systems.
 
