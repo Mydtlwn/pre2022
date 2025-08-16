@@ -21,3 +21,10 @@ The XFG.5.2 strain also demonstrates considerable potential, particularly as som
 The XFG.3.1 strain represents an early-branching lineage of the XFG virus with demonstrated growth potential, and notably, novel recombinant variants derived from this lineage have shown exceptional characteristics. XFG.3.1 harbors twelve spike mutations including S:T22N, S:S31P, S:K182R, S:R190S, S:R346T, S:K444R, S:H445R, S:F456L, S:N487D, S:Q493E, S:T572I, and S:D1084G.Key evolutionary trajectories appear to involve subsequent variants of the XFG.3.1.2 sublineage, suggesting that these emerging variants may warrant formal designation and enhanced surveillance.
 
 
+
+The PQ.2.1 strain represents a descendant lineage of NB.1.8.1, characterized by the novel S:I478T mutation that has emerged across multiple sublineages. As one of the two major evolutionary branches within the PQ.2 family, this variant harbors seven spike mutations including S:T22N, S:F59S, S:G184S, S:A435S, S:F456L, S:I478T, and S:Q493E. The widespread appearance of S:I478T across diverse branches underscores its potential evolutionary significance within the PQ.2 lineage.
+
+
+
+
+
