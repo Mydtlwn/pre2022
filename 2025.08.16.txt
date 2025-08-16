@@ -10,3 +10,14 @@
 
 Some excellent and potentially significant viral strains.
 XFG.3.4.1: The XFG.3.4.1 strain is a descendant lineage of the XFG strain, featuring a total of twelve key spike mutations including S:T22N, S:S31P, S:K182N, S:R190S, S:R346T, S:K444R, S:H445R, S:F456L, S:N487D, S:Q493E, S:T572I, and S:S680P.Among these, two major convergent mutations - S:S680X and S:K679X - have emerged in both the XFG family and the NB.1.8.1 family, potentially heralding the advent of the next major era of convergent mutations. These mutations are not only widely prevalent in European/American regions but also show extensive distribution in Asian regions, warranting vigilance.
+
+
+
+
+The XFG.5.2 strain also demonstrates considerable potential, particularly as some sublineages carry mutations analogous to those in the XFG.3.4.1 strain, predominantly clustered around sites 679-680. Several other sublineages within this lineage also exhibit significant potential, with multiple emerging branches collectively driving the sustained growth of the XFG.5.2 strain and even stimulating its mutation potential. This suggests that heightened vigilance toward this strain may be warranted.
+
+
+
+
+
+
