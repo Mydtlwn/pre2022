@@ -8,6 +8,7 @@
 XFG.1           [S:R445P，S:E96D]
 XFG.2.1         [S:A1070V]
 XFG.2.2         [S:P1263L]
+XFG.2.3.1       [S:N417T]
 XFG.3.1         [S:D1084G]
 /* QK is XFG.3.1.2 alias*/
 QK.1            [S:D1084G，S:Q218H]
@@ -15,6 +16,7 @@ XFG.3.3         [S:S680F]
 XFG.3.4.1       [S:S680P]
 /*QF is XFG.3.4.1 alias!*/
 QF.1            [S:S680P，S:L244S]
+XFG.3.4.4       [S:V367I]
 XFG.3.5.1       [S:A688V]
 XFG.5.3         [S:S254F]
 XFG.6           [S:L441I]
