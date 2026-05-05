@@ -8,4 +8,5 @@ RD.1.1               [S:H681R，S:P1162R，
 BA.3.2.2             [S:K356T，S:A575S]
 RS.1.1.1             [S:K356T，S:A575S，S:A123V]
 RS.1.5               [S:K356T，S:T19I，S:A575S]
+RS.1.5               [S:K356T，S:T19I，S:A575S]
 
