@@ -34,3 +34,7 @@ Likewise, the RK.1 strain within the PQ.17 family also possesses the S:D420N mut
 Currently, the RK.1 and PQ.17.11.3 strains are likely the two most promising branches within the PQ.17 family!
 The RK.1 strain carries mutations including S:T22N, S:F59S, S:G184S, S:D420N, S:A435S, S:H445P, S:F456L, S:I478T, and S:Q493E.
 In contrast, the PQ.17.11.3 strain features the S:T22N, S:F59S, S:G184S, S:F186L, S:A435S, S:F456L, S:I478T, S:Q493E, and S:T572I mutations.
+
+
+
+In addition to the strains mentioned above, the PQ.4.10.1 strain also deserves attention. It has acquired an extra S:V1264L mutation on top of the NB.1.8.1 strain. Furthermore, its descendant, the RY.1.1 strain, gained the S:I478T mutation on this basis. The RY.1.1 strain carries the following mutations: S:T22N, S:F59S, S:G184S, S:A435S, S:F456L, S:I478T, S:Q493E, and S:V1264L! While RY.1.1 might not necessarily challenge other strains within the NB.1.8.1 family, the addition of two key mutations—S:I478T and S:V1264L—still means it warrants our attention!
