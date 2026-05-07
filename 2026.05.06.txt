@@ -16,3 +16,6 @@ Let’s start with the NB.1.8.1 lineage, which circulated in Asia and several ot
 
 
 The PQ.17, PQ.2.1.11, and PQ.16.1.1 strains uniformly possess a core spike protein mutation, S:I478T. Furthermore, the RK.1 branch of the PQ.17 lineage and the PQ.16.1.1 strain both harbor a newly identified spike protein mutation, S:D420N. The prevalence of this mutation among other branches within specific regions is on par with that of the S:I478T and S:T572I mutations.
+
+
+The NB.1.8.1 strain harbors a series of mutations, namely S:T22N, S:F59S, S:G184S, S:A435S, S:F456L, S:K478I, and S:Q493E!
