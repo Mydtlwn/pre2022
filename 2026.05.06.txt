@@ -22,3 +22,7 @@ The NB.1.8.1 strain harbors a series of mutations, namely S:T22N, S:F59S, S:G184
 
 
 The PQ.2.1.11 strain harbors a series of mutations, namely S:T22N, S:F59S, S:G184S, S:A435S, S:F456L, S:I478T, S:Q493E, S:S680P, and S:H954Y!
+
+
+
+The PQ.2.8.1 strain acquired the S:H445P mutation on the basis of the NB.1.8.1 lineage. Additionally, the RC.1 strain, which demonstrates notable fitness and greater transmission potential within the PQ.2.8.1 family, has also acquired the S:I478T mutation. In summary, the RC.1 strain harbors the mutations S:T22N, S:F59S, S:G184S, S:A435S, S:H445P, S:F456L, S:I478T, and S:Q493E. It is currently circulating in nations and regions including Japan!
