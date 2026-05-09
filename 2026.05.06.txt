@@ -64,3 +64,7 @@ In addition to RV.1, the XFG.6.3.3 strain has also acquired the S:S446N mutation
 
 
 In addition to the RV.1 and SW.1 strains, there are other strains with some potential, though likely without causing a major impact, such as XFG.10.4.1. The XFG.10.4.1 strain has acquired additional S:A435S and S:R445P mutations; in other words, it contains S:T22N, S:S31P, S:K182R, S:R190S, S:R346T, S:A435S, S:K444R, S:R445P, S:F456L, S:N487D, S:Q493E, and S:T572I. Although this strain may not necessarily have the capacity to take off, it does, after all, possess two new spike protein mutations!
+
+
+
+The RF.5 and RW.1.1 strains are showing rapid growth in certain countries and regions. RW.1.1 is a sub-lineage of the XFJ.3.1.2 family, but its mutation profile is very similar to that of RF.5. This is precisely why RW.1.1 has also been placed on the watch list!
