@@ -73,4 +73,9 @@ The RF.5 and RW.1.1 strains are showing rapid growth in certain countries and re
 The RF.5 strain is a sub-lineage of PY.1.1.1, which itself belongs to the LF.7.9 lineage! PY.1.1.1 showed rapid growth in Asia early on, but was confined to only a few countries and regions. Now, however, its descendant, RF.5, is making a resurgence. The PY.1.1.1 strain carries mutations including S:T22N, S:S31P, S:K182R, S:R190S, S:R346T, S:A435S, S:L441R, S:K444R, S:H445P, S:F456L, S:A475V, and S:K679R!
 
 
+
+The RW.1.1 strain also holds a notable proportion. Although it does not belong to the PY.1.1.1 lineage, the XFJ lineage (to which RW.1.1 belongs) shares significant mutational similarity with PY.1.1.1. These similarities lead to frequent comparisons with the PY.1.1.1 lineage when these strains are discussed. RW.1.1 is a descendant of XFJ.3.1.2. Compared to the broader XFJ lineage, RW.1.1 has acquired extra mutations: S:I19V, S:A435S, S:K478T, and S:V1264L.
+
+
+
 The RF.5 strain carries mutations including S:T22N, S:S31P, S:M153I, S:K182R, S:R190S, S:R346T, S:A435S, S:L441R, S:K444R, S:H445P, S:F456L, S:A475V, S:K478T, and S:K679R!
