@@ -79,3 +79,6 @@ The RW.1.1 strain also holds a notable proportion. Although it does not belong t
 
 
 The RF.5 strain carries mutations including S:T22N, S:S31P, S:M153I, S:K182R, S:R190S, S:R346T, S:A435S, S:L441R, S:K444R, S:H445P, S:F456L, S:A475V, S:K478T, and S:K679R!
+
+
+lineages of BA.3.2.2, which carries the additional S:K356T and S:A575S mutations compared to BA.3.2. Furthermore, a strain with even more spike mutations, SQ.1.1, has appeared within RE.2.2. SQ.1.1 has acquired extra S:K444N and S:D446N mutations. However, despite possessing these new spike mutations, four weeks have passed and SQ.1.1 has yet to experience a true surge!
