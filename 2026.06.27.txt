@@ -1,1 +1,5 @@
+
+
+
+
 Recently, a new potential ‘dark horse’ has emerged: the TA.1 lineage, a descendant of XFG.14.8. More precisely, the dark horse is a sub-branch of TA.1, which has acquired the S:S446N, S:N532S, S:Q613H, S:V642G, and S:K679R mutations on top of the XFG.14.8 background. Relative to the JN.1 strain, this lineage possesses 18 spike protein mutations,  a number comparable to another previously noted branch of XFG.1.1. Notably, the S:S446N mutation has appeared across various branches of the XFG family; the S:Q613H mutation was previously seen in descendant lineages of CH.1.1; and the S:K679R mutation previously converged in LP.8.1, and has also been acquired convergently in existing XFG strains.
