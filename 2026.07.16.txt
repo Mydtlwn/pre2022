@@ -11,3 +11,7 @@ PQ.16.1.1 continues to expand in Asia. Notably, the growth rate of SV.1 has sudd
 
 
 The recently designated SV.1.2 lineage, carrying the S:K679R mutation, could also be one of the challengers.
+
+
+
+The TA.1 lineage continues to grow rapidly in regions or countries with low sequencing coverage, and currently warrants continued monitoring.
