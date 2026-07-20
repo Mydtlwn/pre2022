@@ -15,3 +15,7 @@ The recently designated SV.1.2 lineage, carrying the S:K679R mutation, could als
 
 
 The TA.1 lineage continues to grow rapidly in regions or countries with low sequencing coverage, and currently warrants continued monitoring.
+
+
+In the United States, RW.1.1, a descendant branch of the XFJ lineage, continues to grow. The S:V1264L mutation is also appearing convergently in the RF.5 lineage, and this mutation can also be observed in some recent branches of XFG
+
