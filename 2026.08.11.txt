@@ -3,3 +3,6 @@
 
 
 Some key strains at the current stage include PJ.2.1, RF.5.3.1, RF.5.4, PQ.16.1.1, RK.1, and SW.2.1, among others.
+
+
+The PJ.2.1 strain accounts for a relatively high proportion in the Americas. It is a descendant of the MC.10.1.7 strain. Compared to the JN.1 strain, it differs by 21 spike protein mutations. Similar to the descendants of the TA.1 strain, it carries a large number of spike protein mutations.
