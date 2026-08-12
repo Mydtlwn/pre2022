@@ -19,3 +19,10 @@ S:R346T mutation: This mutation appears in the BF.7 and BQ.1.1 strains, as well 
 S:H445P mutation: This mutation has undergone convergence multiple times in the LF.7 and NB.1.8.1 families.
 
 S:S446T mutation: Although this mutation has not shown any threat in the current lineages, a similar mutation, S:S446N, has appeared in the XFG and PQ.16.1.1 families. Currently, some regions are still monitoring sub-lineages within the SV.2.1 strain that carry the S:S446N mutation.
+
+
+S:S621P mutation: The S:S621P mutation is a reversion. In the BA.2.86 strain, this site was the S:P621S mutation. The effect of this mutation cannot be determined yet, but currently, carrying reversion mutations—such as the S:I478T mutation—has conferred significant growth advantages.
+S:A623S mutation: This is a relatively key mutation, although it is uncertain what benefit it provides.
+S:R190S mutation: The S:R190S mutation is found in both the XFG and LF.7 families, and it has played a key role in the spread of the strains on many occasions.
+S:T22N mutation: Almost all currently circulating strains, with the exception of the BA.3.2 family, possess this mutation.
+S:Q675K mutation: This mutation is also a relatively important one, though it did not have a particularly significant impact previously.
