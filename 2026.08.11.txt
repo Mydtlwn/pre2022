@@ -26,3 +26,6 @@ S:A623S mutation: This is a relatively key mutation, although it is uncertain wh
 S:R190S mutation: The S:R190S mutation is found in both the XFG and LF.7 families, and it has played a key role in the spread of the strains on many occasions.
 S:T22N mutation: Almost all currently circulating strains, with the exception of the BA.3.2 family, possess this mutation.
 S:Q675K mutation: This mutation is also a relatively important one, though it did not have a particularly significant impact previously.
+
+
+In India, the RF.5.3.1 and RF.5.4 strains are predominant, but in certain regions, another descendant of the RF.5.3 strain is also noteworthy. This strain carries the S:D420N and S:N417T mutations, which show convergence with the PQ.16.1.1 strain, as well as an S:T572I mutation, which also shows convergence with the NB.1.8.1 family. It remains to be seen whether a PQ.16.1.1 sub-lineage carrying the S:T572I mutation will stand out from the multitude of branches in the future.
