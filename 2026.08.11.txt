@@ -9,3 +9,8 @@ The PJ.2.1 strain accounts for a relatively high proportion in the Americas. It 
 
 
 Some key spike protein mutations in the PJ.2.1 strain include: The S:T547K mutation, which appears to be one of the defining mutations of the BA.1 strain and shows convergence in later strains such as the JN.1 and XFG families, although no clear benefit is currently observed; The S:N439K mutation, which showed convergence in early SARS-CoV-2 strains but now rarely occurs, though mutations like S:N417T have re-emerged; And the S:W452K mutation, which seems to be a very rare mutation, but some mutations among the convergent ones were also rare in the past.
+
+
+S:V1264L mutation: This mutation has shown convergence in the XFG, NB.1.8.1, XFJ, and RF.5 families, making it one of the current hotspots for convergent mutations.
+
+S:R346T mutation: This mutation appears in the BF.7 and BQ.1.1 strains, as well as in the XFG and LF.7 families; its convergent evolutionary characteristics have demonstrated growth advantages over multiple years.
