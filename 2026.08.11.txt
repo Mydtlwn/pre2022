@@ -6,3 +6,6 @@ Some key strains at the current stage include PJ.2.1, RF.5.3.1, RF.5.4, PQ.16.1.
 
 
 The PJ.2.1 strain accounts for a relatively high proportion in the Americas. It is a descendant of the MC.10.1.7 strain. Compared to the JN.1 strain, it differs by 21 spike protein mutations. Similar to the descendants of the TA.1 strain, it carries a large number of spike protein mutations.
+
+
+Some key spike protein mutations in the PJ.2.1 strain include: The S:T547K mutation, which appears to be one of the defining mutations of the BA.1 strain and shows convergence in later strains such as the JN.1 and XFG families, although no clear benefit is currently observed; The S:N439K mutation, which showed convergence in early SARS-CoV-2 strains but now rarely occurs, though mutations like S:N417T have re-emerged; And the S:W452K mutation, which seems to be a very rare mutation, but some mutations among the convergent ones were also rare in the past.
