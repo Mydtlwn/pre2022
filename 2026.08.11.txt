@@ -29,3 +29,6 @@ S:Q675K mutation: This mutation is also a relatively important one, though it di
 
 
 In India, the RF.5.3.1 and RF.5.4 strains are predominant, but in certain regions, another descendant of the RF.5.3 strain is also noteworthy. This strain carries the S:D420N and S:N417T mutations, which show convergence with the PQ.16.1.1 strain, as well as an S:T572I mutation, which also shows convergence with the NB.1.8.1 family. It remains to be seen whether a PQ.16.1.1 sub-lineage carrying the S:T572I mutation will stand out from the multitude of branches in the future.
+
+
+In Mexico, the SW.2.1 strain of the XFG.6 family is spreading in the region. The advantage of the SW.2.1 strain is primarily attributed to the S:L441I, S:S446N, S:K529T, and S:N641K mutations. Among these, the S:S446N and S:N641K mutations are key convergent mutations within the XFG family, and these two convergent mutations have also been observed multiple times in the PQ.16.1.1 family.
