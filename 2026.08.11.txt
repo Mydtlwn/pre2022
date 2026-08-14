@@ -32,3 +32,8 @@ In India, the RF.5.3.1 and RF.5.4 strains are predominant, but in certain region
 
 
 In Mexico, the SW.2.1 strain of the XFG.6 family is spreading in the region. The advantage of the SW.2.1 strain is primarily attributed to the S:L441I, S:S446N, S:K529T, and S:N641K mutations. Among these, the S:S446N and S:N641K mutations are key convergent mutations within the XFG family, and these two convergent mutations have also been observed multiple times in the PQ.16.1.1 family.
+
+In China, the PQ.16.1.1 strain continues to maintain its dominant position, with its primary sub-lineage, SV.2.1, being the main driver. However, SV.1.2 and other unnamed branches of SV.1 are also challenging SV.2.1. Currently, it is at least certain that SV.2.1, SV.2.2, SV.1.2, and SV.1.2.1 are all growing steadily.
+
+
+Within the NB.1.8.1 family, a sub-lineage of the RK.1.2 strain carrying the S:S446N mutation is noteworthy. In the PQ.16.1.1 family, relatively convergent mutations include S:N439K, S:S446N, S:N641K, S:T572I, and S:V1264L; there are even branches possessing two or three mutations simultaneously, but none seem capable of challenging SV.2.1’s status at present. In fact, SV.2.1 itself has also developed some advantageous branches.
