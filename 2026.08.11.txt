@@ -37,3 +37,7 @@ In China, the PQ.16.1.1 strain continues to maintain its dominant position, with
 
 
 Within the NB.1.8.1 family, a sub-lineage of the RK.1.2 strain carrying the S:S446N mutation is noteworthy. In the PQ.16.1.1 family, relatively convergent mutations include S:N439K, S:S446N, S:N641K, S:T572I, and S:V1264L; there are even branches possessing two or three mutations simultaneously, but none seem capable of challenging SV.2.1’s status at present. In fact, SV.2.1 itself has also developed some advantageous branches.
+
+
+
+Within the BA.3.2.2 family, there exists a sub-lineage carrying the S:M153I, S:K300R, S:A445S, and S:C1247F mutations. If this strain continues to spread and accumulate new spike protein mutations, increased vigilance will be required.
