@@ -41,3 +41,7 @@ Within the NB.1.8.1 family, a sub-lineage of the RK.1.2 strain carrying the S:S4
 
 
 Within the BA.3.2.2 family, there exists a sub-lineage carrying the S:M153I, S:K300R, S:A445S, and S:C1247F mutations. If this strain continues to spread and accumulate new spike protein mutations, increased vigilance will be required.
+
+
+
+At the current stage, some mutations that should be closely monitored include S:N417T, S:D420N, S:N439K, S:S446N, S:Y453F, S:K484R, S:T572I, S:N641K, S:V642G, and S:V1264L.
