@@ -27,3 +27,6 @@ Within the NB.1.8.1 family, apart from the RK.1 family, the PQ.2.8.1 family and 
 In the PQ.16.1.1 family, both the SV.1.4.1 strain and the SV.5 strain are worth close attention, as they both include strains carrying the S:H445P mutation.
 
 In addition, there is the SV.2.6.1 strain, which carries the S:R346K mutation compared with previous strains.
+
+
+A new convergent mutation, S:P793S, has emerged in both the XFZ.4.1.2 strain and the SV.2.7 strain. It should be noted that convergent mutations rarely occur in this region, but this particular mutation is extremely unusual and warrants close attention.
