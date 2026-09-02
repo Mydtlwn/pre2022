@@ -18,3 +18,7 @@ Within the RK.1 family, both the RK.1.2.1 and RK.1.3.1 strains are highly promis
 branches of the SW.2.1 strain. Compared with the XFG family, the SW.2.1 strain also carries the S:L441I, S:S446N, S:K529T, and S:N641K mutations. The reason why the SW.2.1 strain has been able to spread rapidly in the United States and Mexico lies in the combination of the S:S446N and S:N641K mutations.
 
 In addition to the aforementioned strains, within the RK.1 family, the RK.1.5 strain carrying the ORF3a:Q57H mutation is also developing rapidly.
+
+
+
+Within the NB.1.8.1 family, apart from the RK.1 family, the PQ.2.8.1 family and the PQ.16.1.1 family show the greatest potential. In the PQ.2.8.1 family, the RC.1.2 strain and the RC.1.4 strain carry the S:A623S and S:D253G mutations, respectively. The S:A623S mutation is also present in the PJ.2.1 strain, while the S:D253G mutation is closely associated with both the PQ.16.1.1 family and the XBB.2 family.
