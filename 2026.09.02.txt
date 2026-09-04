@@ -15,11 +15,9 @@
 在RK.1家族中，RK.1.2.1和RK.1.3.1菌株都是非常有前途的分支。RK.1.2.1菌株携带S:S446N突变，而RK.1.3.1菌株携带S:A1174V突变。
 
 
-SW.2.1菌株的分支。与XFG家族相比，SW.2.1菌株还携带S:L441I、S:S446N、S:K529T和S:N641K突变。SW.2.1毒株之所以能够在美国和墨西哥迅速传播，在于S:S446N和S:N641K突变的结合。
+branches of the SW.2.1 strain. Compared with the XFG family, the SW.2.1 strain also carries the S:L441I, S:S446N, S:K529T, and S:N641K mutations. The reason why the SW.2.1 strain has been able to spread rapidly in the United States and Mexico lies in the combination of the S:S446N and S:N641K mutations.
 
-除了上述菌株，在RK.1家族中，携带ORF3a:Q57H突变的RK.1.5菌株也在快速发展。
-
-
+In addition to the aforementioned strains, within the RK.1 family, the RK.1.5 strain carrying the ORF3a:Q57H mutation is also developing rapidly.
 
 Within the NB.1.8.1 family, apart from the RK.1 family, the PQ.2.8.1 family and the PQ.16.1.1 family show the greatest potential. In the PQ.2.8.1 family, the RC.1.2 strain and the RC.1.4 strain carry the S:A623S and S:D253G mutations, respectively. The S:A623S mutation is also present in the PJ.2.1 strain, while the S:D253G mutation is closely associated with both the PQ.16.1.1 family and the XBB.2 family.
 
