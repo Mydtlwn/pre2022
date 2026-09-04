@@ -3,37 +3,40 @@
 
 
 
-Within the XFG.1.1 family, the newly designated XFG.1.1.8, XFG.1.1.10, and XFG.1.1.13 strains are quite interesting. Notably, the XFG.1.1.13 strain is converging toward the S:L441R mutation, one of the defining mutations of the LF.7.9 family, and there are even sub-lineages with additional mutations still awaiting designation.
+在XFG.1.1家族中，新命名的XFG.1.1.8、XFG.1.1.10和XFG.1.1.13菌株相当有趣。值得注意的是，XFG.1.1.13菌株正在向S:L441R突变集中，这是LF.7.9家族的决定性突变之一，甚至还有具有额外突变的亚系仍在等待命名。
 
-The descendant of the XFG.1.1.13 strain carrying the S:L441R mutation has been designated as the TL.1 strain.
-
-
-Within the XFG.23.1.3 family, in addition to the RV.1.5 strain, the RV.2.1.1 strain and its descendant, the TK.1 strain, are highly promising.
+携带S:L441R突变的XFG.1.1.13菌株的后代被命名为TL.1菌株。
 
 
-
-Within the RK.1 family, both the RK.1.2.1 and RK.1.3.1 strains are highly promising branches. The RK.1.2.1 strain carries the S:S446N mutation, while the RK.1.3.1 strain carries the S:A1174V mutation.
-
-
-branches of the SW.2.1 strain. Compared with the XFG family, the SW.2.1 strain also carries the S:L441I, S:S446N, S:K529T, and S:N641K mutations. The reason why the SW.2.1 strain has been able to spread rapidly in the United States and Mexico lies in the combination of the S:S446N and S:N641K mutations.
-
-In addition to the aforementioned strains, within the RK.1 family, the RK.1.5 strain carrying the ORF3a:Q57H mutation is also developing rapidly.
+在XFG.23.1.3家族中，除了RV.1.5菌株之外，RV.2.1.1菌株及其后代TK.1菌株是非常有前途的。
 
 
 
-Within the NB.1.8.1 family, apart from the RK.1 family, the PQ.2.8.1 family and the PQ.16.1.1 family show the greatest potential. In the PQ.2.8.1 family, the RC.1.2 strain and the RC.1.4 strain carry the S:A623S and S:D253G mutations, respectively. The S:A623S mutation is also present in the PJ.2.1 strain, while the S:D253G mutation is closely associated with both the PQ.16.1.1 family and the XBB.2 family.
+在RK.1家族中，RK.1.2.1和RK.1.3.1菌株都是非常有前途的分支。RK.1.2.1菌株携带S:S446N突变，而RK.1.3.1菌株携带S:A1174V突变。
 
 
-In the PQ.16.1.1 family, both the SV.1.4.1 strain and the SV.5 strain are worth close attention, as they both include strains carrying the S:H445P mutation.
+SW.2.1菌株的分支。与XFG家族相比，SW.2.1菌株还携带S:L441I、S:S446N、S:K529T和S:N641K突变。SW.2.1毒株之所以能够在美国和墨西哥迅速传播，在于S:S446N和S:N641K突变的结合。
 
-In addition, there is the SV.2.6.1 strain, which carries the S:R346K mutation compared with previous strains.
-
-
-A new convergent mutation, S:P793S, has emerged in both the XFZ.4.1.2 strain and the SV.2.7 strain. It should be noted that convergent mutations rarely occur in this region, but this particular mutation is extremely unusual and warrants close attention.
-
-
-Within the RF.5 family, the three extremely important branches are the RF.5.3.1, RF.5.3.2, and RF.5.4.1 strains. Among them, the RF.5.3.1 strain carries the S:V1264L mutation, while the RF.5.4.1 strain carries the N:R204Q mutation. These mutations determine their ability to compete with other strains.
+除了上述菌株，在RK.1家族中，携带ORF3a:Q57H突变的RK.1.5菌株也在快速发展。
 
 
 
-A key and important new recombinant strain, XHE, is an extremely significant and promising branch.
+在NB.1.8.1家族中，除RK.1家族外，PQ.2.8.1家族和PQ.16.1.1家族显示出最大的潜力。在PQ.2.8.1家族中，RC.1.2菌株和RC.1.4菌株分别携带S:A623S和S:D253G突变。S:A623S突变也存在于PJ.2.1菌株中，而S:D253G突变与PQ.16.1.1家族和XBB.2家族密切相关。
+
+
+在PQ.16.1.1家族中，SV.1.4.1菌株和SV.5菌株都值得密切关注，因为它们都包括携带S:H445P突变的菌株。
+
+此外，还有SV.2.6.1菌株，与以前的菌株相比，它携带S:R346K突变。
+
+
+在XFZ.4.1.2株和SV.2.7株中都出现了一种新的会聚突变S:P793S。应该注意的是，聚合突变很少发生在这个区域，但这个特殊的突变是非常不寻常的，值得密切关注。
+
+
+在RF.5家族中，三个极其重要的分支是RF.5.3.1、RF.5.3.2和RF.5.4.1菌株。其中，RF.5.3.1株携带S:V1264L突变，RF.5.4.1株携带N:R204Q突变。这些突变决定了它们与其他菌株竞争的能力。
+
+
+
+一个关键和重要的新重组菌株XHE是一个极其重要和有前途的分支。
+
+
+Under the current circumstances, mutations that may be undergoing convergent evolution include S:N417T, S:D420N, S:N439K, S:L441R, S:S446N, S:T572I, S:N641K, S:A1174V, S:V1264L, ORF3a:K21N, and ORF3a:Q57H.
