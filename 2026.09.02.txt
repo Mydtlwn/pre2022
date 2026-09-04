@@ -12,8 +12,7 @@
 
 
 
-在RK.1家族中，RK.1.2.1和RK.1.3.1菌株都是非常有前途的分支。RK.1.2.1菌株携带S:S446N突变，而RK.1.3.1菌株携带S:A1174V突变。
-
+Within the RK.1 family, both the RK.1.2.1 and RK.1.3.1 strains are highly promising branches. The RK.1.2.1 strain carries the S:S446N mutation, while the RK.1.3.1 strain carries the S:A1174V mutation.
 
 branches of the SW.2.1 strain. Compared with the XFG family, the SW.2.1 strain also carries the S:L441I, S:S446N, S:K529T, and S:N641K mutations. The reason why the SW.2.1 strain has been able to spread rapidly in the United States and Mexico lies in the combination of the S:S446N and S:N641K mutations.
 
