@@ -29,8 +29,8 @@ SW.2.1菌株的分支。与XFG家族相比，SW.2.1菌株还携带S:L441I、S:S4
 此外，还有SV.2.6.1菌株，与以前的菌株相比，它携带S:R346K突变。
 
 
-在XFZ.4.1.2株和SV.2.7株中都出现了一种新的会聚突变S:P793S。应该注意的是，聚合突变很少发生在这个区域，但这个特殊的突变是非常不寻常的，值得密切关注。
 
+A new convergent mutation, S:P793S, has emerged in both the XFZ.4.1.2 strain and the SV.2.7 strain. It should be noted that convergent mutations rarely occur in this region, but this particular mutation is extremely unusual and warrants close attention.
 
 
 Within the RF.5 family, the three extremely important branches are the RF.5.3.1, RF.5.3.2, and RF.5.4.1 strains. Among them, the RF.5.3.1 strain carries the S:V1264L mutation, while the RF.5.4.1 strain carries the N:R204Q mutation. These mutations determine their ability to compete with other strains.
