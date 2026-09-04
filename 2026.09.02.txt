@@ -24,11 +24,11 @@ SW.2.1菌株的分支。与XFG家族相比，SW.2.1菌株还携带S:L441I、S:S4
 在NB.1.8.1家族中，除RK.1家族外，PQ.2.8.1家族和PQ.16.1.1家族显示出最大的潜力。在PQ.2.8.1家族中，RC.1.2菌株和RC.1.4菌株分别携带S:A623S和S:D253G突变。S:A623S突变也存在于PJ.2.1菌株中，而S:D253G突变与PQ.16.1.1家族和XBB.2家族密切相关。
 
 
-在PQ.16.1.1家族中，SV.1.4.1菌株和SV.5菌株都值得密切关注，因为它们都包括携带S:H445P突变的菌株。
-
-此外，还有SV.2.6.1菌株，与以前的菌株相比，它携带S:R346K突变。
 
 
+In the PQ.16.1.1 family, both the SV.1.4.1 strain and the SV.5 strain are worth close attention, as they both include strains carrying the S:H445P mutation.
+
+In addition, there is the SV.2.6.1 strain, which carries the S:R346K mutation compared with previous strains.
 
 A new convergent mutation, S:P793S, has emerged in both the XFZ.4.1.2 strain and the SV.2.7 strain. It should be noted that convergent mutations rarely occur in this region, but this particular mutation is extremely unusual and warrants close attention.
 
