@@ -30,3 +30,6 @@ In addition, there is the SV.2.6.1 strain, which carries the S:R346K mutation co
 
 
 A new convergent mutation, S:P793S, has emerged in both the XFZ.4.1.2 strain and the SV.2.7 strain. It should be noted that convergent mutations rarely occur in this region, but this particular mutation is extremely unusual and warrants close attention.
+
+
+Within the RF.5 family, the three extremely important branches are the RF.5.3.1, RF.5.3.2, and RF.5.4.1 strains. Among them, the RF.5.3.1 strain carries the S:V1264L mutation, while the RF.5.4.1 strain carries the N:R204Q mutation. These mutations determine their ability to compete with other strains.
