@@ -33,3 +33,7 @@ A new convergent mutation, S:P793S, has emerged in both the XFZ.4.1.2 strain and
 
 
 Within the RF.5 family, the three extremely important branches are the RF.5.3.1, RF.5.3.2, and RF.5.4.1 strains. Among them, the RF.5.3.1 strain carries the S:V1264L mutation, while the RF.5.4.1 strain carries the N:R204Q mutation. These mutations determine their ability to compete with other strains.
+
+
+
+A key and important new recombinant strain, XHE, is an extremely significant and promising branch.
