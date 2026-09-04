@@ -21,7 +21,7 @@ SW.2.1菌株的分支。与XFG家族相比，SW.2.1菌株还携带S:L441I、S:S4
 
 
 
-在NB.1.8.1家族中，除RK.1家族外，PQ.2.8.1家族和PQ.16.1.1家族显示出最大的潜力。在PQ.2.8.1家族中，RC.1.2菌株和RC.1.4菌株分别携带S:A623S和S:D253G突变。S:A623S突变也存在于PJ.2.1菌株中，而S:D253G突变与PQ.16.1.1家族和XBB.2家族密切相关。
+Within the NB.1.8.1 family, apart from the RK.1 family, the PQ.2.8.1 family and the PQ.16.1.1 family show the greatest potential. In the PQ.2.8.1 family, the RC.1.2 strain and the RC.1.4 strain carry the S:A623S and S:D253G mutations, respectively. The S:A623S mutation is also present in the PJ.2.1 strain, while the S:D253G mutation is closely associated with both the PQ.16.1.1 family and the XBB.2 family.
 
 
 
